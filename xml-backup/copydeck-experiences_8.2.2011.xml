@@ -1,0 +1,1299 @@
+<?xml version="1.0" standalone='yes' ?>
+	<pages>	
+		<experiences>
+			<secondaryPages>
+				<page section="0" secondaryNav="true" id="0" position="1" sitemapId="2.0"  sitemapTitle="Experiences">
+					<title>Experiences Overview</title>
+					<meta>
+						<slug>experiences-overview</slug>
+						<pageTitle>Travaasa: Providing a Wide Range of Experiences</pageTitle>
+						<description>Enrich your mind, stretch your imagination, feed your psyche with different experiences.</description>
+						<keywords>Travaasa, experiences, spa, offerings</keywords>
+					</meta>
+					<h1>Travaasa Experiences</h1>
+					<copy><![CDATA[<p>At Travaasa, we provide a wide range of experiences to enrich your mind, stretch your imagination, feed your psyche, move your body and spa-ify your visage. We call our diverse offerings "Travaasas."</p>]]></copy>
+					<thumbImg>images/site/travaasa-experiences-t.png</thumbImg>
+					<mainImg>images/site/travaasa-experiences.png</mainImg>
+					<imageCaption></imageCaption>
+					<Storybook></Storybook>
+					<pdf_downloads>
+						<pdf>
+							<title></title>
+							<url></url>
+						</pdf>
+					</pdf_downloads>
+				</page>
+				<page section="0" secondaryNav="false" id="1" position="2" sitemapId="2.0.1">
+					<title>Discover Your Travaasa</title>
+					<meta>
+						<slug>discover-your-travaasas</slug>
+						<pageTitle>Discover Your Travaasas</pageTitle>
+						<description>Travaasa guests receive a storybook of "travaasas" upon check-in.</description>
+						<keywords>discover, travaasas, storybooks</keywords>
+					</meta>
+					<h1>Discover Your Travaasas</h1>
+					<copy><![CDATA[<p>Find a complete listing of Travaasas available for the day and week in your Storybook, which you'll receive upon check-in.</p>]]></copy>
+					<thumbImg>images/site/discover-travaasas-t.png</thumbImg>
+					<mainImg>images/site/discover-travaasas.png</mainImg>
+					<imageCaption>Travaasa is at your fingertips with our Storybook.</imageCaption>
+					<Storybook></Storybook>
+					<pdf_downloads>
+						<pdf>
+							<title></title>
+							<url></url>
+						</pdf>
+					</pdf_downloads>
+				</page>
+				<page section="0" secondaryNav="false" id="2" position="3" sitemapId="2.0.2">
+					<title>Learn Our Language</title>
+					<meta>
+						<slug>learn-our-language</slug>
+						<pageTitle>Learn Our Language</pageTitle>
+						<description>Travaasa language is the intimate grammar of discovery, experience and a celebration of local culture.</description>
+						<keywords>travaasa, learn, languages, travel, discovery, experiences, culture</keywords>
+					</meta>
+					<h1>Learn Our Language</h1>
+					<copy><![CDATA[<p>The language of Travaasa starts with our name. Travaasa combines two words&mdash;the English word, travel, and a Sanskrit word meaning memorable journey. Just like our name brings together different worlds, the Travaasa experience opens you up to different sights, sounds and thoughts. The Travaasa language is the intimate grammar of discovery, experience and a celebration of local culture. At Travaasa you'll uncover where you want to journey. And what you want to find on your way. Become fluent in Travaasa and you'll see what travel is really meant to be.</p>]]>
+					</copy>
+					<thumbImg>images/site/learn-our-language-t.png</thumbImg>
+					<mainImg>images/site/learn-our-language.png</mainImg>
+					<imageCaption></imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="1" secondaryNav="true" id="3" position="1"  sitemapId="2.0"  sitemapTitle="Experiences">
+					<title>Spa</title>
+					<meta>
+						<slug>travaasa-spa-overview</slug>
+						<pageTitle>Travaasa Spa Overview</pageTitle>
+						<description>Travaasa offers an array of massages, healing rituals, beauty treatments and personalized services using only organic products.</description>
+						<keywords>spa, massage, treatments, bioenergetic, primavera, anakiri, boutique, travaasa</keywords>
+					</meta>
+					<h1>Spa</h1>
+					<copy><![CDATA[<p>Our spa treatments go far beyond pampering and indulgence. They reflect our passion for, and knowledge of, the human body and the ability of plants and essential oils to naturally treat, heal and revitalize the soul. We offer an array of massages, healing rituals, beauty treatments and personalized services, using only organic, bioenergetic products, including the Primavera and Anakiri skin care lines, which are also available in our Spa Boutique.</p>]]>
+					</copy>
+					<thumbImg>images/site/spa-overview-t.png</thumbImg>
+					<mainImg>images/site/spa-overview.png</mainImg>
+					<imageCaption>Discover spa treatments that go far beyond pampering.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="1" secondaryNav="false" id="4" position="2"  sitemapId="2.0"  sitemapTitle="Experiences">
+					<title>Spa Reservations</title>
+					<meta>
+						<slug>spa-reservations</slug>
+						<pageTitle>Spa Reservations</pageTitle>
+						<description>Reserve Your spot for a Travaasa spa treatment package or retreat.</description>
+						<keywords> travaasa, spa, reserve, reservations, appointment</keywords>
+					</meta>
+					<h1>Reserve Your Spot</h1>
+					<copy><![CDATA[<p>To make reservations for a spa treatment or spa package, plan a spa retreat, or inquire about a customized wellness program, please call 512-225-1075 or toll-free at 855-TO-TRAVAASA (855-868-7282).</p>
+					<p>We encourage you to schedule your appointment in advance to ensure availability of treatments during your visit. We want your spa experience to be stress-free and relaxing. To help make your experience as enjoyable as possible, please consider the following before you arrive.</p>
+					<ul>
+						<li>When scheduling treatments, please let us know if you prefer a male or female therapist.</li>
+						<li>Should you need to cancel, please do so within 24 hours to avoid paying for a full treatment.</li>
+						<li>Any changes or cancellations within 6 hours of your scheduled appointment will be charged at 50% of full service price.</li>
+						<li>Shaving or waxing just prior to a treatment that includes a scrub is not recommended.</li>
+						<li>Please arrive a minimum of 30 minutes prior to your treatment time to begin the relaxation process. Allow time to change into your robe and spa slippers. Late arrivals may receive a reduced treatment time.</li>
+						<li>Please turn off all cell phones during your spa visit.</li>
+						<li>Travaasa does not accept children under the age of 16.</li>
+						<li>For your convenience, an 18% gratuity will be added to each spa service.</li>
+					</ul>]]>
+					</copy>
+					<thumbImg>images/site/spa-reservations-t.png</thumbImg>
+					<mainImg>images/site/spa-reservations.png</mainImg>
+					<imageCaption></imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="1" secondaryNav="false" id="5" position="3" sitemapId="2.0"  sitemapTitle="Experiences">
+					<title>Body Treatments</title>
+					<meta>
+						<slug>body-treatments</slug>
+						<pageTitle>Body Treatments</pageTitle>
+						<description>Therapeutic, energetic, soothing, stimulating—you choose which Travaasa body treatment works for you during your stay.</description>
+						<keywords>travaasa, body, treatments, therapeutic, energetic, soothing, cleansing, stimulating</keywords>
+					</meta>
+					<h1>Body Treatments</h1>
+					<copy><![CDATA[<p>Therapeutic, energetic, soothing, cleansing or stimulating; you decide which of our body treatments to delight in during your stay.</p>
+					<h2>Invigorating Avocado Wrap (50 minutes)</h2>
+					<p>This super-rich and moisturizing body wrap nourishes dry, parched skin and releases tension from head to toe. After a hydrating cleanse of lavender and palmarosa, you’ll bask in a warm wrap of sumptuous avocado body butter blended with essential oils of lavender, pine, orange and lemon to balance, purify and tone. A stimulating scalp massage with organic oils and rosemary will boost circulation and awaken the senses as a full-body mineral mist floods the cells with hydrating elixirs. You'll leave invigorated, revitalized and illuminated.</p>
+					<h2>Ancient Purification (80 minutes)</h2>
+					<p>Combining the therapeutic properties of energetic flower essences, organic oils and essential minerals, this distinct ritual has been soothing and renewing skin for centuries. It begins with an organic panela sugar scrub to relax the muscles and release toxins. Next, fossilized Dead Sea mud and organic herbs of chamomile, dandelion and lemon balm provide deep detoxification, while pure essential oils of rosemary, eucalyptus and lavender support, strengthen and ground the spirit. This joyful facial pressure-point and full-body massage will leave you feeling completely renewed.</p>
+					<h2>Detoxifying Juniper & Olive Stone Body Polish (50 minutes)</h2>
+					<p>This pampering treatment begins with a gentle, mineral-rich sea salt and crushed olive stone body polish to exfoliate, stimulate and cleanse the skin. During the massage, organic jojoba, almond and apricot kernel oils are mixed with organic juniper and cypress to detoxify your skin and body, restoring healthy tone and texture.</p>
+					<h2>Rejuvenating Clay & Aloe Body Wrap (80 minutes)</h2>
+					<p>Indigenous plants and flowers play a key role in this deeply stimulating wrap, which results in firmer and smoother skin. Organic juniper, cypress, rosemary and horsetail restore, rehydrate and protect, while unrefined, sun-dried green clay and French spirulina regenerate, oxygenate, clarify and balance. It’s the perfect way to restore mature or sun-damaged skin.</p>
+					<h2>Nurturing Scalp Treatment (25 minutes)</h2>
+					<p>A nurtured head is a nurtured body. This revitalizing treatment begins with an aromatic hot towel compress over the scalp, to help you relax and refresh. A luxurious, moisture-rich sun-dried clay pack is massaged over the scalp and hair to relieve stress and tension. This treatment adds moisture and minerals to your hair, leaving it full, silky and soft.</p>]]>
+					</copy>
+					<thumbImg>images/site/body-treatments-t.png</thumbImg>
+					<mainImg>images/site/body-treatments.png</mainImg>
+					<imageCaption>Plants, flowers and essential oils play a key role in our treatments.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="1" secondaryNav="false" id="6" position="4"  sitemapId="2.0"  sitemapTitle="Experiences">
+					<title>Facials</title>
+					<meta>
+						<slug>facials</slug>
+						<pageTitle>Facials</pageTitle>
+						<description>Travaasa facials are created expressly for you.</description>
+						<keywords>travaasa, spa, facial, facials</keywords>
+					</meta>
+					<h1>Facials</h1>
+					<copy><![CDATA[<p>Put your face in good hands with a Travaasa facial created expressly for you.</p>
+					<h2>The Eco-Luxe Custom Facial (50 minutes)</h2><p>Reestablish the natural beauty and health of your skin with the pure ingredients and simple luxury of this facial, which is customized to your skin type to provide your complexion with the most benefit. You will have a healthy, radiant glow after we lavish your skin with phytonutrients, antioxidants such as vitamin C and alpha lipoic acid, organic and wild crafted botanicals, and pure essential oils.</p>
+					<h2>Native Blends Rejuvenating Facial (50 minutes)</h2><p>Luminous skin is an hour away with this relaxing and purifying facial. You’ll experience a gentle cleansing with herbal steam wraps, lavender and rosemary cleansers blended with plant phospholipids and deep exfoliation. A two-layer super-antioxidant mask with mushroom and pumpkin enzymes, turmeric, and green tea will smooth and rejuvenate your complexion, while assisting with cell regeneration.</p>
+					<h2>Vitamin C Bio-Energetic Healing Facial (80 minutes)</h2><p>Restore radiance and vitality to every cell with this powerful and refreshing facial. It targets your skin’s nutritional and energetic needs with skin-renewing antioxidants such as alpha lipoic acid, green and rooibos tea and vitamins A, C and E. Two masks, sun-infused oils and luxurious moisturizers hydrate and restore your skin, while a hand and foot treatment with homeopathic preparations completes this luxurious treatment.</p>
+					<h2>Calming Gentle Facial (50 minutes)</h2><p>See for yourself why sun-dried white clay has been used by indigenous cultures throughout the ages for its healing, cooling, anti-inflammatory and regenerative properties. Our organic, botanical facial uses white clay, sandalwood and camellia seed oil to calm and nurture sensitive or sun-overexposed skin back to a healthy balance. Added organic neroli, argan oil, black currant, shea butter and rose will replenish your skin’s moisture level and strengthen and restore it to a healthy, even tone.</p>
+					<h2>Organic Ultimate Hydration Facial (80 minutes)</h2><p>The skin-purifying effect of this facial will restore youthful elasticity and hydrate skin with lasting moisture, leaving your skin feeling fresh and radiant. Sun-dried green and white clays, jojoba beads, aloe vera extract, organic licorice extract and spirulina combine with the rejuvenating properties of organic rose and pomegranate to create the harmonizing effect of this treatment, which will smooth fine lines, rehydrate skin cells and fight free radical damage.</p>
+					<h2>Clarifying Oil Control Facial (50 minutes)</h2><p>Decongest pores and restore balance, clarity and radiance to your skin with the natural powers of wild-crafted sandalwood, organic lemon and bitter orange. Fair-trade certified algae extract and unrefined, sun-dried green and white clays help control excessive oil production and remove clogging impurities from skin, while organic licorice extract calms, soothes and helps balance uneven pigmentation for radiant, youthful skin.</p>
+					<h2>Gentleman’s Clarifying Facial (50 minutes)</h2><p>Specifically designed for today’s active man, this deeply cleansing and hydrating facial employs wild-crafted sandalwood, organic lemon and bitter orange to exfoliate and purify the skin while decongesting pores. Fair-trade organic licorice extract calms and soothes the skin and helps balance uneven pigmentation. It’s the perfect way to balance, calm and restore his skin.</p>
+					<h2>Replenishing Deep Moisture Facial (50 minutes)</h2><p>Dehydrated skin magically responds to the soothing and calming effects of organic neroli oil. Our organic, fair-trade cultivated and custom-distilled neroli, along with organic jojoba and willow bark extract, will soothe dry, flaky skin while calming and balancing the senses. Fine lines and uneven skin texture are smoothed by organic cassis seed oil, which also seals in natural moisture. The combined healing power of neroli and cassis replenishes and sustains the skin’s moisture level for a smooth and healthy texture.</p>
+					<h2>Stone Spirits Facial (50 minutes)</h2><p>Experience a cleansing facial followed by a face-lifting massage using warm and cool stones to relieve tension and stimulate a healthy glow.</p>
+					<h2>Remineralizing Skin Repair Facial (50 minutes)</h2><p>There may be no better way to regenerate, clarify and stimulate mature or sun-damaged skin than by using unrefined, sun-dried white and green clays blended with French spirulina. Skin deeply absorbs the minerals, vitamins and moisture in this unique blend of ingredients, which includes organic and fair-trade rose, argan oil, pomegranate seed oil, white tea and shea butter. Organic licorice extract and unrefined, fair-trade clays, plants and flowers will leave skin brighter, firmer, smoother and more youthful. All of our ingredients are organically cultivated and certified “responsible harvest” by the Forest Stewardship Council and Rainforest Alliance.</p>
+					<h2>Perfect Balance Facial (50 minutes)</h2><p>Healthy skin is all about finding the right balance. Organic sage essential oil reduces excess oil while reviving the senses, and organic grape seeds’ powerful antioxidants and essential fatty acids work to maintain the skin’s natural elasticity. These and other organic extracts (willow bark, licorice root, green tea and witch hazel) form an ideal harmony of plant-derived benefits that is ideal for combination to oily skin.</p>
+					<h2>Hydrating Eye Treatment (25 minutes)</h2><p>Rehydrate and refresh the delicate skin around your eyes. This treatment reduces puffiness, addresses fine lines and makes a great addition to any facial.</p>
+					<h2>Clarifying Back Treatment (25 minutes)</h2><p>Decongest pores and restore balance, clarity and radiance to your skin with the natural powers of wild-crafted sandalwood, organic lemon and bitter orange. Fair trade certified algae extract and unrefined, sun-dried green and white clays help control excessive oil production and remove clogging impurities from skin, while organic licorice extract calms, soothes and helps balance uneven pigmentation for radiant, youthful skin.</p>]]>
+					</copy>
+					<thumbImg>images/site/facials-t.png</thumbImg>
+					<mainImg>images/site/facials.png</mainImg>
+					<imageCaption>Relax with our facials that blend the art and science of pampering and healing.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="1" secondaryNav="false" id="7" position="5" sitemapId="2.0"  sitemapTitle="Experiences">
+					<title>Massage Therapy</title>
+					<meta>
+						<slug>massage-therapy</slug>
+						<pageTitle>Massage Therapy</pageTitle>
+						<description>No matter what your body craves, Travaasa massages run the gamut from energizing to deeply calming.</description>
+						<keywords>travaasa, massage, therapy</keywords>
+					</meta>
+					<h1>Massage Therapy</h1>
+					<copy><![CDATA[<p>Our massages run the gamut from energizing to deeply calming. No matter what your body craves, we have a special touch just for you.</p>
+					<h2>The Energetic Edge (80 minutes)</h2><p>For active athletes, our professional massage team performs this intensive therapy designed to give you the energetic edge for your specific sport. Organic sun-infused oils, homeopathic preparations and enzyme therapy will bathe and penetrate the muscle groups that you use most. Therapeutic massage and assisted stretches provide the ultimate support to ease pain and stiffness for increased flexibility and mobility.</p>
+					<h2>Deep Sleep Aromatherapy Massage (80 minutes)</h2><p>Melt away the stress of the day with a gentle Swedish massage enhanced by hot stones, soothing foot wraps, an herbal eye pack and relaxing herbal tea. A soothing blend of aromatic lavender, clary sage and ylang-ylang oils will send you off to dreamland. Sweet dreams!</p>
+					<h2>Detoxifying Juniper Olive Stone Exfoliation & Massage (80 minutes)</h2><p>The fresh scent of juniper berries revives the body and mind, while leaving skin silky, smooth and rejuvenated. Combined with pure seaweed and cypress, this juniper treatment cleans deep and stimulates, purifies and revitalizes the skin as it jump-starts the lymphatic system, aids circulation and penetrates the skin to help smooth cellulite. More toned, hydrated and tightened, your skin will thank you.</p>
+					<h2>Deep Tissue Massage (50/80 minutes)</h2><p>The stuff dreams are made of, there is no better way to release muscle tension, realign your posture and restore the proper range of motion than a deep tissue massage.</p>
+					<h2>Swedish Massage (50 / 80 minutes)</h2><p>This deeply relaxing massage uses long, flowing strokes to help reduce pain and stress, ease stiffness and aid in circulation.</p>
+					<h2>Stone Spirits&reg; Massage (50 minutes)</h2><p>The expert application of hot and cold is known to ease pain and inflammation. This massage features a variety of techniques performed with heated basalt stones to invite deep relaxation, and cold marble stones to soothe inflammation. The result is a balanced, relaxed and nurtured body from head to toe.</p>
+					<h2>Prenatal Massage (50 / 80 minutes)</h2><p>Nobody said it's easy being a mom-to-be. Perfect for all stages of pregnancy, this unique massage is designed to reduce fluid retention, increase muscle tone and soothe aching backs and necks.</p>
+					<h2>Thai Massage (50 minutes)</h2><p>This dynamic massage uses targeted yoga stretches, compression, joint manipulation and pressure points to restore and strengthen your body. Please wear comfortable clothing.</p>
+					<h2>Shiatsu (80 minutes)</h2><p>The Japanese word shiatsu, or “pressure with fingers,” describes both a form of physical manipulation and a means of balancing one’s “chi.” Based on centuries-old Eastern techniques, this active massage combines acupressure with stretches, weight and leverage to alleviate fatigue and pain.  Please wear comfortable clothing.</p>]]>
+					</copy>
+					<thumbImg>images/site/massage-therapy-t.png</thumbImg>
+					<mainImg>images/site/massage-therapy.png</mainImg>
+					<imageCaption>Just close your eyes and let your muscles experience their own journey.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="1" secondaryNav="false" id="8" position="6" sitemapId="2.0"  sitemapTitle="Experiences">
+					<title><![CDATA[Hands & Feet]]></title>
+					<meta>
+						<slug>hands-and-feet</slug>
+						<pageTitle><![CDATA[Hands & Feet]]></pageTitle>
+						<description>Take care of those hardworking parts of your body: the hands and feet.</description>
+						<keywords>travaasa, hands, feet, treatment, spa</keywords>
+					</meta>
+					<h1><![CDATA[Hands &amp; Feet]]></h1>
+					<copy><![CDATA[<p>Your spa treatment wouldn't be complete without taking care of those two hardworking parts of our body: the hands and feet. Trust us, they will thank you for the bliss they feel after any one of our "only at Travaasa" treatments. </p>
+					<h2>Peppermint Zenergy Foot Care (25 minutes)</h2><p>Your feet deserve the same meticulous care with which you treat your face. This gloriously pampering foot treatment uses organic oils and hydrating shea butter usually exclusive to luxury facial moisturizers. It exfoliates, smooths and softens with organic sugar and grapefruit, while the power of peppermint energizes and revitalizes your hardworking feet. Yes, the rest of your body thinks your feet deserve it!</p>
+					<h2>Organic Coffee Foot Relief (25 minutes)</h2><p>Your daily coffee won’t make you feel this good! Regardless of your sport or activity, your faithful feet take the punishment. It’s time to give them a rest. This treatment refreshes your overworked feet with a combination of herbs and homeopathics that have been used for centuries to detoxify and relieve acute and chronic pain. Organic oils, coffee and cooling gels soften, exfoliate and nourish to complete this healthy therapy.</p>
+					<h2>Lavender Vanilla Hand Treatment (25 minutes)</h2><p>Using the soothing and healing power of lavender, this hand treatment will cleanse, exfoliate and hydrate your hands to leave them fresh and young.
+					
+					
+					]]>
+					</copy>
+					<thumbImg>images/site/hands-feet-t.png</thumbImg>
+					<mainImg>images/site/hands-feet.png</mainImg>
+					<imageCaption>We take hardworking hands and feet to a whole new level of bliss.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="1" secondaryNav="false" id="9" position="7" sitemapId="2.0"  sitemapTitle="Experiences">
+					<title><![CDATA[Special Packages &amp; Day Spa]]></title>
+					<meta>
+						<slug>special-packages-and-day-spa</slug>
+						<pageTitle><![CDATA[Special Packages &amp; Day Spa]]></pageTitle>
+						<description>Travaasa offers three different spa packages.</description>
+						<keywords> travaasa, spa, packages, day spa</keywords>
+					</meta>
+					<h1><![CDATA[Special Packages &amp; Day Spa]]></h1>
+					<copy><![CDATA[<p>For those who want the convenience of choosing a spa package, Travaasa offers three different options&mdash;two different full-day packages and our half-day selection for the time-pressed.</p>
+					<h2>Ultimate Bliss Full-Day Package</h2><p>Experience bliss and total relaxation with a full-day spa package that will nurture your body from head to toe. It begins with a Vitamin C Bio-Energetic Healing Facial and Hydrating Eye Treatment, followed by an Ancient Purification Body Treatment, Swedish Massage and Nurturing Scalp Treatment. A healthy lunch in The Spur or Jean’s Kitchen is included. Your day ends with a soothing tea served in a quiet corner of the spa. All gratuities are included; tax is additional.</p>
+					<h2>Serene & Calm Half-Day Package</h2><p>Unwind and renew with an amazing half-day package that will restore and renew your mind, body and spirit. Begin with an Organic Ultimate Hydration Facial, followed by an Invigorating Avocado Wrap Body Treatment and finally a Lavender Vanilla Hand Treatment. All gratuities are included; tax is additional.</p>
+					<h2>Day Spa Package </h2><p>Offered daily from 9:00 a.m. to 5:00 p.m., our Day Spa Package includes access to all Travaasa activities, a delicious, healthy lunch, use of the pool, and a $125 spa credit toward any spa treatment. We know you will leave happy—dreaming of when you can come back. All gratuities are included; tax is additional</p>
+					
+					
+					]]>
+					</copy>
+					<thumbImg>images/site/special-packages-t.png</thumbImg>
+					<mainImg>images/site/special-packages.png</mainImg>
+					<imageCaption></imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="1" secondaryNav="false" id="10" position="8" sitemapId="2.0"  sitemapTitle="Experiences">
+					<title>Holistic Healing</title>
+					<meta>
+						<slug>holistic-healing</slug>
+						<pageTitle>Holistic Healing</pageTitle>
+						<description>Focusing on the body, mind and spirit, Travaasa’s holistic offerings are designed to touch you deeply.</description>
+						<keywords>travaasa, holistic, healing, mind, spirit, well-being</keywords>
+					</meta>
+					<h1>Holistic Healing</h1>
+					<copy><![CDATA[<p>Focusing on the body, mind and spirit, our holistic healing offerings are designed to touch you deeply, both inside and out, giving you a complete experience of well-being.</p>
+					<h2>Energy Balancing (50/80 Minutes)</h2><p>Experience the art of channeling energy to create a deep state of tranquility on both the physical and spiritual planes. Explore a number of techniques such as Reiki, healing touch, polarity therapy, pranic healing and chakra clearing to balance and heal your internal energy. Each session is unique and tailored to the individual’s needs.</p>
+						<h2>Shamanic Journey Meditation (50/80 Minutes)</h2><p>Learn the shamanic ways to journey in this guided class. A Travaasa favorite!</p>
+						<h2>Shamanic Ritual</h2><p>A guided experience in shamanic rituals will show individuals how to set up a unique and balanced ritual space in their home.</p>
+						<h2>Yoga Therapy (50/80 Minutes)</h2><p>Encourage the body’s natural healing mechanisms with this gentle therapeutic treatment. Improve the function of the central nervous system, dissipate negative effects of stress and enhance resistance to disease by releasing energetic blockages along the spinal column.</p>
+						<h2>How to Be Present in Your Body (50/80 Minutes)</h2><p>Through a combination of various breathing and sound techniques, this is a journey toward greater self-awareness. The class also teaches therapeutic uses for common items around the house, such as how to turn tennis balls into a powerful home massage tool to relieve muscle tension and pain.</p>
+						<h2>Astrological Consultation, Western (50/80 Minutes)</h2><p>Select a natal chart (life map), year overview, relationship, parenting, health or geographical consultation to gain clarity and perspective for decision making. Reserve in advance with your birth date, time and place. Phone consultations are available. </p>
+						<h2>Numerology (50/80 Minutes)</h2><p>Numerology looks at the relationship between numbers and letters in order to determine a pattern that holds the meaning of your life.  Explore your true self and life path through a unique blend of name charts, astrology, tarot cards and intuition. Numerology helps build awareness of self, relationships and future possibilities. Reserve in advance with your full name at birth, the current name you now use and your date of birth. Name chart audiotape provided.</p>
+						<h2>Boutique</h2><p>After your relaxing treatment, don’t forget to visit our boutique, which offers a unique array of gifts, herbal teas, aromatherapy candles and all-natural beauty products</p>]]>
+					</copy>
+					<thumbImg>images/site/holistic-healing-t.png</thumbImg>
+					<mainImg>images/site/holistic-healing.png</mainImg>
+					<imageCaption></imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="2" secondaryNav="true" id="11" position="1" sitemapId="2.0"  sitemapTitle="Experiences">
+					<title>Wellness</title>
+					<meta>
+						<slug>wellness-overview</slug>
+						<pageTitle>Wellness Overview</pageTitle>
+						<description>Travaasa wellness workshops include meditation, stretch, yoga, posture and breath work.</description>
+						<keywords> wellness, meditation, stretch, yoga, health, workshops, travaasa</keywords>
+					</meta>
+					<h1>Wellness</h1>
+					<copy><![CDATA[<p>Wellness is a well-rounded thing. A balanced state of mind coupled with a managed stress life, a healthy body and a satisfied soul gives focus and a point of view to our lives. We achieve that through meditation, stretch, yoga, posture and breath work. Not to mention stimulating health-oriented workshops that will pique your curiosity. Think of these workshops as a wellness toolkit you'll be able to refer to again and again after you leave here. </p>]]>
+					</copy>
+					<thumbImg>images/site/wellness-overview-t.png</thumbImg>
+					<mainImg>images/site/wellness-overview.png</mainImg>
+					<imageCaption>Our wellness experiences will help you slow down and focus on the moment.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="2" secondaryNav="false" id="12" position="2" sitemapId="2.0"  sitemapTitle="Experiences">
+					<title>Restorative Breathing</title>
+					<meta>
+						<slug>restorative-breathing</slug>
+						<pageTitle>Restorative Breathing</pageTitle>
+						<description>Restorative breathing at Travaasa releases us from stress and anxiety to bring a calmer, more relaxed state.</description>
+						<keywords>travaasa, restorative, breathing, breath, stress, anxiety, calm</keywords>
+					</meta>
+					<h1>Restorative Breathing</h1>
+					<copy><![CDATA[<p>Who knew that focusing on something we do unconsciously every second of every day can do so much more for us? This Travaasa works with the breath, following its movements through the body. Restorative sequencing moves us slowly into a deep somatic experience to release us from stress and anxiety and bring a calmer, more relaxed state (great for type-A personalities who have trouble relaxing). As we turn the lens inward, we will learn more about the asana—the breath—and ourselves.  </p>]]>
+					</copy>
+					<thumbImg>images/site/restorative-breathing-t.png</thumbImg>
+					<mainImg>images/site/restorative-breathing.png</mainImg>
+					<imageCaption>Breathe deeply and relax.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="2" secondaryNav="false" id="13" position="3" sitemapId="2.0"  sitemapTitle="Experiences">
+					<title>Face Your Inner Beauty</title>
+					<meta>
+						<slug>face-your-inner-beauty</slug>
+						<pageTitle>Face Your Inner Beauty</pageTitle>
+						<description>Each face tells a story of what’s happening inside the body. Learn effective steps at Travaasa to look and feel better.</description>
+						<keywords>travaasa, face, beauty, natural, wrinkles, blemishes, graying, baldness</keywords>
+					</meta>
+					<h1>Face Your Inner Beauty</h1>
+					<copy><![CDATA[<p>This Travaasa will alter the very way in which you look in the mirror and provide you with some little-known secrets of the face—specifically, how each face tells a story of what is happening inside the body. You'll learn simple yet effective steps you can take to look and feel better—<em>sans</em> pills, chemicals or complicated recipes. We will reveal simple, natural practices for reversing wrinkles, blemishes, graying and baldness. Fountain of youth, move over.</p>]]>
+					</copy>
+					<thumbImg>images/site/inner-beauty-t.png</thumbImg>
+					<mainImg>images/site/inner-beauty.png</mainImg>
+					<imageCaption>Simple, natural practices for reversing signs of aging.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="2" secondaryNav="false" id="14" position="4" sitemapId="2.0"  sitemapTitle="Experiences">
+					<title>Guided Meditation</title>
+					<meta>
+						<slug>guided-meditation</slug>
+						<pageTitle>Guided Meditation</pageTitle>
+						<description>Meditation starts with guided practice and the use of chakra points to learn acceptance and letting go.</description>
+						<keywords>travaasa, meditation, guided, chakra</keywords>
+					</meta>
+					<h1>Guided Meditation</h1>
+					<copy><![CDATA[<p>In this Travaasa, we help demystify the ancient practice of meditation—bringing awareness to our moment-to-moment experiences. This simple—but not easy—practice of acceptance, letting go, non-striving and suspension of the judgmental mind leaves us with a deep sense of openness and receptivity to ourselves, to others and to the moment as it unfolds. We start through guided practice and the use of chakra points—the word chakra is Sanskrit for "wheel," and there are seven primary chakra points in the body—each like a moving wheel of energy, ready to help you tune out, and tune into yourself.</p>]]>
+					</copy>
+					<thumbImg>images/site/guided-meditation-t.png</thumbImg>
+					<mainImg>images/site/guided-meditation.png</mainImg>
+					<imageCaption>Learn to de-stress and live in the moment.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="2" secondaryNav="false" id="15" position="5" sitemapId="2.0"  sitemapTitle="Experiences">
+					<title>Yoga for Mind and Body</title>
+					<meta>
+						<slug>yoga-for-mind-and-body</slug>
+						<pageTitle>Yoga for Mind and Body</pageTitle>
+						<description>Travaasa yoga classes to heal, detoxify and unify mind and body.</description>
+						<keywords>yoga, vinyasa, heal, detoxify, unify, healthy, Travaasa</keywords>
+					</meta>
+					<h1>Yoga for Mind and Body</h1>
+					<copy><![CDATA[<p>Yoga is a wonderful technique to heal, detoxify and unify your mind and body. It can help fortify your awareness of movement, balance and intention, in addition to strengthening your body (through vinyasa yoga). No matter your age, strength or flexibility level, anyone can do yoga with the right attitude and the right teacher. And if you are new to yoga, you'll find a physical path that harmonizes mind, body and soul. Yoga combines physical activity with breath to reduce stress, control weight, relieve lower back pain and enhance focus. Our yoga classes include various styles and routines that create a dynamic, challenging program which combines strength, spirituality and a healthy dose of sweat.</p>
+					<h2>Hatha Yoga (All Levels)</h2>
+					<p>Wake up your body and mind with this flowing yoga practice that accommodates all levels of practitioners. Energize yourself with traditional morning Sun Salutations (a linking of breath and motion) and other Hatha yoga poses. This is a low-to-moderate-intensity class, geared toward everyone with an interest in yoga, and will allow those who are newer to take their time, while letting seasoned practitioners pick up the intensity.</p>
+					<h2>Hatha Yoga (Gentle)</h2>
+					<p>In this Travaasa we will take our time in each simple yet profound yoga posture. We will move from one posture to the next slowly and mindfully. This class is designed to create deep relaxation through controlled breathing, gentle stretching and guided meditation that will leave you feeling refreshed and ready to tackle the world.</p>
+					<h2>Aquatic Yoga</h2>
+					<p>Practicing yoga in the water can provide a number of benefits. First of all, it feels great. The wiggly-waggly way water feels when you bend and stretch will have you experiencing childhood again. But water also acts as a safeguard against injuries that are more likely to occur on land. Your movements become smoother in water and therefore your body will not experience the same strain as on terra firma. There are a few poses which are even easier practiced in water, such as the standing eagle pose or tree pose. You can perform these effortlessly in water because the ripples that are created in the water force your body to maintain the necessary pose. </p>]]>
+					</copy>
+					<thumbImg>images/site/yoga-t.png</thumbImg>
+					<mainImg>images/site/yoga.png</mainImg>
+					<imageCaption></imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="2" secondaryNav="false" id="16" position="6" sitemapId="2.0"  sitemapTitle="Experiences">
+					<title>Specialized Body Work</title>
+					<meta>
+						<slug>specialized-body-work</slug>
+						<pageTitle>Specialized Body Work</pageTitle>
+						<description>An exercise set that provides an effective maintenance program for relieving and preventing back pain and stiff joints.</description>
+						<keywords>travaasa, specialized, body, exercise, spine, back pain, stretch, joints</keywords>
+					</meta>
+					<h1>Specialized Body Work</h1>
+					<copy><![CDATA[<p>These Travaasas work on areas of the body that typically give us the most complaints: the spine and the joints. </p>
+					<h2>Spine Work</h2>
+					<p>One of the most important factors in maintaining a healthy body is a flexible spine. Yogis say that youth is determined by the flexibility of your spine (which means, with a physically sound spine, 40 might really be the new 20). Lower back pain and upper back stress are some of the most common health complaints of adults. The best way to avoid backaches is to take care of your spine on a daily basis. There is no quick fix for back pain, but our exercise set is an effective maintenance program. In this Travaasa we practice a combination of back bends and forward bends to strengthen and bring flexibility to the spine. We will also learn some gentle stretches you can do on your own to relieve and prevent back pain. </p>
+					<h2>Awakening the Joints</h2>
+					<p>This is a "must-do" Travaasa if you sometimes feel aches and pains in your ankles, knees, elbows, wrists, shoulders and hips. And if you're over the age of 30, you know what we mean. In this class we focus on yoga postures and stretches to bring greater movement to the body through awakening and stimulating stiff joints. And all without having to dip into the Glucosamine and Chondroitin. </p>]]>
+					</copy>
+					<thumbImg>images/site/awakening-joints-t.png</thumbImg>
+					<mainImg>images/site/awakening-joints.png</mainImg>
+					<imageCaption></imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="3" secondaryNav="true" id="17" position="1" sitemapId="2.0"  sitemapTitle="Experiences">
+					<title>Fitness</title>
+					<meta>
+						<slug>fitness-overview</slug>
+						<pageTitle>Fitness Overview</pageTitle>
+						<description>Travaasa fitness focuses on balance, core work and flexibility.</description>
+						<keywords>fitness, strengthening, balance, core, flexibility, agile, strength, travaasa</keywords>
+					</meta>
+					<h1>Fitness</h1>
+					<copy><![CDATA[<p>We believe that strengthening the body is as important as keeping brain cells from dying, fueling your inner muse and letting your spirit soar. Oh, and having a good time along the way is also key. Our fitness Travaasas focus on balance, core work and flexibility—so throw your clumsy shoes off and let your agile inner child shine. We'll pump up your heart so you can practically feel the good health coursing through your veins.</p>
+					<p>We're not promising miracles, but we just bet you'll leave here feeling new strength in muscles you didn't even know you had.</p>]]>
+					</copy>
+					<thumbImg>images/site/fitness-overview-t.png</thumbImg>
+					<mainImg>images/site/fitness-overview.png</mainImg>
+					<imageCaption>Feel fit, get fit, be fit</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="3" secondaryNav="false" id="18" position="2" sitemapId="2.0"  sitemapTitle="Experiences">
+					<title>Aqua Stretch</title>
+					<meta>
+						<slug>aqua-stretch</slug>
+						<pageTitle>Aqua Stretch</pageTitle>
+						<description>Aqua Stretches that improve range of motion, flexibility, muscle tone and core strength.</description>
+						<keywords> travaasa, aqua, stretches, motion, flexibility, muscle, tone, core, strength</keywords>
+					</meta>
+					<h1>Aqua Stretch</h1>
+					<copy><![CDATA[<p>Aqua stretch might take place in the shallow end of the pool, but there's nothing superficial about how you'll feel after you've taken part in this low-impact-movement class that's a delight for aching joints. Improve your range of motion, flexibility, muscle tone, muscle and core strength, posture, balance and endurance. </p>]]>
+					</copy>
+					<thumbImg>images/site/aqua-stretch-t.png</thumbImg>
+					<mainImg>images/site/aqua-stretch.png</mainImg>
+					<imageCaption>Poolside poses and in-water stretching for supple muscles.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="3" secondaryNav="false" id="19" position="3" sitemapId="2.0"  sitemapTitle="Experiences">
+					<title>Core Conditioning</title>
+					<meta>
+						<slug>core-conditioning</slug>
+						<pageTitle>Core Conditioning</pageTitle>
+						<description>Travaasa core work tones abs, lower back and glutes, and improves balance</description>
+						<keywords>travaasa, core, muscle, tone, abs, back, glutes, strength, exercises</keywords>
+					</meta>
+					<h1>Core Conditioning</h1>
+					<copy><![CDATA[<p>There's nothing like core work to make you feel like you can conquer the world, one muscle group at a time. Tone your abs, lower back and glutes in this intense 30-minute class. We'll help you improve core strength, balance and total body function using stability balls and gravity-resistant exercises. </p>]]>
+					</copy>
+					<thumbImg>images/site/core-conditioning-t.png</thumbImg>
+					<mainImg>images/site/core-conditioning.png</mainImg>
+					<imageCaption></imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="3" secondaryNav="false" id="20" position="4" sitemapId="2.0"  sitemapTitle="Experiences">
+					<title>Cross-Training</title>
+					<meta>
+						<slug>cross-training</slug>
+						<pageTitle>Cross-Training</pageTitle>
+						<description>Sports drills and athletic moves using equipment to strengthen your body.</description>
+						<keywords>travaasa, cross-training, strengthens, athletic, exercises</keywords>
+					</meta>
+					<h1>Cross-Training</h1>
+					<copy><![CDATA[<p>This is the one time we have to say that being confused is good for you. Cross-training is a "muscle confusion" workout that strengthens your body and alters your heart rate. Our Travaasa includes sport drills as well as athletic moves guaranteed to make you sweat. Our cross-training experience introduces you to a variety of exercises using the BOSU ball, step platform, rebounding trampoline and other athletic equipment.</p>]]>
+					</copy>
+					<thumbImg>images/site/cross-training-t.png</thumbImg>
+					<mainImg>images/site/cross-training.png</mainImg>
+					<imageCaption></imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="3" secondaryNav="false" id="21" position="5" sitemapId="2.0"  sitemapTitle="Experiences">
+					<title>Foam Rollers</title>
+					<meta>
+						<slug>foam-rollers</slug>
+						<pageTitle>Foam Rollers</pageTitle>
+						<description>Release muscular tension with a rolling massage that helps increase flexibility</description>
+						<keywords>travaasa, foam, rollers, exercise, muscular, tension, balance, stability</keywords>
+					</meta>
+					<h1>Foam Rollers</h1>
+					<copy><![CDATA[<p>Not your grandmother's pink foam hair rollers, this body rolling exercise helps you release muscular tension with a rolling massage that feels great and helps increase flexibility. As you move and stabilize the roller on different planes, you'll improve balance, core muscles, stability and total body function.</p>]]>
+					</copy>
+					<thumbImg>images/site/foam-rollers-t.png</thumbImg>
+					<mainImg>images/site/foam-rollers.png</mainImg>
+					<imageCaption></imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="3" secondaryNav="false" id="22" position="6" sitemapId="2.0"  sitemapTitle="Experiences">
+					<title>Kickbox Cardio</title>
+					<meta>
+						<slug>kickbox-cardio</slug>
+						<pageTitle>Kickbox Cardio</pageTitle>
+						<description>Kickboxing kicks and punches in a fast-paced routine that decreases stress and hones reflexes.</description>
+						<keywords>travaasa, kickbox, cardio, workout, routine, reflexes, endurance </keywords>
+					</meta>
+					<h1>Kickbox Cardio</h1>
+					<copy><![CDATA[<p>This invigorating workout will teach you an exciting new way to work up a serious sweat. You'll be amazed at how invigorated and "sore in a good way" your body will feel even after one workout. Learn traditional kickboxing kicks and punches, strung together for a fast-paced routine that strengthens the body and mind, decreases stress and hones reflexes, while increasing endurance and cardiovascular power. </p>]]>
+					</copy>
+					<thumbImg>images/site/kickbox-cardio-t.png</thumbImg>
+					<mainImg>images/site/kickbox-cardio.png</mainImg>
+					<imageCaption></imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="3" secondaryNav="false" id="23" position="7" sitemapId="2.0"  sitemapTitle="Experiences">
+					<title>Nia</title>
+					<meta>
+						<slug>nia</slug>
+						<pageTitle>Nia</pageTitle>
+						<description>Sensory-based movement that empowers people of all shapes and sizes by connecting the body, mind, emotions and spirit.</description>
+						<keywords>travaasa, nia, sensory, movement, fitness</keywords>
+					</meta>
+					<h1>Nia</h1>
+					<copy><![CDATA[<p>Nia, pronounced “knee yah,” is a sensory-based movement that empowers people of all shapes and sizes by connecting the body, mind, emotions and spirit. Nia can help you positively shape the way you feel, look, think and live. It was created in response to the “no pain, no gain/feel the burn” mentality in fitness. And the best part? It's all about indulging yourself. It's about pleasure. It's about listening to your body and doing what it wants to do, not what some hard-body drill instructor wants it to do. And, strangely, it's exercise. </p>]]>
+					</copy>
+					<thumbImg>images/site/nia-t.png</thumbImg>
+					<mainImg>images/site/nia.png</mainImg>
+					<imageCaption></imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="3" secondaryNav="false" id="24" position="8" sitemapId="2.0"  sitemapTitle="Experiences">
+					<title>Pilates</title>
+					<meta>
+						<slug>pilates</slug>
+						<pageTitle>Pilates</pageTitle>
+						<description>Transform the way your body looks, feels and performs without building excess bulk.</description>
+						<keywords>travaasa, pilates, strength, posture, flexibility, agility</keywords>
+					</meta>
+					<h1>Pilates</h1>
+					<copy><![CDATA[<p>There's nothing else like Pilates to make you feel like you've gained five inches in height or have the poise of a ballerina. Pilates is designed to transform the way your body looks, feels and performs, building strength without excess bulk. This basic all-level Pilates class on the mat teaches awareness, good posture and easy, graceful movement, while improving flexibility and agility. </p>]]>
+					</copy>
+					<thumbImg>images/site/pilates-t.png</thumbImg>
+					<mainImg>images/site/pilates.png</mainImg>
+					<imageCaption></imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="3" secondaryNav="false" id="25" position="9" sitemapId="2.0"  sitemapTitle="Experiences">
+					<title>Outdoor Circuit</title>
+					<meta>
+						<slug>outdoor-circuit</slug>
+						<pageTitle>Outdoor Circuit</pageTitle>
+						<description>Outdoor workout at Travaasa that gives you maximum results in minimum time by mixing up moves and changing intensity.</description>
+						<keywords>travaasa, outdoor, circuit, intervals, circuit, heart rate, tone, strength</keywords>
+					</meta>
+					<h1>Outdoor Circuit</h1>
+					<copy><![CDATA[<p>Spice up your workouts with our outdoor circuit workout that will take you through some tough intervals that make your heart rate soar. Circuit training is a refreshing exercise that provides excellent, all-around fitness, tone and strength. Best of all, you get maximum results in a minimum amount of time. By mixing up the moves and changing the intensity throughout the workout, you'll keep your body challenged and your mind interested—and that's half the battle when you're trying to motivate yourself to exercise.</p>]]>
+					</copy>
+					<thumbImg>images/site/outdoor-circuit-t.png</thumbImg>
+					<mainImg>images/site/outdoor-circuit.png</mainImg>
+					<imageCaption></imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="3" secondaryNav="false" id="26" position="10" sitemapId="2.0"  sitemapTitle="Experiences">
+					<title>Simplified Fitness</title>
+					<meta>
+						<slug>simplified-fitness</slug>
+						<pageTitle>Simplified Fitness</pageTitle>
+						<description>A class that provides exercise tips and tricks that allow you to work out anywhere and anytime.</description>
+						<keywords>travaasa, simplified, fitness, tips, tricks, exercise, workout</keywords>
+					</meta>
+					<h1>Simplified Fitness</h1>
+					<copy><![CDATA[<p>This workout gets rid of the weights and machines and takes you through an intense program using only your body's resistance and the earth's gravity. Learn tips and tricks that will allow you to work out anywhere and anytime. You'll be surprised by the large number of exercises you will learn that will allow you to focus on any area of your body. Travelers for both business and pleasure love this "portable" workout.</p>]]>
+					</copy>
+					<thumbImg>images/site/simplified-fitness-t.png</thumbImg>
+					<mainImg>images/site/simplified-fitness.png</mainImg>
+					<imageCaption></imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="3" secondaryNav="false" id="27" position="11" sitemapId="2.0"  sitemapTitle="Experiences">
+					<title>Stability Training</title>
+					<meta>
+						<slug>stability-training</slug>
+						<pageTitle>Stability Training</pageTitle>
+						<description>BOSU ball training using whole-body, integrated movements to work muscle groups together.</description>
+						<keywords>travaasa, exercises, bosu, stability, training</keywords>
+					</meta>
+					<h1>Stability Training</h1>
+					<copy><![CDATA[<p>In this Travaasa you will learn some of the most effective exercises with the BOSU ball, a small piece of equipment that can be used anytime, anywhere. Instead of focusing on building muscle groups in isolation, BOSU ball training requires whole-body, integrated movement, as well as the need for several muscle groups to work together. It moves away from isolation or single-joint training to prevent overworking only selected muscles. This results in training for better movement, NOT bigger muscles.</p>]]>
+					</copy>
+					<thumbImg>images/site/stability-training-t.png</thumbImg>
+					<mainImg>images/site/stability-training.png</mainImg>
+					<imageCaption></imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="3" secondaryNav="false" id="28" position="12" sitemapId="2.0"  sitemapTitle="Experiences">
+					<title>Zumba</title>
+					<meta>
+						<slug>zumba</slug>
+						<pageTitle>Zumba</pageTitle>
+						<description>Tone your body and whittle your abs using latin dance, hip-hop, bell dancing and Reggaeton.</description>
+						<keywords> travaasa, zumba, dance, tone, abs, dancing, workout, interval</keywords>
+					</meta>
+					<h1>Zumba</h1>
+					<copy><![CDATA[<p>The word Zumba is Colombian slang for "buzz like a bee" or "move very fast." This Travaasa uses Latin dance, hip-hop, belly dancing and Reggaeton (a form of Latin hip-hop) choreography to tone the body and whittle abs, all while feeling like you are at a dance party… not sweating through a workout. Interval training keeps the body at an efficient and consistent fat-burning level throughout. Zumba's slogan is "Ditch the workout. Join the party!" which makes it the perfect workout for the exercise-resistant.</p>]]>
+					</copy>
+					<thumbImg>images/site/zumba-t.png</thumbImg>
+					<mainImg>images/site/zumba.png</mainImg>
+					<imageCaption></imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="4" secondaryNav="true" id="29" position="1" sitemapId="2.0"  sitemapTitle="Experiences">
+					<title>Outdoor</title>
+					<meta>
+						<slug>outdoor-overview</slug>
+						<pageTitle>Outdoor Overview</pageTitle>
+						<description>Travaasa celebrates the outdoors with stables, hiking trails and a challenge course.</description>
+						<keywords>travaasa, outdoor, hiking, stables, environment</keywords>
+					</meta>
+					<h1>Outdoor</h1>
+					<copy><![CDATA[<p>In our modern world we are digitally connected to everyone, but maybe not so connected to the environment and the natural wonders that surround us. Travaasa celebrates the outdoors with stables, hiking trails, a challenge course and more to take off the tether from technology and bring back the simple pleasures of reconnecting with the outside world.</p>]]>
+					</copy>
+					<thumbImg>images/site/outdoor-overview-t.png</thumbImg>
+					<mainImg>images/site/outdoor-overview.png</mainImg>
+					<imageCaption>Drink in the pristine beauty of the Texas Hill Country.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="4" secondaryNav="false" id="30" position="2" sitemapId="2.0"  sitemapTitle="Experiences">
+					<title>Equine Experience</title>
+					<meta>
+						<slug>equine-experience</slug>
+						<pageTitle>Equine Experience</pageTitle>
+						<description>Reconnect with your innate instinctual intelligence through working with horses.</description>
+						<keywords>travaasa, equine, experience, horses</keywords>
+					</meta>
+					<h1>Equine Experience</h1>
+					<copy><![CDATA[<p>Our guides will support you in reconnecting with your innate instinctual intelligence through working with horses. The sustainability found in this very visceral experience will ripple through every aspect of your life. Anything is possible, and that means the rules as you know them are obsolete. This is an interactive class that offers a place where visionaries and creatively driven thinkers can reclaim the parts of themselves lost along the road to success, or discover a fuller range of talents they never knew existed.</p>]]>
+					</copy>
+					<thumbImg>images/site/equine-experience-t.png</thumbImg>
+					<mainImg>images/site/equine-experience.png</mainImg>
+					<imageCaption></imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="4" secondaryNav="false" id="31" position="3" sitemapId="2.0"  sitemapTitle="Experiences">
+					<title>Prickly Pear Challenge Course</title>
+					<meta>
+						<slug>prickly-pear-challenge-course</slug>
+						<pageTitle>Prickly Pear Challenge Course</pageTitle>
+						<description>A state-of-the-art course at Travaasa Austin, designed in partnership with Outward Bound Professional and incorporates vertical climbing elements for all levels of physical ability.</description>
+						<keywords>travaasa, challenge, course, prickly, pear, outward bound, climbing</keywords>
+					</meta>
+					<h1>Prickly Pear Challenge Course</h1>
+					<copy><![CDATA[<p>Ever picked a prickly pear? If you have, you know the importance of each foot and hand placement as you avoid the sting of cactus needles. The same focus on movement is required as you navigate the space above the trees on our challenge course. There’s nothing like experiencing a challenge course to understand the bonding, trust and feeling of empowerment it can deliver upon completion. Our state-of-the-art course was designed in partnership with Outward Bound Professional, and incorporates vertical climbing elements for all levels of physical ability. The linear progression of the course can be enhanced with additional routes and features to keep the challenge ever changing. The culminating event of this journey is a dual zip line... a fantastic flight of over 250 feet, soaring over the treetops.</p>
+					<h2>Outward Bound</h2>
+					<p>For more than 60 years, Outward Bound has proven that they are simply the best at what they do as the premier adventure-based education program in the world. Most people know that Outward Bound has a nationwide system of wilderness courses, community-centric and special programming, but many may not be familiar with the Outward Bound Professional program, whose goal is to create positive, lasting change in the workplace through innovative, customized programs that enhance the effectiveness of individuals, groups and organizations. Travaasa celebrates our partnership with this revered leader in experiential learning and discovery.</p>]]>
+					</copy>
+					<thumbImg>images/site/prickly-pear-challenge-course-t.png</thumbImg>
+					<mainImg>images/site/prickly-pear-challenge-course.png</mainImg>
+					<imageCaption></imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="4" secondaryNav="false" id="32" position="4" sitemapId="2.0"  sitemapTitle="Experiences">
+					<title>Hiking</title>
+					<meta>
+						<slug>hiking</slug>
+						<pageTitle>Hiking</pageTitle>
+						<description>Explore travaasa’s rich and extensive trail system during morning, evening and moonlight hikes.</description>
+						<keywords> travaasa, hiking, trail, ecology</keywords>
+					</meta>
+					<h1>Hiking</h1>
+					<copy><![CDATA[<p>Even if you don't think you're into hiking, you'll change your mind after you explore our rich and extensive trail system. If you take a guided tour, you'll learn about local flora, fauna and the history and ecology of the area. Hikes are open to all and accommodate a wide range of interests and abilities. Wear comfortable, supportive shoes and bring water. We have morning, evening and moonlight hikes.</p>]]>
+					</copy>
+					<thumbImg>images/site/hiking-t.png</thumbImg>
+					<mainImg>images/site/hiking.png</mainImg>
+					<imageCaption></imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="4" secondaryNav="false" id="33" position="5" sitemapId="2.0"  sitemapTitle="Experiences">
+					<title>Hāna Trail Riding</title>
+					<meta>
+						<slug>hana-trail-riding</slug>
+						<pageTitle>Hāna Trail Riding</pageTitle>
+						<description>Learn how to establish communication with another being, the horse, through respect, sensitivity and awareness.</description>
+						<keywords>travaasa, equine, horse</keywords>
+					</meta>
+					<h1>Hāna Trail Riding</h1>
+					<copy><![CDATA[<p>Get back on the horse and take one of the world's most beautiful rides along Hāna's lush, unspoiled coastline.  Enjoy the sight of the mountains and sound of the sea crashing into lava rock, as your guide leads you along a saddled journey that you'll never forget.</p>]]>
+					</copy>
+					<thumbImg>images/site/equine-clinics-t.png</thumbImg>
+					<mainImg>images/site/equine-clinics.png</mainImg>
+					<imageCaption></imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="4" secondaryNav="false" id="34" position="6" sitemapId="2.0"  sitemapTitle="Experiences">
+					<title>Bocce</title>
+					<meta>
+						<slug>bocce</slug>
+						<pageTitle>Bocce</pageTitle>
+						<description>Bocce involves teams bowling small balls on a court. The team with the ball closest to the jack wins.</description>
+						<keywords> travaasa, bocce, game</keywords>
+					</meta>
+					<h1>Bocce</h1>
+					<copy><![CDATA[<p>The precision sport of Bocce began in Italy as a favorite game of the Roman Empire. It spread throughout Europe and eventually into the United States, Canada, Brazil and other countries around the world. Bocce is played on a dirt court. Players bowl the small wooden or plastic balls toward a smaller ball, called the jack. After everyone has bowled, the team with the ball closest to the jack wins. This is a game that has been known to become addicting, so don't be surprised if you leave Travaasa and find yourself picking up your own Bocce set.</p>]]>
+					</copy>
+					<thumbImg>images/site/bocce-t.png</thumbImg>
+					<mainImg>images/site/bocce.png</mainImg>
+					<imageCaption></imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="4" secondaryNav="false" id="35" position="7" sitemapId="2.0"  sitemapTitle="Experiences">
+					<title>Geocaching Adventure</title>
+					<meta>
+						<slug>geocaching-adventure</slug>
+						<pageTitle>Geocaching Adventure</pageTitle>
+						<description>A game of high-tech hide and seek using a GPS receiver to hide and search out containers</description>
+						<keywords>travaasa, geocaching, gps</keywords>
+					</meta>
+					<h1>Geocaching Adventure</h1>
+					<copy><![CDATA[<p>Geocaching is an outdoor sporting activity, often described as a "game of high-tech hide &amp; seek," in which the participants use a Global Positioning System (GPS) receiver or other navigational techniques to hide and search out containers, called "geocaches" or "caches" anywhere in the world. And in your case, you'll have the entire spectacular Travaasa property to explore&mdash;discovering and hiding your own caches.</p>]]>
+					</copy>
+					<thumbImg>images/site/geocaching-adventure-t.png</thumbImg>
+					<mainImg>images/site/geocaching-adventure.png</mainImg>
+					<imageCaption></imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="4" secondaryNav="false" id="36" position="8" sitemapId="2.0"  sitemapTitle="Experiences">
+					<title>Austin Golf</title>
+					<meta>
+						<slug>austin -golf</slug>
+						<pageTitle>Austin Golf</pageTitle>
+						<description>A par-72 championship golf course that’s one of the finest in Texas and the first in Austin to be designed by Masters champion Fred Couples.</description>
+						<keywords>travaasa, golf, austin, course</keywords>
+					</meta>
+					<h1>Austin Golf</h1>
+					<copy><![CDATA[<p>If golf is your thing, you’ll be thrilled to play at the exclusive Twin Creeks Country Club located adjacent to our property. Although this is a private club, Travaasa guests are invited to enjoy it during their stay. This 7,033-yard, par-72 championship golf course is recognized as one of the finest in Texas and is the first in the Austin area to be designed by Masters champion Fred Couples, who made the most of the course’s gorgeous natural setting. It features a picturesque 195 acres of dramatic rolling terrain highlighted by low-lying ravines lined with limestone outcroppings and century-old oak and pecan trees. The namesake twin creeks traverse the entire course, resulting in stream crossings and natural water elements that come into play on 13 of the course’s 18 holes. With a delicate balance of challenge and play, it creates an exceptional golf experience for every level of player. Tee times can be made at our Welcome Center. Learn more about the course by visiting <a href="http://twincreeksclub.com" target="_blank">http://twincreeksclub.com</a>.</p>]]>
+					</copy>
+					<thumbImg>images/site/austin-golf-t.png</thumbImg>
+					<mainImg>images/site/austin-golf.png</mainImg>
+					<imageCaption></imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="5" secondaryNav="true" id="37" position="1" sitemapId="2.0"  sitemapTitle="Experiences">
+					<title>Enrichment</title>
+					<meta>
+						<slug>enrichment-overview</slug>
+						<pageTitle>Enrichment Overview</pageTitle>
+						<description>Explore other cultures, immerse yourself in foods from near and far and allow for moments that renew and challenge.</description>
+						<keywords>travaasa, enrichment, cultures, foods</keywords>
+					</meta>
+					<h1>Enrichment</h1>
+					<copy><![CDATA[<p>This is your time to explore the world so you can come home richer for having tasted other cultures, heard other stories and immersed yourself in foods from near and far. This is your time to allow for serendipitous moments that refresh, renew and challenge. This is your time to learn how to Travaasa.</p>]]>
+					</copy>
+					<thumbImg>images/site/enrichment-overview-t.png</thumbImg>
+					<mainImg>images/site/enrichment-overview.png</mainImg>
+					<imageCaption>Because you have an appetite for exploring life.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="5" secondaryNav="false" id="38" position="2" sitemapId="2.0"  sitemapTitle="Experiences">
+					<title>Austin Music Experience</title>
+					<meta>
+						<slug>austin-music-experience</slug>
+						<pageTitle>Austin Music Experience</pageTitle>
+						<description>See and hear the Austin music scene in this guided off-property journey.</description>
+						<keywords>travaasa, austin, music, musical</keywords>
+					</meta>
+					<h1>Austin Music Experience</h1>
+					<copy><![CDATA[<p>Experience Austin in a few hours as you see and hear the sounds of one of the country’s most unique and important musical cities. This guided, off-property journey will immerse you in the city where, day or night, weekday or weekend, you can always find something playing. And live music is just the beginning. Browse the never-ending selection at Waterloo Records, take a picture with the statue of Stevie Ray Vaughan and see the venues where musical breakthroughs were incubated, all before taking in an intimate live performance at the legendary Studio 6A.</p>]]>
+					</copy>
+					<thumbImg>images/site/austin-music-experience-t.png</thumbImg>
+					<mainImg>images/site/austin-music-experience.png</mainImg>
+					<imageCaption></imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="5" secondaryNav="false" id="39" position="3" sitemapId="2.0"  sitemapTitle="Experiences">
+					<title>Cooking: Basic Culinary Skills Series</title>
+					<meta>
+						<slug>cooking-basic-culinary-skills</slug>
+						<pageTitle>Cooking: Basic Culinary Skills</pageTitle>
+						<description>Cooking demos that teach you skills and techniques while showcasing Travaasa house recipes. A four-part series in terminology, eggs, knife skills and sauces.</description>
+						<keywords>travaasa, cooking, culinary, skills, class, terminology, eggs, knife, sauces </keywords>
+					</meta>
+					<h1><![CDATA[Cooking Demo: Basic Culinary Skills Series&mdash;4 Parts]]></h1>
+					<copy><![CDATA[<p>Jean&mdash;mom to one of the Travaasa founders—always said that being at the kitchen table, sharing your day’s story with family and friends, was the most magical time of the day. We can just hear her say, "We need more time for breaking bread, mmm, mmm, life is delicious!" That’s why we invite you to take time to explore Jean’s Kitchen, where the recipes are designed to help you create, taste and share the delicious moments of life. Our cooking demos will teach you skills and techniques while showcasing Travaasa house recipes. Let our gourmet culinary team delight you, on property, with ways to prepare, cook and present the cuisine you savor. A four-part series:</p>
+					<ul>
+						<li>Part I: Terminology (translating chef-speak)</li>
+						<li>Part II: Eggs (learn more about the multitalented egg)</li>
+						<li>Part III: Knife Skills: Tips, Tricks & Techniques</li>
+						<li>Part IV: Stocks and Sauces</li>
+					</ul>]]>
+					</copy>
+					<thumbImg>images/site/tasting-series-t.png</thumbImg>
+					<mainImg>images/site/tasting-series.png</mainImg>
+					<imageCaption></imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="5" secondaryNav="false" id="40" position="4" sitemapId="2.0"  sitemapTitle="Experiences">
+					<title>Cooking: Culinary Techniques</title>
+					<meta>
+						<slug>cooking:-culinary-techniques</slug>
+						<pageTitle>Cooking: Culinary Techniques</pageTitle>
+						<description>Cooking demos that teach you skills and techniques while showcasing Travaasa house recipes. A three-part series dealing with French, Italian and Outdoor tradition. </description>
+						<keywords>travaasa, cooking, demos, terminology, recipes, french, italian, grilling, barbeque </keywords>
+					</meta>
+					<h1><![CDATA[Cooking Demo: Culinary Techniques Series&mdash;3 Parts]]></h1>
+					<copy><![CDATA[<p>Our cooking demos will teach you skills and techniques while showcasing Travaasa house recipes. Let our gourmet culinary team delight you, on property, with ways to prepare, cook and present the cuisine you savor. A three-part series:</p>
+					<ul>
+						<li>Part I: French Tradition</li>
+						<li>Part II: Italian Tradition</li>
+						<li>Part III: Outdoor Tradition&mdash;grilling, barbeque, earth ovens</li>
+					</ul>]]>
+					</copy>
+					<thumbImg>images/site/culinary-techniques-t.png</thumbImg>
+					<mainImg>images/site/culinary-techniques.png</mainImg>
+					<imageCaption></imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="5" secondaryNav="false" id="41" position="5" sitemapId="2.0"  sitemapTitle="Experiences">
+					<title>Cooking: Having Fun in the Kitchen</title>
+					<meta>
+						<slug>cooking:-having-fun-in-the-kitchen-series</slug>
+						<pageTitle>Cooking: Having Fun in the Kitchen Series</pageTitle>
+						<description>Cooking demos that teach you skills and techniques while showcasing Travaasa house recipes. A three-part series dealing with appetizers, cocktails and irresistible recipes.</description>
+						<keywords>travaasa, cooking, appetizers, cocktails, recipes</keywords>
+					</meta>
+					<h1><![CDATA[Cooking Demo: Having Fun in the Kitchen Series&mdash;3 Parts]]></h1>
+					<copy><![CDATA[<p> Our cooking demos will teach you skills and techniques while showcasing Travaasa house recipes. Let our gourmet culinary team delight you, on property, with ways to prepare, cook and present the cuisine you savor. A three-part series:</p>
+					<ul>
+						<li>Part I: Three Memorable &amp; Easy Appetizers</li>
+						<li>Part II: The Art of the Cocktail</li>
+						<li>Part III: Make Them Come Back</li>
+					</ul>]]>
+					</copy>
+					<thumbImg>images/site/fun-in-kitchen-t.png</thumbImg>
+					<mainImg>images/site/fun-in-kitchen.png</mainImg>
+					<imageCaption></imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="5" secondaryNav="false" id="42" position="6" sitemapId="2.0"  sitemapTitle="Experiences">
+					<title>Cooking: Healthy Cooking</title>
+					<meta>
+						<slug>cooking:-healthy-cooking</slug>
+						<pageTitle>Cooking: Healthy Cooking</pageTitle>
+						<description>Cooking demos that teach you skills and techniques while showcasing Travaasa house recipes. A five-part series dealing with salads, drink tonics, whole grains and beans, sea vegetables and healthy desserts.</description>
+						<keywords>travaasa, cooking, healthy, salads, tonics, vegetables, recipes</keywords>
+					</meta>
+					<h1><![CDATA[Cooking Demo: Healthy Cooking Series&mdash;5 Parts]]></h1>
+					<copy><![CDATA[<p>Our cooking demos will teach you skills and techniques while showcasing Travaasa house recipes. Let our gourmet culinary team delight you, on property, with ways to prepare, cook and present the cuisine you savor. A five-part series:</p>
+					<ul>
+						<li>Part I: Salads</li>
+						<li>Part II: Drink Remedies</li>
+						<li>Part III: Whole Grains and Beans</li>
+						<li>Part IV: Sea Vegetables</li>
+						<li>Part V: Healthy Desserts</li>
+					</ul>]]>
+					</copy>
+					<thumbImg>images/site/healthy-cooking-t.png</thumbImg>
+					<mainImg>images/site/healthy-cooking.png</mainImg>
+					<imageCaption></imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="5" secondaryNav="false" id="43" position="7" sitemapId="2.0"  sitemapTitle="Experiences">
+					<title>Cooking: Regional Cuisine Series</title>
+					<meta>
+						<slug>cooking:-regional-cuisine-series</slug>
+						<pageTitle>Cooking: Regional Cuisine Series</pageTitle>
+						<description>Cooking demos that teach you skills and techniques while showcasing Travaasa house recipes. A three-part series dealing with Mediterranean, Asian, Texan and Hawaiian cuisines.</description>
+						<keywords>travaasa, cooking, regional, mediterranean, asian, texan, hawaiian, recipes</keywords>
+					</meta>
+					<h1><![CDATA[Cooking Demo: Regional Cuisine Series&mdash;3 Parts]]></h1>
+					<copy><![CDATA[<p>Our cooking demos will teach you skills and techniques while showcasing Travaasa house recipes. Let our gourmet culinary team delight you, on property, with ways to prepare, cook and present the cuisine you savor. A three-part series:</p>
+					<ul>
+						<li>Part I: Mediterranean</li>
+						<li>Part II: Asian</li>
+						<li>Part III: Texan/Hawaiian</li>
+					</ul>]]>
+					</copy>
+					<thumbImg>images/site/regional-cuisine-t.png</thumbImg>
+					<mainImg>images/site/regional-cuisine.png</mainImg>
+					<imageCaption></imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="5" secondaryNav="false" id="44" position="8" sitemapId="2.0"  sitemapTitle="Experiences">
+					<title>Tasting Series</title>
+					<meta>
+						<slug>tasting-series</slug>
+						<pageTitle>Tasting Series</pageTitle>
+						<description>An education for your palate that includes tastings of regional foods, organic wines, handcrafted beers and artisanal delicacies.</description>
+						<keywords>travaasa, tasting, palate, regional, organic, education, delicacies</keywords>
+					</meta>
+					<h1><![CDATA[Tasting Series]]></h1>
+					<copy><![CDATA[<p>Sip. Surrender. Savor. Plunge into the Travaasa Tasting Series and give your palate an education unlike any other. Discover the subtle nuances between olive oils, the zip and tang of barbecue sauces, decadent chocolates and the rich ripeness of artisanal cheeses. And of course, there’s the whole world of beverages ready to delight in: aromatic coffees, handcrafted beers, tea flights, spirits from craft distillers and even the differences in coconut milks. And your experience wouldn’t be complete without exploring the many, many flavors of regional cuisines.</p>]]>
+					</copy>
+					<thumbImg>images/site/basic-culinary-skills-t.png</thumbImg>
+					<mainImg>images/site/basic-culinary-skills.png</mainImg>
+					<imageCaption>As we always say, the educated palate is a happy (and satisfied) palate.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="5" secondaryNav="false" id="45" position="9" sitemapId="2.0"  sitemapTitle="Experiences">
+					<title>Ecology Series</title>
+					<meta>
+						<slug>ecology-series</slug>
+						<pageTitle>Ecology Series</pageTitle>
+						<description>A guided hike of the Travaasa property that includes learning about the area's ecology.</description>
+						<keywords>travaasa, ecology, hike</keywords>
+					</meta>
+					<h1><![CDATA[Ecology Series]]></h1>
+					<copy><![CDATA[<p>Come see some of the area’s natural, unique qualities and learn about its ecology as you enjoy a guided hike through the property.</p>
+					<ul>
+						<li>Part I: Birds, Bees and Butterflies</li>
+						<li>Part II: Healing Properties of Herbs/Plants</li>
+						<li>Part III: Botanicals</li>
+						<li>Part IV: Native Plants</li>					
+					</ul>]]>
+					</copy>
+					<thumbImg>images/site/ecology-series-t.png</thumbImg>
+					<mainImg>images/site/ecology-series.png</mainImg>
+					<imageCaption>Discover firsthand why the Balcones Canyonland is a National Wildlife Preserve.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="5" secondaryNav="false" id="46" position="10" sitemapId="2.0"  sitemapTitle="Experiences">
+					<title>Learning Harmonica</title>
+					<meta>
+						<slug>learning-harmonica</slug>
+						<pageTitle>Learning Harmonica</pageTitle>
+						<description>The harmonica allows the musically challenged to learn how to create music within a few hours.</description>
+						<keywords>travaasa, harmonica, music</keywords>
+					</meta>
+					<h1><![CDATA[Learning Harmonica]]></h1>
+					<copy><![CDATA[<p>Not just for cowhands, the harmonica allows the musically challenged to begin enjoying the benefits of music within just a few hours. You do not have to know how to read music to begin playing the harmonica. All you need is a tune in your head, because in some ways it is much like humming or whistling. In just a short time, everything clicks and it becomes as natural as whistling. You just sing your music through your harmonica without thinking about the numbered holes and whether you blow or draw.</p>]]>
+					</copy>
+					<thumbImg>images/site/learning-harmonica-t.png</thumbImg>
+					<mainImg>images/site/learning-harmonica.png</mainImg>
+					<imageCaption></imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="5" secondaryNav="false" id="47" position="11" sitemapId="2.0"  sitemapTitle="Experiences">
+					<title>Photography</title>
+					<meta>
+						<slug>photography</slug>
+						<pageTitle>Photography</pageTitle>
+						<description>Capture the beauty of the Texas Hill Country by learning how to compose shots that make the most of natural scenery.</description>
+						<keywords> travaasa, photography, camera</keywords>
+					</meta>
+					<h1><![CDATA[Photography]]></h1>
+					<copy><![CDATA[<p>For budding Ansel Adams-es, learn to capture the beauty of the Texas Hill Country by focusing through the lens of a digital camera. We’ll teach you how to compose your shots, making the most of natural scenery, and offer important tips on how to frame a scene for maximum gorgeousness. Bring your own camera and make sure you have plenty of memory.</p>]]>
+					</copy>
+					<thumbImg>images/site/photography-t.png</thumbImg>
+					<mainImg>images/site/photography.png</mainImg>
+					<imageCaption></imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="5" secondaryNav="false" id="48" position="12" sitemapId="2.0"  sitemapTitle="Experiences">
+					<title>Stargazing</title>
+					<meta>
+						<slug>stargazing</slug>
+						<pageTitle>Stargazing</pageTitle>
+						<description>Discover the wonderment of the night sky and learn the stories the stars have to share.</description>
+						<keywords> travaasa, stargazing, sky, stars</keywords>
+					</meta>
+					<h1><![CDATA[Stargazing]]></h1>
+					<copy><![CDATA[<p>Many of us dwell in cities and rarely experience the wonderment of the night sky or learn the stories the stars have to share. Stargazing has an inextricable link to romance—it’s got all the essential components: mystery, pursuit and ultimate discovery. It’s an activity that is easily shared by couples, families and friends. Join us on this relaxing journey that’s nothing more complex than looking up at the stars and exploring, yet it can open up your mind to a whole new dimension.</p>]]>
+					</copy>
+					<thumbImg>images/site/stargazing-t.png</thumbImg>
+					<mainImg>images/site/stargazing.png</mainImg>
+					<imageCaption></imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="5" secondaryNav="false" id="49" position="13" sitemapId="2.0"  sitemapTitle="Experiences">
+					<title>Vision Boarding</title>
+					<meta>
+						<slug>vision-boarding</slug>
+						<pageTitle>Vision Boarding</pageTitle>
+						<description>Make your vision or dream happen with this visualization tool that manifests your dreams into reality.</description>
+						<keywords>travaasa, vision, boarding, exercise</keywords>
+					</meta>
+					<h1><![CDATA[Vision Boarding]]></h1>
+					<copy><![CDATA[<p>Do you have a vision? Or a dream? This is the workshop that can help you make it happen. A vision board is a simple yet powerful visualization tool that uses the universal law of attraction to begin manifesting your dreams into reality. This is an exercise in putting energy toward what you DO want in life, not what you don’t want. Do this exercise and see what happens. You’ll be surprised by the results.</p>]]>
+					</copy>
+					<thumbImg>images/site/vision-boarding-t.png</thumbImg>
+					<mainImg>images/site/vision-boarding.png</mainImg>
+					<imageCaption></imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="6" secondaryNav="true" id="50" position="1" sitemapId="2.0"  sitemapTitle="Experiences">
+					<title>Special Events</title>
+					<meta>
+						<slug>special-events-overview</slug>
+						<pageTitle>Special Events Overview</pageTitle>
+						<description>We spice things up at Travaasa with special events – everything from inspiring guest talks to social mixers, and seasonal and regional events.</description>
+						<keywords> travaasa, special, events, talks, mixers</keywords>
+					</meta>
+					<h1><![CDATA[Special Events]]></h1>
+					<copy><![CDATA[<p>At Travaasa we like to keep things moving, so we offer plenty of special events to spice things up. Everything from inspiring guest talks to social mixers and smartly designed happenings that are seasonal and regional in nature to ensure that you never get bored and have plenty of fodder for cocktail chatter when you get back home.</p>]]>
+					</copy>
+					<thumbImg>images/site/special-events-overview-t.png</thumbImg>
+					<mainImg>images/site/special-events-overview.png</mainImg>
+					<imageCaption>From scintillating seminars to scrumptious edibles, Travaasa gives you the world.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="6" secondaryNav="false" id="51" position="2" sitemapId="2.0"  sitemapTitle="Experiences">
+					<title>Seasonal Dinners</title>
+					<meta>
+						<slug>seasonal-dinners</slug>
+						<pageTitle>Seasonal Dinners</pageTitle>
+						<description>Savor a seasonally designed meal specific to your Travaasa location.</description>
+						<keywords> travaasa, seasonal, dinners, cooking</keywords>
+					</meta>
+					<h1><![CDATA[Seasonal Dinners]]></h1>
+					<copy><![CDATA[<p>Dine and savor a seasonally designed meal, specific to your Travaasa destination. Utilizing ingredients and cooking methods that are appropriate for the time and place, you’ll understand why the chef paired and crafted the dinner in his/her particular way.</p>]]>
+					</copy>
+					<thumbImg>images/site/seasonal-dinners-t.png</thumbImg>
+					<mainImg>images/site/seasonal-dinners.png</mainImg>
+					<imageCaption>Think global, eat local with seasonal specialties from our chefs.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="7" secondaryNav="true" id="52" position="1" sitemapId="2.0"  sitemapTitle="Experiences">
+					<title>Private Consultations</title>
+					<meta>
+						<slug>private-consultations</slug>
+						<pageTitle>Private Consultations</pageTitle>
+						<description>We offer private sessions of most of our Travaasa services.</description>
+						<keywords>travaasa, private, consultations, trainers, consultants</keywords>
+					</meta>
+					<h1><![CDATA[Private Consultations]]></h1>
+					<copy><![CDATA[<p>When you just can’t get enough of a good thing, prefer to go at your own pace or simply want our trainers and consultants all to yourself, we offer private sessions for the following services:</p>
+					<ul><li>Lifestyle Consultation</li>
+						<li>Personal Training</li>
+						<li>Holistic Nutrition Consultation</li>
+						<li>Strength Training</li>
+						<li>Flexibility Training</li>
+						<li>Interval Training</li>
+						<li>Core Training</li>
+						<li>Balance Training</li>
+						<li>Health Consultation</li>
+						<li>Wellness Consultation</li>
+						<li>Feng Shui Consultation</li>
+						<li>Private Hike (individual or group)</li>
+						<li>Private Dance Instruction</li>
+						<li>Personalized Yoga Session</li>
+						<li>Personalized Meditation Session</li>
+						<li>Water Fitness Instruction</li>
+					</ul>
+					<p>[All sessions are $125 for 50 minutes or $170 for 80 minutes]</p>]]>
+					</copy>
+					<thumbImg>images/site/private-consultations-t.png</thumbImg>
+					<mainImg>images/site/private-consultations.png</mainImg>
+					<imageCaption></imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+			</secondaryPages>
+		</experiences>
+	</pages>

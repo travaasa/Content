@@ -1,0 +1,9 @@
+#footer_frame{position:relative;}
+#footer_frame .content_wrapper{line-height:38px;}
+#footer_social ul li a img{margin-top:5px;}
+#background{top: 0px;}
+
+#reservation_cta input{height:11px;}
+#input_arrival_date{top:41px;}
+#input_departure_date{top:62px;}
+#reservation_cta .btn {bottom:3px;}

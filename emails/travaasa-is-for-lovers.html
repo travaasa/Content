@@ -1,0 +1,290 @@
+﻿<html><head><title></title><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><style type="text/css">
+/* Mobile-specific Styles */
+
+/* Client-specific Styles */
+#outlook a { padding: 0; }	/* Force Outlook to provide a "view in browser" button. */
+body { width: 100% !important; }
+.ReadMsgBody { width: 100%; }
+.ExternalClass { width: 100%; display:block !important; } /* Force Hotmail to display emails at full width */
+/* Reset Styles */
+/* Add 100px so mobile switch bar doesn't cover street address. */
+html, body { background-color: #fffff2; margin: 0; padding: 0; }
+img { height: auto; line-height: 100%; outline: none; text-decoration: none; display: block; }
+br, strong br, b br, em br, i br { line-height:100%; }
+h1, h2, h3, h4, h5, h6 { line-height: 100% !important; -webkit-font-smoothing: antialiased; }
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a { color: blue !important; }
+h1 a:active, h2 a:active,  h3 a:active, h4 a:active, h5 a:active, h6 a:active {	color: red !important; }
+/* Preferably not the same color as the normal header link color.  There is limited support for psuedo classes in email clients, this was added just for good measure. */
+h1 a:visited, h2 a:visited,  h3 a:visited, h4 a:visited, h5 a:visited, h6 a:visited { color: purple !important; }
+/* Preferably not the same color as the normal header link color. There is limited support for psuedo classes in email clients, this was added just for good measure. */  
+table td, table tr { border-collapse: collapse; }
+.yshortcuts, .yshortcuts a, .yshortcuts a:link,.yshortcuts a:visited, .yshortcuts a:hover, .yshortcuts a span {
+color: black; text-decoration: none !important; border-bottom: none !important; background: none !important;
+}	/* Body text color for the New Yahoo.  This example sets the font of Yahoo's Shortcuts to black. */
+#background-table { background-color: #fffff2; }
+/* Webkit Elements */
+#top-bar { border-radius:6px 6px 0px 0px; -moz-border-radius: 6px 6px 0px 0px; -webkit-border-radius:6px 6px 0px 0px; -webkit-font-smoothing: antialiased; background-color: #fffff2; color: #c1c1c2; }
+#top-bar a { font-weight: bold; color: #c1c1c2; text-decoration: none;}
+#footer { border-radius:0px 0px 6px 6px; -moz-border-radius: 0px 0px 6px 6px; -webkit-border-radius:0px 0px 6px 6px; -webkit-font-smoothing: antialiased; }
+/* Fonts and Content */
+body { font-family: Helvetica Neue, Arial, Helvetica, Geneva, sans-serif; }
+.header-content, .footer-content-left, .footer-content-right { -webkit-text-size-adjust: none; -ms-text-size-adjust: none; }
+/* Prevent Webkit and Windows Mobile platforms from changing default font sizes on header and footer. */
+.header-content { font-size: 12px; color: #c1c1c2; }
+.header-content a { font-weight: bold; color: #c1c1c2; text-decoration: none; }
+#headline p { color: #444444; font-family: Helvetica Neue, Arial, Helvetica, Geneva, sans-serif; font-size: 36px; text-align: center; margin-top:0px; margin-bottom:30px; }
+#headline p a { color: #444444; text-decoration: none; }
+#left-sidebar .toc-item { font-family: Helvetica Neue, Arial, Helvetica, Geneva, sans-serif; font-size: 12px; line-height: 16px; color: #d11241; margin-top: 0px; margin-bottom: 6px; }
+#left-sidebar .toc-item a { color: #d11241; text-decoration: none; }
+#left-sidebar .toc-heading { font-family: Helvetica Neue, Arial, Helvetica, Geneva, sans-serif; font-size: 11px; line-height: 15px; color:#777777; font-weight:bold; }
+#left-sidebar .toc-heading a { color: #777777; text-decoration: none; }
+#left-sidebar .left-column-heading { font-family: Helvetica Neue, Arial, Helvetica, Geneva, sans-serif; font-size: 11px; line-height:15px; color: #777772; font-weight:bold; }
+#left-sidebar .left-column-heading a { color: #777772; text-decoration:none; }
+#left-sidebar .left-column-subhead { font-family: Helvetica Neue, Arial, Helvetica, Geneva, sans-serif; font-size: 13px; line-height: 16px; color: #b0b0b0; font-weight: bold; margin-top: 0px; margin-bottom: 16px; }
+#left-sidebar .left-column-subhead a { color: #b0b0b0; text-decoration:none; }
+#left-sidebar .left-column-content { font-family: Helvetica Neue, Arial, Helvetica, Geneva, sans-serif; font-size: 12px; line-height: 16px; color: #7a7a71; margin-top: 0px; margin-bottom: 16px; }
+#left-sidebar .left-column-content a { color: #d11241; text-decoration: none; }
+.article-title { font-size: 18px; line-height:24px; color: #888881; font-weight:bold; margin-top:0px; margin-bottom:18px; font-family: Helvetica Neue, Arial, Helvetica, Geneva, sans-serif; }
+.article-title a { color: #888881; text-decoration: none; }
+.article-content { font-size: 13px; line-height: 18px; color: #444441; margin-top: 0px; margin-bottom: 18px; font-family: Helvetica Neue, Arial, Helvetica, Geneva, sans-serif; }
+.article-content a { color: #d11241; font-weight:bold; text-decoration:none; }
+.article-content ol, .article-content ul { margin-top:0px; margin-bottom:18px; margin-left:19px; padding:0; }
+.article-content li { font-size: 13px; line-height: 18px; color: #444441; }
+.article-content li a { color: #d11241; text-decoration:underline; }
+.article-content p {margin-bottom: 15px;}
+.footer-content-left { font-size: 12px; line-height: 15px; color: #ededed; margin-top: 0px; margin-bottom: 15px; }
+.footer-content-left a { color: #b0b0b2; font-weight: bold; text-decoration: none; }
+.footer-content-right { font-size: 11px; line-height: 16px; color: #ededed; margin-top: 0px; margin-bottom: 15px; }
+.footer-content-right a { color: #b0b0b2; font-weight: bold; text-decoration: none; }
+#footer { background-color: #d9d9d2; color: #ededed; }
+#footer a { color: #b0b0b2; text-decoration: none; font-weight: bold; }
+#permission-reminder { white-space: pre-wrap; }
+#street-address { color: #b0b0b0; white-space: pre-wrap; }
+</style>
+<!--[if gte mso 9]>
+<style _tmplitem="1229" >
+.article-content ol, .article-content ul {
+   margin: 0 0 0 24px;
+   padding: 0;
+   list-style-position: inside;
+}
+</style>
+<![endif]--></head><body><table width="100%" cellpadding="0" cellspacing="0" border="0" id="background-table">
+	<tbody><tr>
+		<td align="center" bgcolor="#fffff2">
+        	<table class="w640" width="640" cellpadding="0" cellspacing="0" border="0">
+            	<tbody><tr><td class="w640" width="640" height="20"></td></tr>
+                
+            	<tr>
+                	<td class="w640" width="640">
+                        <table id="top-bar" class="w640" width="640" cellpadding="0" cellspacing="0" border="0" bgcolor="#fffff2">
+    <tbody><tr>
+        <td class="w15" width="15"></td>
+        <td class="w325" width="350" valign="middle" align="left">
+            <table class="w325" width="350" cellpadding="0" cellspacing="0" border="0">
+                <tbody><tr><td class="w325" width="350" height="8"></td></tr>
+            </tbody></table>
+            <div class="header-content"><a href="http://travaasa.com/emails/travaasa-is-for-lovers.html">View Online</a></span></div>
+            <table class="w325" width="350" cellpadding="0" cellspacing="0" border="0">
+                <tbody><tr><td class="w325" width="350" height="8"></td></tr>
+            </tbody></table>
+        </td>
+        <td class="w30" width="30"></td>
+        <td class="w255" width="255" valign="middle" align="right">
+            <table class="w255" width="255" cellpadding="0" cellspacing="0" border="0">
+                <tbody><tr><td class="w255" width="255" height="8"></td></tr>
+            </tbody></table>
+            <table cellpadding="0" cellspacing="0" border="0">
+    <tbody><tr>
+        
+        
+        
+    </tr>
+</tbody></table>
+            <table class="w255" width="255" cellpadding="0" cellspacing="0" border="0">
+                <tbody><tr><td class="w255" width="255" height="8"></td></tr>
+            </tbody></table>
+        </td>
+        <td class="w15" width="15"></td>
+    </tr>
+</tbody></table>
+                        
+                    </td>
+                </tr>
+                <tr>
+                <td id="header" class="w640" width="640" align="center" bgcolor="#fffff2">
+    
+    <div align="center" style="text-align: center"><a href="http://travaasa.com/austin/#/rates-and-packages" target="_blank"><img id="customHeaderImage" src="http://travaasa.com/emails/images/Travaasa-is-for-lovers-640.png" class="w640" border="0" align="top" style="display: inline"></a></div>
+    
+    
+</td>
+                </tr>
+                
+                <tr id="twocolumn-content-row"><td class="w640" width="640"><table class="w640" width="640" cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr>
+        <td class="w15" width="15" bgcolor="#fffff2"></td>
+        <td id="left-sidebar" class="w140" width="140" bgcolor="#fffff2" valign="top" align="left">
+            
+            
+            <table class="w140" width="140" cellpadding="0" cellspacing="0" border="0">
+                <tbody><tr><td class="w140" width="140" height="15"></td></tr>
+                <tr>
+                    <td class="w140" width="140">
+                        <div align="left" class="left-column-heading"><singleline label="Title">&nbsp;</singleline></div>
+                    </td>
+                </tr>
+                <tr>
+                            <td class="w140" width="140">
+                                <p align="left" class="left-column-heading"><singleline label="Title">THE GIFT OF TRAVAASA</singleline></p>
+                                <div align="left" class="left-column-content"><multiline label="Description">Travaasa Gift Cards and E-Cards are perfect for spa treatments, overnight stays, and private classes.</multiline></div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="w140" width="140"><a href="http://travaasa.com/giftcards" target="_blank"><img src="http://travaasa.com/emails/images/gift-card-140.png" width="140" border="0" class="w140" editable="true" label="Image"></a></td>
+                       </tr>
+                                              <tr>
+                            <td class="w140" width="140">
+                                <p align="center" style="margin:0px 0px 2px 0px;" class="left-column-heading"><singleline label="Title">EXPERIENCE SCHEDULE</singleline></p>
+                                <div align="left" class="left-column-content"><multiline label="Description"></multiline></div>
+                            </td>
+                        </tr>
+                       <tr>
+                            <td class="w140" width="140"><a href="http://travaasa.com/austin/#/austinschedule" target="_blank"><img src="http://travaasa.com/emails/images/challenge-course2-140.jpg" width="140" border="0" editable="true" label="Image"></a></td>
+                       </tr>
+
+
+                
+            </tbody></table>
+                                
+			<repeater>	
+                </layout>
+
+            </repeater>
+            
+        </td>
+        <td class="w15" width="15" bgcolor="#fffff2"></td>
+        <td class="w470" width="470" bgcolor="#fffff2" valign="top">
+            <table class="w470" width="470" cellpadding="0" cellspacing="0" border="0">
+                <tbody><tr><td class="w470" width="470" height="30"></td></tr>
+            </tbody></table>
+            <table class="w470" width="470" cellpadding="0" cellspacing="0" border="0">
+                <tbody><tr>
+                    <td class="w30" width="30"></td>
+                    <td class="w410" width="410">
+                        <repeater>
+                                                
+                            
+                            <layout label="Text only">
+                                <table class="w410" width="410" cellpadding="0" cellspacing="0" border="0">
+                                    <tbody><tr>
+                                        <td class="w410" width="410">
+                                            <p align="left" class="article-title">Stay, play, and connect together</p>
+                                            <div align="left" class="article-content">
+                                              <p>Fall in love with <a href="http://travaasa.com/austin" target="_blank">Travaasa Austin</a> this February as the city's most active Destination Resort &amp; Spa provides guests with romantic and engaging classes for two. Leave feeling rested and connected.<br /><br /><em>package includes:</em></p>
+                                              <ul>
+                                              <li>Wine &amp; Cheese selections upon check-in</li>
+                                              <li>Two (2) $125 Spa Credits</li>
+                                              <li>Daily generous, healthy breakfast</li>
+                                              <li>Romantic chef-prepared dinner for two</li>
+                                              <li>Access to our romance-themed <a style="text-decoration:none;" href="http://travaasa.com/austin/#/austinschedule" target="_blank">experience schedule</a> featuring Aphrodisiac Culinary Demonstrations</li>
+                                              </ul>
+                                              <p style="text-align:center; color:#D11241;"><strong>1-855-TO-TRAVAASA&nbsp;&nbsp;|&nbsp;&nbsp;1-855-868-7282</strong></p>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="w410" width="410"><a href="http://travaasa.com/austin/#/rates-and-packages" target="_blank"><img src="http://travaasa.com/emails/images/rates-packages-140.png" width="410" border="0" class="w410" editable="true" label="Image"></a></td>
+                                    </tr>
+                                    <tr><td class="w410" width="410" height="1"></td></tr>
+                                </tbody></table>
+                            </layout>
+                                                
+                            
+                            <layout label="Text with full-width image">
+                                <table class="w410" width="410" cellpadding="0" cellspacing="0" border="0">
+                                    <tbody>
+                                   
+                                    <tr>
+                                        <td class="w410" width="410"><a href="http://travaasa.com/austin/#/travaasa-spa-overview" target="_blank"><img src="http://travaasa.com/emails/images/couples-massage-410.jpg" width="410" border="0" class="w410" editable="true" label="Image"></a></td>
+                                    </tr>
+                                   
+                                    <tr>
+                                        <td class="w410" width="410">
+                                            <div align="center" style="font-family:Georgia, 'Times New Roman', Times, serif !important; font-size:12px;" class="article-content"><multiline label="Description"><em>Can't get away for the weekend?<br />Enjoy a couples massage and visit for the day.</em></multiline></div>
+                                        </td>
+                                    </tr>
+                                    <tr><td class="w410" width="410" height="1"></td></tr>
+                                </tbody></table>
+                            </layout>         
+                         
+                            <layout label="Image gallery">
+                                <table class="w410" width="410" cellpadding="0" cellspacing="0" border="0">
+                                    <tbody><tr>
+                                        <td class="w195" width="195" valign="top">
+                                            <table class="w195" width="195" cellpadding="0" cellspacing="0" border="0">
+                                                <tbody><tr>
+                                                    <td class="w195" width="195"><a href="http://travaasa.com/hana/" target="_blank"><img src="http://travaasa.com/emails/images/hana-thumb-195.jpg" width="194" border="0" class="w195" editable="true" label="Image"></a></td>
+                                                </tr>
+                                               
+                                                <tr>
+                                                    <td class="w195" width="195">
+                                                        <div align="center" style="font-family:Georgia, 'Times New Roman', Times, serif !important; font-size:12px;" class="article-content"><multiline label="Description"><em>Discover Travaasa Hana</em></multiline></div>
+                                                    </td>
+                                                </tr>
+                                            </tbody></table>
+                                        </td>
+                                        <td width="20"></td>
+                                        <td class="w195" width="195" valign="top">
+                                            <table class="w195" width="195" cellpadding="0" cellspacing="0" border="0">
+                                                <tbody><tr>
+                                                    <td class="w195" width="195"><a href="http://travaasa.com/pdf/The-Spa-at-Travaasa_Guide.pdf" target="_blank"><img src="http://travaasa.com/emails/images/spa-guide-195.jpg" width="194" border="0" class="w195" editable="true" label="Image"></a></td>
+                                                </tr>
+                                             
+                                                <tr>
+                                                    <td class="w195" width="195">
+                                                        <div align="center" style="font-family:Georgia, 'Times New Roman', Times, serif !important; font-size:12px;" class="article-content"><multiline label="Description"><em>Download our Spa Guide</em></multiline></div>
+                                                    </td>
+                                                </tr>
+                                               
+                                            </tbody></table>
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </layout>
+                        </repeater>
+                    </td>
+                    <td class="w30" width="30"></td>
+                </tr>
+            </tbody></table>
+        </td>
+    </tr>
+</tbody></table>
+</td></tr>
+                <tr>
+                	<td class="w640" width="640"><table class="w640" width="640" cellpadding="0" cellspacing="0" border="0">
+                        <tbody>
+               		</tbody></table></td>
+                </tr>
+                <t2>
+                
+                
+                <tr><td class="w640" width="640" height="1"></td></tr>
+            </tbody></table>
+        </td>
+	</tr>
+                <tr>
+                  <td class="w640" align="center" width="640" height="95"><img src="http://travaasa.com/emails/images/social-footer-yellow.png" width="650" height="95" usemap="#Map2" alt="FOOTER"></td></tr>
+  </tbody></table>
+        </td>
+	</tr>
+    <tr><td class="w640" width="640" height="80">&nbsp;</td></tr>
+</tbody></table>
+
+<map name="Map2">
+  <area shape="rect" coords="539,23,622,74" href="http://asp.data2gold.com/?31011R535B5Z0K3A012X364N3B5G3C4F4V3N2R5C3S5S3C1J403C4Q2X3O0V0O5X311T0W5J404R1U0D580H1M23343L3J6835" target="_blank" TITLE="http://www.yelp.com/biz/travaasa-austin-austin">
+  <area shape="rect" coords="384,21,523,73" href="http://asp.data2gold.com/?0X053I0T315X3A6B2X5X1N5F1Y1D6T24584D13506J004U2Z08327016175Q4L4N2P4M00286S1H5O2M5C08706S3G4F621J0T" target="_blank" TITLE="http://www.tripadvisor.com/Hotel_Review-g30196-d2008152-Reviews-Travaasa_Austin-Austin_Texas.html">
+  <area shape="rect" coords="240,20,373,74" href="http://www.preferredboutique.com/luxuryhotel/Travaasa-Austin/" target="_blank" TITLE="http://www.preferredboutique.com/luxuryhotel/Travaasa-Austin/">
+  <area shape="rect" coords="155,20,226,76" href="http://asp.data2gold.com/?490K11240N3H252K6509240J15280G272J6M2L451K026K1B2I020K0O050N3059250S0G0P5M0N13613G6U0U1G0N16450D07" target="_blank" TITLE="http://twitter.com/travaasa_austin">
+    <area shape="rect" coords="23,22,132,76" href="http://asp.data2gold.com/?5H3A2Q2J0Z3T4J396B5E6X6D5S3A0U0318106T5D1N280A211Y1D482J6U71051D0K705P352X275N2Y1L4R6V662E680E140K" target="_blank" TITLE="http://www.facebook.com/Travaasa.Austin">
+</map>
+</body></html>

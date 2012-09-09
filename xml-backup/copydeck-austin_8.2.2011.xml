@@ -1,0 +1,841 @@
+<?xml version="1.0" standalone='yes' ?>
+	<pages>	
+		<austin>
+			<secondaryPages>
+				<page section="0" secondaryNav="true" id="0" position="1"  sitemapId="3.0">
+					<title>Travaasa Austin Overview</title>
+					<meta>
+						<slug>travaasa-austin-overview</slug>
+						<pageTitle>Travaasa Austin</pageTitle>
+						<description>Sustainability and eco-friendly principles guided the construction of Travaasa on 210 acres of Texas Hill Country.</description>
+						<keywords>travaasa, austin, texas, hill, country, sustainability, eco-friendly, canyonlands</keywords>
+					</meta>
+					<h1>Travaasa Austin: Natural Beauty in Texas Hill Country</h1>
+					<copy><![CDATA[<p>The sound of Golden-cheeked Warblers—who nest nowhere else in the world except in the oak and juniper woodlands of the Balcones Canyonlands. The sight of 210 acres of Texas Hill Country spreading out in every direction in front of you. The smell of Bluebonnets, a native Texas wildflower. Once you experience this beautiful piece of earth, you’ll understand why sustainability and eco-friendly principles guide every facet of our design and operation.</p>
+					<p>Travaasa is an environmentally-sensitive destination hotel that was built with respect for the untouched, natural beauty of the adjoining Balcones Canyonlands Preserve. Only 34 acres were developed; native vegetation and wildlife are abundant throughout the rest of this undisturbed preserve.</p>
+					<p>The property integrates the existing terrain using a "least disturbance" design philosophy&mdash;emphasizing land and water conservation efforts. Discover more about our green methodology in our construction materials and energy consumption sections. Or just come see for yourself.</p>
+					<p><strong><a href="/austin/rates-and-packages" class="address_ajax" >Learn more</a> about our Friends and Family rates at Travaasa Austin through March 31st.</strong></p>]]></copy>
+					<thumbImg>images/site/natural-beauty-t.png</thumbImg>
+					<mainImg>images/site/natural-beauty.png</mainImg>
+					<imageCaption>Let all your senses explore Travaasa Austin</imageCaption>
+					<Storybook></Storybook>
+					<pdf_downloads>
+						<pdf>
+							<title>Travaasa Austin Construction Materials</title>
+							<url>/pdf/Travaasa-Construction.pdf</url>
+						</pdf>
+						<pdf>
+							<title>Travaasa Austin Energy Consumption</title>
+							<url>/pdf/Travaasa-Energy-Consumption.pdf</url>
+						</pdf>
+					</pdf_downloads>
+				</page>
+				<page section="0" secondaryNav="false" id="1" position="2"  sitemapId="3.0.1">
+					<title>Managing Director, Larry Callahan</title>
+					<meta>
+						<slug>managing-director-larry-callahan</slug>
+						<pageTitle>Managing Director, Larry Callahan</pageTitle>
+						<description>Larry Callahan has three decades of experience in resort and project management for world-class properties.</description>
+						<keywords>travaasa, larry, callahan, management, managing, director</keywords>
+					</meta>
+					<h1>Larry Callahan, Managing Director, Travaasa Austin</h1>
+					<copy><![CDATA[<p>With more than three decades of experience in resort and project management for world-class properties, Larry Callahan was handpicked to manage and oversee Travaasa Austin.</p><p>Prior to Travaasa, Larry managed unique and magical hotels such as El Capitan in Santa Barbara, Robert Redford’s Sundance Resort & Properties in Utah, Post Ranch Inn in Big Sur California, Cousteau's Fiji Island Resort and the Lodge at Skylonda.</p><p>At heart, Larry is a consummate host who is fond of saying "Ensuring our guests leave feeling like they could only have had such a memorable journey at Travaasa is not just my goal; it’s my mission."</p>]]></copy>
+					<thumbImg>images/site/larry-callahan-REV-t.png</thumbImg>
+					<mainImg>images/site/larry-callahan-REV.png</mainImg>
+					<imageCaption></imageCaption>
+					<Storybook></Storybook>
+					<pdf_downloads>
+						<pdf>
+							<title></title>
+							<url></url>
+						</pdf>
+					</pdf_downloads>
+				</page>
+				<page section="1" secondaryNav="true" id="2" position="1"  sitemapId="3.1">
+					<title>Austin Experiences</title>
+					<meta>
+						<slug>austin-experiences</slug>
+						<pageTitle>Austin Experiences</pageTitle>
+						<description>We provide a wide range of experiences to enrich your mind, stretch your imagination, feed your psyche, move your body, and give you spa delights. We call these experiences Travaasas.</description>
+						<keywords> travaasa, austin, experiences, travaasas</keywords>
+					</meta>
+					<h1>Austin Travaasas</h1>
+					<copy><![CDATA[<p>At Travaasa, we provide a wide range of experiences to enrich your mind, stretch your imagination, feed your psyche, move your body and spa-ify your visage. We call our diverse offerings "Travaasas."</p><p>
+
+					From guided and "on your own" hiking on marked trails throughout breathtaking Balcones Canyonland property, to swimming in our infinity pool or soaking in the sauna, we offer a delightful array of activities to ensure your experience with us is memorable. And just when you thought you’d seen everything, along comes storytelling at our fire pit, a round or two of golf at the championship-level Twin Creeks Country Club or stand up paddle on nearby Lake Travis.</p>]]>
+					</copy>
+					<thumbImg>images/site/austin-travaasas-t.png</thumbImg>
+					<mainImg>images/site/austin-travaasas.png</mainImg>
+					<imageCaption>Explore the world. One Travaasa experience at a time.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="1" secondaryNav="false" id="3" position="2">
+					<title>Wellness</title>
+					<meta>
+						<slug>wellness</slug>
+						<pageTitle>Wellness</pageTitle>
+						<description>Wellness Travaasas will expand your mind and refresh and energize your body.</description>
+						<keywords>travaasa, austin, wellness, travaasas, well-being</keywords>
+					</meta>
+					<h1>Wellness</h1>
+					<copy><![CDATA[<p>Take a deep breath and join us for wellness Travaasas that will expand your mind as well as refresh and energize your body. Our Austin offerings fully integrate the needs of the body with the needs of the mind, spirit and soul for a satisfying feeling of well-being, Travaasa-style.</p><p><a href="/experiences/wellness-overview">Learn More</a></p>]]>
+					</copy>
+					<thumbImg>images/site/austin-wellness-t.png</thumbImg>
+					<mainImg>images/site/austin-wellness.png</mainImg>
+					<imageCaption>Travaasa is a journey that will refresh your body and spirit.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="1" secondaryNav="false" id="4" position="3">
+					<title>Fitness</title>
+					<meta>
+						<slug>fitness</slug>
+						<pageTitle>Fitness</pageTitle>
+						<description>Fitness classes with a distinctive Travaasa twist.</description>
+						<keywords> travaasa, fitness, classes</keywords>
+					</meta>
+					<h1>Fitness</h1>
+					<copy><![CDATA[<p>From Zumba to an outdoor circuit training course that takes you past sights you won’t see anywhere else, our Hill Country location offers fitness classes with a distinctive Travaasa twist. Join in a class&mdash;Nia or Pilates and more-or work on your own in a private consultation. This is your chance to get in touch with your physical self in a goose-bump-inducing environment.</p><p><a href="/experiences/fitness-overview">Learn More</a></p>]]>
+					</copy>
+					<thumbImg>images/site/austin-fitness-t.png</thumbImg>
+					<mainImg>images/site/austin-fitness.png</mainImg>
+					<imageCaption>Getting fit never looked this good.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="1" secondaryNav="false" id="5" position="4">
+					<title>Outdoor</title>
+					<meta>
+						<slug>outdoor</slug>
+						<pageTitle>Outdoor</pageTitle>
+						<description>Your time at Travaasa Austin can’t be duplicated anywhere else.</description>
+						<keywords>travaasa, austin, outdoor</keywords>
+					</meta>
+					<h1>Outdoor</h1>
+					<copy><![CDATA[<p>Your outdoor experience in Austin is augmented by the jaw-dropping scenery of the Balcones Canyonland. Indigenous plants, protected wildlife and dramatic skies balanced against the meeting of two geographical regions, the Great Plains and the Gulf Coast, will only add to your enjoyment of all the many activities at your fingertips. From hiking to equine experiences, golf, and water sports on Lake Travis, your time at Travaasa Austin can’t be duplicated anywhere.</p><p><a href="/experiences/outdoor-overview">Learn More</a></p>]]>
+					</copy>
+					<thumbImg>images/site/austin-outdoor-t.png</thumbImg>
+					<mainImg>images/site/austin-outdoor.png</mainImg>
+					<imageCaption>There's nowhere else on earth like Travaasa Austin.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="1" secondaryNav="false" id="6" position="5">
+					<title>Enrichment</title>
+					<meta>
+						<slug>enrichment</slug>
+						<pageTitle>Enrichment</pageTitle>
+						<description>Your chance of a lifetime to go home with rich, soul-satisfying memories.</description>
+						<keywords>travaasa, enrichment, austin, memories</keywords>
+					</meta>
+					<h1>Enrichment</h1>
+					<copy><![CDATA[<p>"Memories to glow by" is our unofficial Travaasa mantra, and in Austin you'll have the chance of a lifetime to go home with rich, soul-satisfying memories. Enjoy outside storytelling around the fire pit, look at the night sky differently or take part in a tasting series that could only happen at Travaasa Austin. We offer an all-encompassing series of things to do, see, hear, feel and taste that you won't find anywhere else.</p><p><a href="/experiences/enrichment-overview">Learn More</a></p>]]>
+					</copy>
+					<thumbImg>images/site/austin-enrichment-t.png</thumbImg>
+					<mainImg>images/site/austin-enrichment.png</mainImg>
+					<imageCaption>Make your own memories to glow by.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="2" secondaryNav="true" id="7" position="1">
+					<title>Spa</title>
+					<meta>
+						<slug>spa</slug>
+						<pageTitle>Spa</pageTitle>
+						<description>Beyond pampering, Travaasa spa treatments reflect our passion for, and knowledge of, the human body and plant and essential oils to heal, treat and revitalize.</description>
+						<keywords>travaasa, spa, treat, heal, revitalize, treatment</keywords>
+					</meta>
+					<h1>The Spa at Travaasa Austin</h1>
+					<copy><![CDATA[<p>Beyond pampering, our spa treatments reflect our passion for, and knowledge of, the human body, as well as the ability of plants and essential oils to naturally treat, heal and revitalize the soul. Your spa experience begins the moment you walk through our doors and catch a glimpse of our gorgeous spa. Situated around an artfully designed infinity-edge pool with a spectacular view of Lake Travis, the spa at Travaasa welcomes you to plunge into experiences that are nurturing to the body, mind, heart and soul. Room rates include a daily spa treatment; your only worry will be which soothing option or alternative experience to choose.</p><p>There are 11 treatment rooms, including a room for couples. Our spa’s hot tub and sauna provide a tranquil spot for you to relax and unwind before and after treatments. We offer an array of massages, healing rituals, beauty treatments and personalized services, and use only organic, bioenergetic products, including the Primavera and Anakiri skin care lines, which are also available in our Spa Boutique.</p>]]>
+					</copy>
+					<thumbImg>images/site/spa-at-travaasa-t.png</thumbImg>
+					<mainImg>images/site/spa-at-travaasa.png</mainImg>
+					<imageCaption>Every inch of your body will respond to our spa treatments.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="2" secondaryNav="false" id="8" position="2">
+					<title>Spa Reservations</title>
+					<meta>
+						<slug>spa-reservations</slug>
+						<pageTitle>Spa Reservations</pageTitle>
+						<description>Reserve your spot for a Travaasa spa treatment package or retreat.</description>
+						<keywords> travaasa, spa, reserve, reservations, appointment</keywords>
+					</meta>
+					<h1>Reserve Your Spot</h1>
+					<copy><![CDATA[<p>To make reservations for a spa treatment or spa package, plan a spa retreat, or inquire about a customized wellness program, please call 512-225-1075 or toll-free at 855-TO-TRAVAASA (855-868-7282).</p>
+					<p>We encourage you to schedule your appointment in advance to ensure availability of treatments during your visit. We want your spa experience to be stress-free and relaxing. To help make your experience as enjoyable as possible, please consider the following before you arrive.</p>
+					<ul>
+						<li>When scheduling treatments, please let us know if you prefer a male or female therapist.</li>
+						<li>Should you need to cancel, please do so within 24 hours to avoid paying for a full treatment.</li>
+						<li>Any changes or cancellations within 6 hours of your scheduled appointment will be charged at 50% of full service price.</li>
+						<li>Shaving or waxing just prior to a treatment that includes a scrub is not recommended.</li>
+						<li>Please arrive a minimum of 30 minutes prior to your treatment time to begin the relaxation process. Allow time to change into your robe and spa slippers. Late arrivals may receive a reduced treatment time.</li>
+						<li>Please turn off all cell phones during your spa visit.</li>
+						<li>Travaasa does not accept children under the age of 16.</li>
+						<li>For your convenience, an 18% gratuity will be added to each spa service.</li>
+					</ul>]]>
+					</copy>
+					<thumbImg>images/site/spa-reservations-t.png</thumbImg>
+					<mainImg>images/site/spa-reservations.png</mainImg>
+					<imageCaption></imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="2" secondaryNav="false" id="9" position="3">
+					<title>Body Treatments</title>
+					<meta>
+						<slug>body-treatments</slug>
+						<pageTitle>Body Treatments</pageTitle>
+						<description>Therapeutic, energetic, soothing, stimulating—you choose which Travaasa body treatment works for you during your stay.</description>
+						<keywords>travaasa, body, treatments, therapeutic, energetic, soothing, cleansing, stimulating</keywords>
+					</meta>
+					<h1>Body Treatments</h1>
+					<copy><![CDATA[<p>Therapeutic, energetic, soothing, cleansing or stimulating; you decide which of our body treatments to delight in during your stay.</p>
+					<h2>Invigorating Avocado Wrap (50 minutes)</h2>
+					<p>This super-rich and moisturizing body wrap nourishes dry, parched skin and releases tension from head to toe. After a hydrating cleanse of lavender and palmarosa, you’ll bask in a warm wrap of sumptuous avocado body butter blended with essential oils of lavender, pine, orange and lemon to balance, purify and tone. A stimulating scalp massage with organic oils and rosemary will boost circulation and awaken the senses as a full-body mineral mist floods the cells with hydrating elixirs. You'll leave invigorated, revitalized and illuminated.</p>
+					<h2>Ancient Purification (80 minutes)</h2>
+					<p>Combining the therapeutic properties of energetic flower essences, organic oils and essential minerals, this distinct ritual has been soothing and renewing skin for centuries. It begins with an organic panela sugar scrub to relax the muscles and release toxins. Next, fossilized Dead Sea mud and organic herbs of chamomile, dandelion and lemon balm provide deep detoxification, while pure essential oils of rosemary, eucalyptus and lavender support, strengthen and ground the spirit. This joyful facial pressure-point and full-body massage will leave you feeling completely renewed.</p>
+					<h2>Detoxifying Juniper & Olive Stone Body Polish (50 minutes)</h2>
+					<p>This pampering treatment begins with a gentle, mineral-rich sea salt and crushed olive stone body polish to exfoliate, stimulate and cleanse the skin. During the massage, organic jojoba, almond and apricot kernel oils are mixed with organic juniper and cypress to detoxify your skin and body, restoring healthy tone and texture.</p>
+					<h2>Rejuvenating Clay & Aloe Body Wrap (80 minutes)</h2>
+					<p>Indigenous plants and flowers play a key role in this deeply stimulating wrap, which results in firmer and smoother skin. Organic juniper, cypress, rosemary and horsetail restore, rehydrate and protect, while unrefined, sun-dried green clay and French spirulina regenerate, oxygenate, clarify and balance. It’s the perfect way to restore mature or sun-damaged skin.</p>
+					<h2>Nurturing Scalp Treatment (25 minutes)</h2>
+					<p>A nurtured head is a nurtured body. This revitalizing treatment begins with an aromatic hot towel compress over the scalp, to help you relax and refresh. A luxurious, moisture-rich sun-dried clay pack is massaged over the scalp and hair to relieve stress and tension. This treatment adds moisture and minerals to your hair, leaving it full, silky and soft.</p>]]>
+					</copy>
+					<thumbImg>images/site/body-treatments-t.png</thumbImg>
+					<mainImg>images/site/body-treatments.png</mainImg>
+					<imageCaption>Plants, flowers and essential oils play a key role in our treatments.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="2" secondaryNav="false" id="10" position="4">
+					<title>Facials</title>
+					<meta>
+						<slug>facials</slug>
+						<pageTitle>Facials</pageTitle>
+						<description>Travaasa facials are created expressly for you.</description>
+						<keywords>travaasa, spa, facial, facials</keywords>
+					</meta>
+					<h1>Facials</h1>
+					<copy><![CDATA[<p>Put your face in good hands with a Travaasa facial created expressly for you.</p>
+					<h2>The Eco-Luxe Custom Facial (50 minutes)</h2><p>Reestablish the natural beauty and health of your skin with the pure ingredients and simple luxury of this facial, which is customized to your skin type to provide your complexion with the most benefit. You will have a healthy, radiant glow after we lavish your skin with phytonutrients, antioxidants such as vitamin C and alpha lipoic acid, organic and wild-crafted botanicals, and pure essential oils.</p>
+					<h2>Native Blends Rejuvenating Facial (50 minutes)</h2><p>Luminous skin is an hour away with this relaxing and purifying facial. You’ll experience a gentle cleansing with herbal steam wraps, lavender and rosemary cleansers blended with plant phospholipids and deep exfoliation. A two-layer super-antioxidant mask with mushroom and pumpkin enzymes, turmeric, and green tea will smooth and rejuvenate your complexion, while assisting with cell regeneration.</p>
+					<h2>Vitamin C Bio-Energetic Healing Facial (80 minutes)</h2><p>Restore radiance and vitality to every cell with this powerful and refreshing facial. It targets your skin’s nutritional and energetic needs with skin-renewing antioxidants such as alpha lipoic acid, green and rooibos tea and vitamins A, C and E. Two masks, sun-infused oils and luxurious moisturizers hydrate and restore your skin, while a hand and foot treatment with homeopathic preparations completes this luxurious treatment.</p>
+					<h2>Calming Gentle Facial (50 minutes)</h2><p>See for yourself why sun-dried white clay has been used by indigenous cultures throughout the ages for its healing, cooling, anti-inflammatory and regenerative properties. Our organic, botanical facial uses white clay, sandalwood and camellia seed oil to calm and nurture sensitive or sun-overexposed skin back to a healthy balance. Added organic neroli, argan oil, black currant, shea butter and rose will replenish your skin’s moisture level and strengthen and restore it to a healthy, even tone.</p>
+					<h2>Organic Ultimate Hydration Facial (80 minutes)</h2><p>The skin-purifying effect of this facial will restore youthful elasticity and hydrate skin with lasting moisture, leaving your skin feeling fresh and radiant. Sun-dried green and white clays, jojoba beads, aloe vera extract, organic licorice extract and spirulina combine with the rejuvenating properties of organic rose and pomegranate to create the harmonizing effect of this treatment, which will smooth fine lines, rehydrate skin cells and fight free radical damage.</p>
+					<h2>Clarifying Oil Control Facial (50 minutes)</h2><p>Decongest pores and restore balance, clarity and radiance to your skin with the natural powers of wild-crafted sandalwood, organic lemon and bitter orange. Fair-trade certified algae extract and unrefined, sun-dried green and white clays help control excessive oil production and remove clogging impurities from skin, while organic licorice extract calms, soothes and helps balance uneven pigmentation for radiant, youthful skin.</p>
+					<h2>Gentleman’s Clarifying Facial (50 minutes)</h2><p>Specifically designed for today’s active man, this deeply cleansing and hydrating facial employs wild-crafted sandalwood, organic lemon and bitter orange to exfoliate and purify the skin while decongesting pores. Fair-trade organic licorice extract calms and soothes the skin and helps balance uneven pigmentation. It’s the perfect way to balance, calm and restore his skin.</p>
+					<h2>Replenishing Deep Moisture Facial (50 minutes)</h2><p>Dehydrated skin magically responds to the soothing and calming effects of organic neroli oil. Our organic, fair-trade-cultivated and custom-distilled neroli, along with organic jojoba and willow bark extract, will soothe dry, flaky skin while calming and balancing the senses. Fine lines and uneven skin texture are smoothed by organic cassis seed oil, which also seals in natural moisture. The combined healing power of neroli and cassis replenishes and sustains the skin’s moisture level for a smooth and healthy texture.</p>
+					<h2>Stone Spirits Facial (50 minutes)</h2><p>Experience a cleansing facial followed by a face-lifting massage using warm and cool stones to relieve tension and stimulate a healthy glow.</p>
+					<h2>Remineralizing Skin Repair Facial (50 minutes)</h2><p>There may be no better way to regenerate, clarify and stimulate mature or sun-damaged skin than by using unrefined, sun-dried white and green clays blended with French spirulina. Skin deeply absorbs the minerals, vitamins and moisture in this unique blend of ingredients, which includes organic and fair-trade rose, argan oil, pomegranate seed oil, white tea and shea butter. Organic licorice extract and unrefined, fair-trade clays, plants and flowers will leave skin brighter, firmer, smoother and more youthful. All of our ingredients are organically cultivated and certified “responsible harvest” by the Forest Stewardship Council and Rainforest Alliance.</p>
+					<h2>Perfect Balance Facial (50 minutes)</h2><p>Healthy skin is all about finding the right balance. Organic sage essential oil reduces excess oil while reviving the senses, and organic grape seeds’ powerful antioxidants and essential fatty acids work to maintain the skin’s natural elasticity. These and other organic extracts (willow bark, licorice root, green tea and witch hazel) form an ideal harmony of plant-derived benefits that is ideal for combination to oily skin.</p>
+					<h2>Hydrating Eye Treatment (25 minutes)</h2><p>Rehydrate and refresh the delicate skin around your eyes. This treatment reduces puffiness, addresses fine lines and makes a great addition to any facial.</p>
+					<h2>Clarifying Back Treatment (25 minutes)</h2><p>Decongest pores and restore balance, clarity and radiance to your skin with the natural powers of wild-crafted sandalwood, organic lemon and bitter orange. Fair-trade-certified algae extract and unrefined, sun-dried green and white clays help control excessive oil production and remove clogging impurities from skin, while organic licorice extract calms, soothes and helps balance uneven pigmentation for radiant, youthful skin.</p>]]>
+					</copy>
+					<thumbImg>images/site/facials-t.png</thumbImg>
+					<mainImg>images/site/facials.png</mainImg>
+					<imageCaption>Relax with our facials that blend the art and science of pampering and healing.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="2" secondaryNav="false" id="11" position="5">
+					<title>Massage Therapy</title>
+					<meta>
+						<slug>massage-therapy</slug>
+						<pageTitle>Massage Therapy</pageTitle>
+						<description>No matter what your body craves, Travaasa massages run the gamut from energizing to deeply calming.</description>
+						<keywords>travaasa, massage, therapy</keywords>
+					</meta>
+					<h1>Massage Therapy</h1>
+					<copy><![CDATA[<p>Our massages run the gamut from energizing to deeply calming. No matter what your body craves, we have a special touch just for you.</p>
+					<h2>The Energetic Edge (80 minutes)</h2><p>For active athletes, our professional massage team performs this intensive therapy designed to give you the energetic edge for your specific sport. Organic sun-infused oils, homeopathic preparations and enzyme therapy will bathe and penetrate the muscle groups that you use most. Therapeutic massage and assisted stretches provide the ultimate support to ease pain and stiffness for increased flexibility and mobility.</p>
+					<h2>Deep Sleep Aromatherapy Massage (80 minutes)</h2><p>Melt away the stress of the day with a gentle Swedish massage enhanced by hot stones, soothing foot wraps, an herbal eye pack and relaxing herbal tea. A soothing blend of aromatic lavender, clary sage and ylang-ylang oils will send you off to dreamland. Sweet dreams!</p>
+					<h2>Detoxifying Juniper Olive Stone Exfoliation & Massage (80 minutes)</h2><p>The fresh scent of juniper berries revives the body and mind, while leaving skin silky, smooth and rejuvenated. Combined with pure seaweed and cypress, this juniper treatment cleans deep and stimulates, purifies and revitalizes the skin as it jump-starts the lymphatic system, aids circulation and penetrates the skin to help smooth cellulite. More toned, hydrated and tightened, your skin will thank you.</p>
+					<h2>Deep Tissue Massage (50/80 minutes)</h2><p>The stuff dreams are made of, there is no better way to release muscle tension, realign your posture and restore the proper range of motion than a deep tissue massage.</p>
+					<h2>Swedish Massage (50/80 minutes)</h2><p>This deeply relaxing massage uses long, flowing strokes to help reduce pain and stress, ease stiffness and aid in circulation.</p>
+					<h2>Stone Spirits&reg; Massage (50 minutes)</h2><p>The expert application of hot and cold is known to ease pain and inflammation. This massage features a variety of techniques performed with heated basalt stones to invite deep relaxation, and cold marble stones to soothe inflammation. The result is a balanced, relaxed and nurtured body from head to toe.</p>
+					<h2>Prenatal Massage (50/80 minutes)</h2><p>Nobody said it's easy being a mom-to-be. Perfect for all stages of pregnancy, this unique massage is designed to reduce fluid retention, increase muscle tone and soothe aching backs and necks.</p>
+					<h2>Thai Massage (50 minutes)</h2><p>This dynamic massage uses targeted yoga stretches, compression, joint manipulation and pressure points to restore and strengthen your body. Please wear comfortable clothing.</p>
+					<h2>Shiatsu (80 minutes)</h2><p>The Japanese word shiatsu, or “pressure with fingers,” describes both a form of physical manipulation and a means of balancing one’s “chi.” Based on centuries-old Eastern techniques, this active massage combines acupressure with stretches, weight and leverage to alleviate fatigue and pain. Please wear comfortable clothing.</p>]]>
+					</copy>
+					<thumbImg>images/site/massage-therapy-t.png</thumbImg>
+					<mainImg>images/site/massage-therapy.png</mainImg>
+					<imageCaption>Just close your eyes and let your muscles experience their own journey.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="2" secondaryNav="false" id="12" position="6">
+					<title><![CDATA[Hands & Feet]]></title>
+					<meta>
+						<slug>hands-and-feet</slug>
+						<pageTitle><![CDATA[Hands & Feet]]></pageTitle>
+						<description>Take care of those hardworking parts of your body: the hands and feet.</description>
+						<keywords>travaasa, hands, feet, treatment, spa</keywords>
+					</meta>
+					<h1><![CDATA[Hands &amp; Feet]]></h1>
+					<copy><![CDATA[<p>Your spa treatment wouldn't be complete without taking care of those two hardworking parts of our body: the hands and feet. Trust us, they will thank you for the bliss they feel after any one of our "only at Travaasa" treatments. </p>
+					<h2>Peppermint Zenergy Foot Care (25 minutes)</h2><p>Your feet deserve the same meticulous care with which you treat your face. This gloriously pampering foot treatment uses organic oils and hydrating shea butter usually exclusive to luxury facial moisturizers. It exfoliates, smooths and softens with organic sugar and grapefruit, while the power of peppermint energizes and revitalizes your hardworking feet. Yes, the rest of your body thinks your feet deserve it!</p>
+					<h2>Organic Coffee Foot Relief (25 minutes)</h2><p>Your daily coffee won’t make you feel this good! Regardless of your sport or activity, your faithful feet take the punishment. It’s time to give them a rest. This treatment refreshes your overworked feet with a combination of herbs and homeopathics that have been used for centuries to detoxify and relieve acute and chronic pain. Organic oils, coffee and cooling gels soften, exfoliate and nourish to complete this healthy therapy.</p>
+					<h2>Lavender Vanilla Hand Treatment (25 minutes)</h2><p>Using the soothing and healing power of lavender, this hand treatment will cleanse, exfoliate and hydrate your hands to leave them fresh and young.
+					
+					
+					]]>
+					</copy>
+					<thumbImg>images/site/hands-feet-t.png</thumbImg>
+					<mainImg>images/site/hands-feet.png</mainImg>
+					<imageCaption>We take hardworking hands and feet to a whole new level of bliss.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="2" secondaryNav="false" id="13" position="7">
+					<title><![CDATA[Special Packages & Day Spa]]></title>
+					<meta>
+						<slug>special-packages-and-day-spa</slug>
+						<pageTitle><![CDATA[Special Packages & Day Spa]]></pageTitle>
+						<description>Travaasa offers three different spa packages.</description>
+						<keywords> travaasa, spa, packages, day spa</keywords>
+					</meta>
+					<h1><![CDATA[Special Packages &amp; Day Spa]]></h1>
+					<copy><![CDATA[<p>For those who want the convenience of choosing a spa package, Travaasa offers three different options&mdash;two different full-day packages and our half-day selection for the time-pressed.</p>
+					<h2>Ultimate Bliss Full-Day Package</h2><p>Experience bliss and total relaxation with a full-day spa package that will nurture your body from head to toe. It begins with a Vitamin C Bio-Energetic Healing Facial and Hydrating Eye Treatment, followed by an Ancient Purification Body Treatment, Swedish Massage and Nurturing Scalp Treatment. A healthy lunch in The Spur or Jean’s Kitchen is included. Your day ends with a soothing tea served in a quiet corner of the spa. All gratuities are included; tax is additional.</p>
+					<h2>Serene & Calm Half-Day Package</h2><p>Unwind and renew with an amazing half-day package that will restore and renew your mind, body and spirit. Begin with an Organic Ultimate Hydration Facial, followed by an Invigorating Avocado Wrap Body Treatment and finally a Lavender Vanilla Hand Treatment. All gratuities are included; tax is additional.</p>
+					<h2>Day Spa Package </h2><p>Offered daily from 9:00 a.m. to 5:00 p.m., our Day Spa Package includes access to all Travaasa activities, a delicious, healthy lunch, use of the pool, and a $125 spa credit toward any spa treatment. We know you will leave happy—dreaming of when you can come back. All gratuities are included; tax is additional</p>
+					
+					
+					]]>
+					</copy>
+					<thumbImg>images/site/special-packages-t.png</thumbImg>
+					<mainImg>images/site/special-packages.png</mainImg>
+					<imageCaption></imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="2" secondaryNav="false" id="14" position="8">
+					<title>Holistic Healing</title>
+					<meta>
+						<slug>holistic-healing</slug>
+						<pageTitle>Holistic Healing</pageTitle>
+						<description>Focusing on the body, mind and spirit, Travaasa’s holistic offerings are designed to touch you deeply.</description>
+						<keywords>travaasa, holistic, healing, mind, spirit, well-being</keywords>
+					</meta>
+					<h1>Holistic Healing</h1>
+					<copy><![CDATA[<p>Focusing on the body, mind and spirit, our holistic healing offerings are designed to touch you deeply, both inside and out, giving you a complete experience of well-being.</p>
+					<h2>Energy Balancing (50/80 Minutes)</h2><p>Experience the art of channeling energy to create a deep state of tranquility on both the physical and spiritual planes. Explore a number of techniques such as Reiki, healing touch, polarity therapy, pranic healing and chakra clearing to balance and heal your internal energy. Each session is unique and tailored to the individual’s needs.</p>
+						<h2>Shamanic Journey Meditation (50/80 Minutes)</h2><p>Learn the shamanic ways to journey in this guided class. A Travaasa favorite!</p>
+						<h2>Shamanic Ritual</h2><p>A guided experience in shamanic rituals will show individuals how to set up a unique and balanced ritual space in their home.</p>
+						<h2>Yoga Therapy (50/80 Minutes)</h2><p>Encourage the body’s natural healing mechanisms with this gentle therapeutic treatment. Improve the function of the central nervous system, dissipate negative effects of stress and enhance resistance to disease by releasing energetic blockages along the spinal column.</p>
+						<h2>How to Be Present in Your Body (50/80 Minutes)</h2><p>Through a combination of various breathing and sound techniques, this is a journey toward greater self-awareness. The class also teaches therapeutic uses for common items around the house, such as how to turn tennis balls into a powerful home massage tool to relieve muscle tension and pain.</p>
+						<h2>Astrological Consultation, Western (50/80 Minutes)</h2><p>Select a natal chart (life map), year overview, relationship, parenting, health or geographical consultation to gain clarity and perspective for decision making. Reserve in advance with your birth date, time and place. Phone consultations are available. </p>
+						<h2>Numerology (50/80 Minutes)</h2><p>Numerology looks at the relationship between numbers and letters in order to determine a pattern that holds the meaning of your life.  Explore your true self and life path through a unique blend of name charts, astrology, tarot cards and intuition. Numerology helps build awareness of self, relationships and future possibilities. Reserve in advance with your full name at birth, the current name you now use and your date of birth. Name chart audiotape provided.</p>
+						<h2>Boutique</h2><p>After your relaxing treatment, don’t forget to visit our boutique, which offers a unique array of gifts, herbal teas, aromatherapy candles and all-natural beauty products</p>]]>
+					</copy>
+					<thumbImg>images/site/holistic-healing-t.png</thumbImg>
+					<mainImg>images/site/holistic-healing.png</mainImg>
+					<imageCaption></imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="3" secondaryNav="true" id="15" position="1">
+					<title>Dining</title>
+					<meta>
+						<slug>dining</slug>
+						<pageTitle>Dining</pageTitle>
+						<description>At Travaasa you’ll find organic, locally-sourced produce, meat, fish and dairy.</description>
+						<keywords>travaasa, dining, eat, organic, locally, health</keywords>
+					</meta>
+					<h1>Dining</h1>
+					<copy><![CDATA[<p>At Travaasa, we like to eat. And we like to eat well. Fresh, organic, locally sourced produce, meat, fish and dairy. Artisanal cheeses and heirloom vegetables. Foods that are in-season and in our area to bring you only the finest sustainable breakfast, lunch and dinner options. At each of our locations you can expect to find only premium ingredients that go into everything we make. We like to nourish, not only the spirit, but also the body. Because at Travaasa, good food means good health.</p>]]>
+					</copy>
+					<thumbImg>images/site/dining-t.png</thumbImg>
+					<mainImg>images/site/dining.png</mainImg>
+					<imageCaption>Fresh and delicious. Two Travaasa bywords.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="3" secondaryNav="false" id="16" position="2">
+					<title>Dining Options</title>
+					<meta>
+						<slug>dining-options</slug>
+						<pageTitle>Dining Options</pageTitle>
+						<description>Travaasa offers three dining options—Jean’s Kitchen, The Spur Café and our Community Table.</description>
+						<keywords>travaasa, dining, breakfast, lunch, dinner, jean's, kitchen</keywords>
+					</meta>
+					<h1>Dining Options</h1>
+					<copy><![CDATA[<p>Enjoy breakfast, lunch and dinner in our dining room, Jean’s Kitchen, as well as lighter fare in our café, The Spur. Engage in spirited and always unpredictable discussions at our Community Table.</p>
+					<h2>Dining at Travaasa Austin</h2><p>Executive Chef Ben Baker describes the culinary style of our Austin location as “Bon Vivant Gourmet,” and this fits completely with the Travaasa style—to enjoy life and the bounty of the earth that nourishes us in every sense of the word. Using techniques that range from Classical to Nuevo, he has crafted a menu that he describes as contemporary Austin cuisine. Everything offered at Travaasa Austin incorporates the many layers of influence that are relevant to central Texas today, and keeps in mind the sophisticated palates of this modern, progressive city.</p><p>Alongside characteristic Texas fare of BBQ and Tex-Mex, Austinites have a taste for Asian dishes, traditional Native American and Latin American ingredients and Old World European recipes. At Travaasa we mix it all up to create familiar and unique dishes for our guests. Austin is also a health-conscious city with lots of vegetarian options, and that’s why we also offer an extensive selection of gourmet vegetarian and vegan foods made from scratch with health and balance in mind.</p><p>When you stay with us, you can expect to savor the flavors of our own Texas Onion Soup—served with rich, nutty Manchego cheese melted on homemade sourdough bread; orange juice and tequila-reduced pork tamales; pan-seared hamachi with a white wine sauce finished with grapes or locally raised, grain-fed pork chops with creamy polenta; squash ribbons and an orange chipotle glaze. Mmm, we’re getting hungry already.</p>]]>
+					</copy>
+					<thumbImg>images/site/elizabeth-crepeau-t.png</thumbImg>
+					<mainImg>images/site/elizabeth-crepeau.png</mainImg>
+					<imageCaption></imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="3" secondaryNav="false" id="17" position="3">
+					<title>Libations</title>
+					<meta>
+						<slug>libations</slug>
+						<pageTitle>Libations</pageTitle>
+						<description>Travaasa serves organic, biodynamic wines and craft and organic beers.</description>
+						<keywords>travaasa, libations, wines, winemaking, beer, brews, coffees, tea</keywords>
+					</meta>
+					<h1>Libations</h1>
+					<copy><![CDATA[<p>Our wine list mirrors Travaasa’s environmental values by featuring organic, biodynamic and sustainable wines made by boutique producers. The practice of biodynamics in winemaking has been gaining in popularity and biodynamic winemakers have noted stronger, clearer, more vibrant tastes, as well as wines that remain drinkable longer. </p><p>We also keep it local by featuring the very best Texas wines, and offer a lot of fun wines that you don’t see very often elsewhere (for instance, Austin Street's "3 White Chicks" Blend from Comanche, Texas). Join us weekly for wine tastings or seasonally for winemaker dinners. Our beer list is similar, featuring many of Texas's great craft brewers and imported organic brews. We even have a great gluten-free Belgian ale. Our coffees and teas are also organic and from local companies.</p>]]>
+					</copy>
+					<thumbImg>images/site/libations-t.png</thumbImg>
+					<mainImg>images/site/libations.png</mainImg>
+					<imageCaption>Take pleasure in enjoying new tastes.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="3" secondaryNav="false" id="18" position="4">
+					<title>Executive Chef, Benjamin Baker</title>
+					<meta>
+						<slug>executive-chef-benjamin-baker</slug>
+						<pageTitle>Executive Chef, Benjamin Baker</pageTitle>
+						<description>Chef Benjamin Baker is creating innovative cuisine at Travaasa.</description>
+						<keywords>travaasa, austin, chef, benjamin, baker</keywords>
+					</meta>
+					<h1>Benjamin Baker, Executive Chef, Travaasa Austin</h1>
+					<copy><![CDATA[<p>When Chef Benjamin Baker accepted the position as executive chef at Travaasa, he brought the tools he valued most to his new job—a good attitude, a set of knives and a 167-year-old sourdough starter. With his passion for baking breads and pastries and a dedication to seasonal, organic and local ingredients, Chef Baker is revolutionizing Travaasa cuisine. </p>
+					<p>Modestly, he gives credit to his sourdough starter that is used in many of his baked goods, but after cooking in kitchens from Maui, HI, to San Jose, CA, to Austin, TX, Baker’s two decades of experience have resulted in a distinctive and celebrated culinary style winning raves at Travaasa.</p><p>	"I enjoy being creative and I love nourishing and introducing our guests to new flavors," said Baker. "We’re celebrating food in its most natural form with an emphasis on organic, seasonal and local ingredients."</p>]]>
+					</copy>
+					<thumbImg>images/site/benjamin-baker-t.png</thumbImg>
+					<mainImg>images/site/benjamin-baker.png</mainImg>
+					<imageCaption></imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="3" secondaryNav="false" id="19" position="5">
+					<title>Chef Elizabeth Crepeau</title>
+					<meta>
+						<slug>chef-elizabeth-crepeau</slug>
+						<pageTitle>Chef Elizabeth Crepeau</pageTitle>
+						<description>Chef Elizabeth Crepeau's goal is to make the best vegan dishes in Texas for Travaasa's health-conscious guests.</description>
+						<keywords>travaasa, austin, chef, elizabeth, crepeau</keywords>
+					</meta>
+					<h1>Chef Elizabeth Crepeau</h1>
+					<copy><![CDATA[<p>Chef Elizabeth Crepeau, Food & Beverage Manager, Travaasa Austin</p>
+					<p>A graduate of the Natural Epicurean Academy of Culinary Arts in Austin, TX, she works with Executive Chef Baker to prepare diverse offerings for a variety of tastes. Chef Crepeau has had a hand in the design of a gourmet vegan/vegetarian menu that includes bakery specialties such as Apple Cranberry Couscous Cake and entree specials like Sweet Potato Gnocchi with Cilantro Pesto & Smoked Tofu and Cocoa Ravioli filled with Almond Ricotta and Mushrooms topped with a Roasted Beet and Red Wine Reduction Sauce.</p>
+					<p>	"My goal is to make the best vegan dishes in Texas for our health-conscious guests," said Crepeau, who also teaches vegan and vegetarian culinary classes at Travaasa.</p>]]>
+					</copy>
+					<thumbImg>images/site/dining-options-t.png</thumbImg>
+					<mainImg>images/site/dining-options.png</mainImg>
+					<imageCaption></imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="4" secondaryNav="true" id="20" position="1">
+					<title>Rooms</title>
+					<meta>
+						<slug>rooms</slug>
+						<pageTitle>Rooms</pageTitle>
+						<description>Travaasa offers 70 guest rooms overlooking the Balcones Canyonlands Preserve.</description>
+						<keywords>travaasa, austin, rooms, accommodations</keywords>
+					</meta>
+					<h1>Rooms</h1>
+					<copy><![CDATA[<p>Come celebrate the sunrise from one of our 70 guestrooms overlooking the Balcones Canyonlands Preserve.  Each of our accommodations offers a private deck or patio welcoming the fresh outdoor air in; it’s a perfect place to just breathe. </p>
+					<p>	Accommodations are in seven buildings placed along meandering paths allowing you to soak in the natural habitat of the local Hill Country as you walk around the Travaasa campus. Umbrellas are provided in the rare event we get a cooling summer rain or a light winter sprinkle adding refreshment to the native habitat. </p>
+					<p>Our rooms are comfortable, stylish and relaxing—perfect after an ambitious workout, nature hike or meeting event.  All rooms have queen-sized beds (several with two queen beds), organic cotton comforters and linens, desks, complimentary Wi-Fi, bed lamps for easy reading, coffee- and tea-makers, irons, bathrooms with showers (several with bathtubs) and sundry items.  The rooms are appointed with robes, hair dryers, umbrellas and complimentary light refreshments.</p>
+					<p>Choose between one of our hacienda rooms (allowing you to always be connected with the outside world with flat-screen TVs) or one of our spa casita rooms, ideal for unplugging, with yoga mats and stretching ropes for the leisure guest.</p>]]>
+					</copy>
+					<thumbImg>images/site/austin-rooms-t.png</thumbImg>
+					<mainImg>images/site/austin-rooms.png</mainImg>
+					<imageCaption></imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="4" secondaryNav="false" id="21" position="2">
+					<title>Casitas</title>
+					<meta>
+						<slug>casitas</slug>
+						<pageTitle>Casitas</pageTitle>
+						<description>Travaasa casitas, Lavender, Bluebonnet and Sage, are closest to the spa and infinity pool.</description>
+						<keywords> travaasa, austin, casitas</keywords>
+					</meta>
+					<h1>Casitas</h1>
+					<copy><![CDATA[<p>Three buildings comprise our casitas: Lavender, Bluebonnet and Sage. These buildings are closest to our spa and infinity pool and are for those guests who simply want to unplug and get away from everyday pressures. Instead of a TV, we offer a yoga mat and stretching ropes so you may practice feeling good, sunrise to sunset. Once in your room, you'll realize it has either a private deck or a patio—welcoming spaces to let the fresh outdoor air in; it’s also a perfect place to smell wildflowers and native tree species, or to just close your eyes and soak in the scents and sounds. </p>]]>
+					</copy>
+					<thumbImg>images/site/casitas-t.png</thumbImg>
+					<mainImg>images/site/casitas.png</mainImg>
+					<imageCaption></imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="4" secondaryNav="false" id="22" position="3">
+					<title>Haciendas</title>
+					<meta>
+						<slug>haciendas</slug>
+						<pageTitle>Haciendas</pageTitle>
+						<description>Travaasa haciendas, Rio Grande, Alamo, Longhorn and Brazo, are close to our conference and business centers.</description>
+						<keywords> travaasa, haciendas, business, austin</keywords>
+					</meta>
+					<h1>Haciendas</h1>
+					<copy><![CDATA[<p>Four buildings comprise our haciendas: Rio Grande, Alamo, Longhorn and Brazo. These buildings are closest to our Live Oak Conference Center, Agave Fitness, Welcome and Business Centers, and are perfect for our conference and business guests. If you want to stay connected both on foot and on satellite with our new flat-screen TVs, these are the rooms for you.</p>]]>
+					</copy>
+					<thumbImg>images/site/haciendas-t.png</thumbImg>
+					<mainImg>images/site/haciendas.png</mainImg>
+					<imageCaption></imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="5" secondaryNav="true" id="23" position="1">
+					<title><![CDATA[Rates &amp; Packages]]></title>
+					<meta>
+						<slug>rates-and-packages</slug>
+						<pageTitle><![CDATA[Rates & Packages]]></pageTitle>
+						<description>Travaasa offers different rate and package selections to customize your journey.</description>
+						<keywords>travaasa, rates, packages, customize</keywords>
+					</meta>
+					<h1><![CDATA[Rates &amp; Packages]]></h1>
+					<copy><![CDATA[<p>Travaasa provides you with different rate and package selections so that you can make the most of your time with us. These special offerings are designed to customize your journey.</p>
+					
+					<ul>
+						<li><a href="/austin/the-total-travaasa" class="address_ajax">The Total Travaasa</a></li>
+						<li><a href="/austin/the-sunrise-travaasa" class="address_ajax">The Sunrise Travaasa</a></li>
+						<li><a href="/austin/the-baby-travaasa" class="address_ajax">The Baby Travaasa</a></li>
+						<li><a href="/austin/the-romantic-travaasa" class="address_ajax">The Romantic Travaasa</a></li>
+					</ul>
+					<p><strong>Travaasa Austin Friends and Family Rates:</strong><br /> 
+					Call now to get up to 50% off the Total Travaasa package and up to 20% off the Sunrise Travaasa package. Offer subject to availability and good through March 31st.</p>]]>
+					</copy>
+					<thumbImg>images/site/rates-packages-REV-t.png</thumbImg>
+					<mainImg>images/site/rates-packages-REV.png</mainImg>
+					<imageCaption>Find out more about our package options by clicking the images below.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="5" secondaryNav="false" id="24" position="2">
+					<title>The Total Travaasa</title>
+					<meta>
+						<slug>the-total-travaasa</slug>
+						<pageTitle>The Total Travaasa</pageTitle>
+						<description>The Total Travaasa package includes accommodations, meals, daily spa credit or golf.</description>
+						<keywords> travaasa, package, all-inclusive</keywords>
+					</meta>
+					<h1>The Total Travaasa</h1>
+					<copy><![CDATA[<p>Treat yourself to the Total Travaasa package when you don’t want to worry about a thing. In addition to accommodations, all meals, snacks and nonalcoholic beverages are included, as well as a daily $125 spa credit or round of golf. All on-property activities are included as well. Arrive, relax and enjoy.</p>
+					<p>Call now to get <strong>Friends and Family Rates</strong> of up to 50% off the Total Travaasa package. Offer subject to availability at time of booking and promotion is valid through March 31st. Two-night minimum.</p>]]>
+					</copy>
+					<thumbImg>images/site/total-travaasa-t.png</thumbImg>
+					<mainImg>images/site/total-travaasa.png</mainImg>
+					<imageCaption></imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="5" secondaryNav="false" id="25" position="3">
+					<title>The Sunrise Travaasa</title>
+					<meta>
+						<slug>the-sunrise-travaasa</slug>
+						<pageTitle>The Sunrise Travaasa</pageTitle>
+						<description>The Sunrise Travaasa includes accommodations, breakfast and access to activities.</description>
+						<keywords>travaasa, sunrise, accommodations</keywords>
+					</meta>
+					<h1>The Sunrise Travaasa</h1>
+					<copy><![CDATA[<p>Our popular Sunrise Travaasa package includes accommodations, a generous, healthy breakfast and access to all on-property activities.</p>
+					<p>Call now to get <strong>Friends and Family Rates</strong> of up to 20% off the Sunrise Travaasa package. Offer subject to availability at time of booking and promotion is valid through March 31st.</p>]]>
+					</copy>
+					<thumbImg>images/site/sunrise-travaasa-t.png</thumbImg>
+					<mainImg>images/site/sunrise-travaasa.png</mainImg>
+					<imageCaption></imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="5" secondaryNav="false" id="26" position="4">
+					<title>The Baby Travaasa</title>
+					<meta>
+						<slug>the-baby-travaasa</slug>
+						<pageTitle>The Baby Travaasa</pageTitle>
+						<description>The Baby Travaasa getaway is specially designed for parents-to-be</description>
+						<keywords>travaasa, baby, parents-to-be, getaway</keywords>
+					</meta>
+					<h1>The Baby Travaasa</h1>
+					<copy><![CDATA[<p>Specially designed for parents-to-be, the Baby Travaasa getaway includes accommodations for two, two 50-minute spa services, a generous, healthy breakfast for two, plus a special gift. Access to all on-property activities is included. Learn how to prepare healthy food for your growing family in a cooking class demo or take a Feng Shui class to add positive chi to your home before the new arrival.</p>
+					<p>Offer subject to availability at time of booking and promotion is valid through March 31st.</p>]]>
+					</copy>
+					<thumbImg>images/site/baby-travaasa-t.png</thumbImg>
+					<mainImg>images/site/baby-travaasa.png</mainImg>
+					<imageCaption></imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="5" secondaryNav="false" id="27" position="5">
+					<title>The Romantic Travaasa</title>
+					<meta>
+						<slug>the-romantic-travaasa</slug>
+						<pageTitle>The Romantic Travaasa</pageTitle>
+						<description>The Romantic Travaasa offers accommodations, chef-prepared dinner and spa credit.</description>
+						<keywords>travaasa, romantic, accommodations</keywords>
+					</meta>
+					<h1>The Romantic Travaasa</h1>
+					<copy><![CDATA[<p>Let us set the stage for you to connect with that special someone—enjoy one night’s accommodations, a chef-prepared dinner for two, fruit, cheese and a bottle of champagne in your room and a $25 spa credit per person good toward any service of 50 minutes or longer. All on-property activities are included as well, which means you can explore and discover during ecology hikes together or bond over an organic cooking class.</p>
+					<p>Offer subject to availability at time of booking and promotion is valid through March 31st.</p>]]>
+					</copy>
+					<thumbImg>images/site/romantic-travaasa-t.png</thumbImg>
+					<mainImg>images/site/romantic-travaasa.png</mainImg>
+					<imageCaption></imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="6" secondaryNav="true" id="28" position="1">
+					<title><![CDATA[Groups & Meetings]]></title>
+					<meta>
+						<slug>groups-and-meetings</slug>
+						<pageTitle><![CDATA[Groups & Meetings]]></pageTitle>
+						<description>Travaasa Austin is the ideal location for business meetings for companies in and outside of Texas.</description>
+						<keywords>travaasa, austin, groups, meetings, business, retreats</keywords>
+					</meta>
+					<h1><![CDATA[Groups &amp; Meetings]]></h1>
+					<copy><![CDATA[<p>Travaasa Austin is an ideal location for business meetings and retreats for companies both in and outside of Texas. Austin is accessible with direct flights from numerous cities, is only a couple hours’ drive for every Texan, and is the perfect setting for meetings year-round, with a warm, sunny climate and never-ending list of diversions and activities. Austin stands out on Entrepreneur magazine’s list of 2010 Trends as one of the Best Cities for Small Businesses.</p>
+					<p>Tired of breathing through dirty air filters during your meeting, making you sleepy and wishing you were someplace else? Then meet where nature meets nurture with a sense of place at Travaasa. Our meeting rooms open to and include amazing outdoor areas. We have several very flexible meeting spaces for your group’s needs, be they business or social. Our beautiful green building facilities are bright and airy, with capacious natural lighting and panoramic views. Each room is unique, with its own distinct architectural design. All meeting spaces are versatile, with flexible seating arrangements and multimedia capabilities. We also offer outdoor venues that include breathtaking views of Lake Travis, as well as the pristine Balcones Canyonlands Preserve.</p>]]>
+					</copy>
+					<thumbImg>images/site/austin-groups-meetings-t.png</thumbImg>
+					<mainImg>images/site/austin-groups-meetings.png</mainImg>
+					<imageCaption></imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="6" secondaryNav="false" id="29" position="2">
+					<title>Meeting Packages</title>
+					<meta>
+						<slug>meeting-packages</slug>
+						<pageTitle><![CDATA[Meeting & Packages]]></pageTitle>
+						<description>Travaasa meeting packages are a cost-efficient way to budget your meeting in advance.</description>
+						<keywords> travaasa, meetings, packages</keywords>
+					</meta>
+					<h1>Meeting Packages</h1>
+					<copy><![CDATA[<p>Our Meeting Packages simplify the planning process by uniting your group meals, continuous break service, audio/visual components and service charges into one, all-inclusive price per person. Selecting a Meeting Package is a cost-effective way to efficiently budget for your meeting in advance while providing a great value.</p>
+					<h2>Full-Day Complete Meeting Package includes:</h2>
+					<ul>
+					<li>American Breakfast Buffet</li>
+					<li>Morning and Afternoon Break with Continuous Beverage Service</li>
+					<li>Lunch Buffet</li>
+					<li>A la Carte Plated or Buffet Dinner</li>
+					<li>Event Technology Package</li>
+					<li>22% Service Charge</li>
+					</ul>
+					<h2>Half-Day Morning Complete Meeting Package includes:</h2>
+					<ul>
+					<li>American Breakfast Buffet</li>
+					<li>Morning Break with Continuous Beverage Service&nbsp;</li>
+					<li>Lunch Buffet or Box Lunch</li>
+					<li>Event Technology Package</li>
+					<li>22% Service Charge</li>
+					</ul>
+					<h2>Half-Day Afternoon Complete Meeting Package includes:</h2>
+					<ul>
+					<li>Lunch Buffet</li>
+					<li>Afternoon Break with Continuous Beverage Service</li>
+					<li>Event Technology</li>
+					<li>22% Service Charge</li>
+					</ul>]]>
+					</copy>
+					<thumbImg>images/site/meeting-packages-t.png</thumbImg>
+					<mainImg>images/site/meeting-packages.png</mainImg>
+					<imageCaption></imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="6" secondaryNav="false" id="30" position="3">
+					<title>Facilities</title>
+					<meta>
+						<slug>facilities</slug>
+						<pageTitle>Facilities</pageTitle>
+						<description>The Travaasa Lone Star Room is ideal for larger meetings and events.</description>
+						<keywords> travaasa, facilities, meetings, events</keywords>
+					</meta>
+					<h1>Facilities</h1>
+					<copy><![CDATA[<h2>Function Space/Lone Star Room</h2><p>The Lone Star Room is ideal for larger meetings and events, whether classroom, banquet or theatre-style setup is required. Details include an authentic bamboo floor, tectum ceiling with exposed wood trusses, motorized blackout drapes, ceiling-mounted projector and motorized 10' x 15' screen. Full audiovisual playback is available either through the overhead lecture sound system or the PA system with four floor boxes.</p>
+				
+				<h2>Showroom</h2><p>The Showroom, with its Barco IQ Backlit Projector, 7-1/2' x 10' screen, Dolby 7.1 surround sound and automated blackout blinds system, offers excellent presentation technology with outside views from oversized picture windows.</p>
+					<h2>The Fireside Room</h2><p>The Fireside Room is an exquisite space and provides a warm environment for any gathering or meeting. Details include an open wood-deck ceiling measuring 25 feet at its peak, hickory/pecan floors, a stone fireplace and wood blinds.</p>
+					<h2>Parlor</h2><p>The Parlor offers gracious accommodations with comfortable couches and chairs, wraparound porch, kitchenette and private bathroom facilities.</p>
+					<h2>Chef’s Table</h2><p>The Chef’s Table, adjacent to Jean’s Kitchen, is the perfect venue for private dining or an executive board meeting.</p>
+					<h2>Solidago Gardens</h2><p>The Solidago Gardens, featuring a spacious handcrafted wood and stone structure, is accessible by way of a forested trail and is designed as an intimate setting for meetings and receptions.</p>
+					<h2>Layout & Capacity</h2><p>[Chart/Map forthcoming]</p>
+					
+					]]>
+					</copy>
+					<thumbImg>images/site/facilities-t.png</thumbImg>
+					<mainImg>images/site/facilities.png</mainImg>
+					<imageCaption></imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="6" secondaryNav="false" id="31" position="4">
+					<title>Team Building</title>
+					<meta>
+						<slug>team-building</slug>
+						<pageTitle>Team Building</pageTitle>
+						<description>Travaasa team-building activities are a good bonding tool and memorable learning experience.</description>
+						<keywords>travaasa, team, building, coworkers, bonding, activities</keywords>
+					</meta>
+					<h1>Team Building</h1>
+					<copy><![CDATA[<p>Our team-building activities provide a chance for coworkers to understand and manage different situations that might occur in the workplace. They are also a good bonding tool and a memorable learning experience.</p>
+				
+				<h2>Initiative Games & Problem-Solving Activities (Outdoor) </h2><p>Our facilitators use activities and initiatives based on an Experiential Education philosophy. These techniques allow us to strengthen group cohesiveness, trust, communication, self-awareness and confidence through group processing. Challenges are tailored to meet your group’s needs with activities that are mentally, physically, environmentally and socially challenging in a fun, supportive environment. Challenges and problem-solving scenarios are presented in which teamwork, trust, leadership and communication skills are the focus. The group finds success through working together and focusing on its strengths.</p>
+				
+				<h2>Team Survivor Challenge (Outdoor)</h2><p>Team Survivor Challenge is focused on challenging individuals and team members as tribes. Tribes create an identity for themselves, working together to complete tasks and win idols. The tasks are physically and mentally challenging, utilizing each tribe member’s strengths. Individual fitness is not necessary for the Team Survivor Challenge, but rather ingenuity, creativity and resourcefulness. For each task completed, the tribe is awarded an idol. Powerful lessons can be learned in communication and team dynamics through sequential, creative problem-solving challenges. Each challenge’s focus is on a different tribal need. Trust, leadership, communication, planning and problem solving are not only important traits in the Team Survivor Challenge but also in real-world settings with teams working together to accomplish a common goal. The challenge ends with a tally of idols from each tribe and a climactic awards ritual. </p>
+				
+				<h2>Team Building with LEGOs (Indoor)</h2><p>Challenge your creative side; be innovative while using the essential characteristics of a team. Each challenge is suited for your specific needs, utilizing existing team characteristics and building on traits in need of improvement. Groups are given an objective, with stages in planning, leading, organizing and developing traits vital to a successful work environment. In these exercises, working mutually is essential. Whether it’s team building, addressing specific behaviors in the workplace or simply having fun—Team Building with LEGOs is an engrossing activity everyone can enjoy.</p>]]>
+					</copy>
+					<thumbImg>images/site/team-building-t.png</thumbImg>
+					<mainImg>images/site/team-building.png</mainImg>
+					<imageCaption></imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+			</secondaryPages>
+		</austin>
+	</pages>

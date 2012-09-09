@@ -1,0 +1,131 @@
+<?xml version="1.0" standalone='yes' ?>
+	<pages>
+		<index sitemapId="0.0" sitemapTitle="Home Page">
+			<meta>
+				<slug></slug>
+				<pageTitle>Travaasa - Real Travel for Real Experiences.</pageTitle>
+				<description>Rediscover the magic of travel with Travaasa Austin, Texas or Hāna, Maui.</description>
+				<keywords>travaasa, travel, resorts, hana, hāna, hawaii, austin, texas, Austin resort, Austin spa, travaasa Austin, Austin spa resort, experiential, hotel, Austin hotel, Austin conference center, Austin group meeting</keywords>
+			</meta>
+			<backgroundImages>
+				<image>
+					<src></src>
+					<caption></caption>
+				</image>
+				<image>
+					<src></src>
+					<caption></caption>
+				</image>		
+			</backgroundImages>
+			<slideshow>
+				<image>
+					<img>images/site/home-slideshow-04.png</img>
+					<desc>Breathe in the natural wonders of the Balcones Canyonland.</desc>
+				</image>
+				<image>
+					<img>images/site/home-slideshow-03.png</img>
+					<desc>Dive into infinite possibilities during your Travaasa journey.</desc>
+				</image>
+				<image>
+					<img>images/site/home-slideshow-02.png</img>
+					<desc>Sink into organic softness after an ambitious workout or hike.</desc>
+				</image>
+				<image>
+					<img>images/site/home-slideshow-01.png</img>
+					<desc>Discover, delight, delve. Begin your Travaasa journey here.</desc>
+				</image>	
+			</slideshow>
+			<promos>
+				<promo>
+					<img>images/site/sub-image-crisman1.png</img>
+					<h3>Discover Travaasa Austin</h3>
+					<copy><![CDATA[Discover, delight, delve. Begin your Travaasa Austin journey <a href="/austin/">here.</a>]]></copy>
+					<learnMoreUrl></learnMoreUrl>
+				</promo>
+			</promos>
+			<mainContent>
+				<h1><![CDATA[Travaasa&ndash;a collection of experiential destination hotels.]]></h1>
+				<copy><![CDATA[<p class="home_content">We created Travaasa so you can Travaasa. So you can rediscover the magic of travel. The art of the journey. Have memories to glow by. Travaasa opens you up to your physical, spiritual and mental world with happenings you'll remember forever, lessons and delights that will become a part of you forever. And it all starts at our gorgeous Hāna, Hawaii and Austin, Texas, destination hotels. Your Travaasa experience begins and ends with one thought: Only at Travaasa could I live that.</p>]]>
+					</copy>
+				<learnMoreUrl></learnMoreUrl>
+			</mainContent>
+		</index>
+		<aboutUs  sitemapId="1.0" sitemapTitle="About Us">
+			<meta>
+				<slug></slug>
+				<pageTitle>Travaasa Experiential Destination Hotels</pageTitle>
+				<description>A destination hotel with world-class spa services where you can experience local food, landscapes, people and a real sense of place.</description>
+				<keywords>travaasa, resort, spas, services, hotels, travel</keywords>
+			</meta>
+			<mainImage>
+				<img>images/site/about-travaasa-crisman.png</img>
+				<caption></caption>
+			</mainImage>
+			<mainContent>
+				<h1><![CDATA[The Travaasa Vision]]></h1>
+				<copy><![CDATA[<p>Travaasa. It&rsquo;s more than just a destination hotel with world-class spa services, food and beverages with local flavor, and breathtaking vistas. It&rsquo;s an experience that recaptures the magic of travel and gives you a memory to glow by.</p>
+				<p>Travaasa is the best of what happens when you travel. The way a journey is supposed to be. Discovery of a place, of people, of yourself, of other languages. In our case, the languages of memory and storytelling.</p>
+				<p>When you leave Travaasa, you leave with a story. Your story. And what a tale it will be. You&rsquo;ll experience local food, landscapes, people, and a real sense of place. At Travaasa Hāna you&rsquo;ll savor imu cooking and explore working plantations and ranches. Or maybe you&rsquo;ll just take a picnic lunch down to the beach&mdash;a natural, unspoiled beach&mdash;because, after all, this is your journey. You are on a memorable journey when you Travaasa and it&rsquo;s your choice to see, do and feel as much as you want.</p>
+				<p>Our inspiration for Travaasa began with our own travel. Too many stays in too many cold, soulless concrete towers informed our philosophy. Too many hotels and resorts that looked the same from place to place and kept us from experiencing the real culture that lives outside our cookie-cutter rooms.</p>
+				<p>We wanted a place that would reawaken us. Intellectually, culturally, experientially. A place where we could learn, touch and do new things. A place we couldn&rsquo;t find in our own backyard, or at the local spa or gym. In other words, we wanted the joy of the journey, the magic of arriving somewhere new and getting a sense of that place. We wanted spontaneous moments and the magic of surprise that travel is supposed to bring us.</p>
+				<p>No such place existed. So we decided to create it.</p>
+				]]></copy>
+				<learnMoreUrl></learnMoreUrl>
+			</mainContent>
+			<promos>
+				<promo>
+					<h2>The Texas You've Always Dreamed Of</h2>
+					<copy><![CDATA[<p>Your Travaasa starts the moment you find yourself in a car, winding down a spectacular Texas Hill Country road. The vista unravels like a color-saturated ribbon, leading you to a place unlike any other. The car stops. You have arrived. And what you&rsquo;ll find is an intimate gathering of buildings. A curated amount of casitas (rooms), because we&rsquo;re about your experience, your travel &ndash; not catering to hundreds of people.</p>]]></copy>
+					<img>images/site/texas-dreamed-of-crisman.png</img>
+					<learnMoreUrl>/austin/</learnMoreUrl>
+					<learnMoreText>See our Austin Destination Hotel</learnMoreText>
+				</promo>
+				<promo>
+					<h2>Customize Your Ultimate Getaway</h2>
+					<copy><![CDATA[<p>At Travaasa, we provide a wide range of experiences to enrich your mind, stretch your imagination, feed your psyche, move your body and spa-ify your visage. Because this is your journey, you can customize your Travaasa experience any way you want. Every day is different, and you&rsquo;ll always be surprised and delighted by what you find.</p>]]></copy>
+					<img>images/site/customize-getaway-crisman.png</img>
+					<learnMoreUrl>/experiences/discover-your-travaasas</learnMoreUrl>
+					<learnMoreText>See our Travaasas</learnMoreText>
+				</promo>
+			</promos>
+		</aboutUs>
+		<hana  sitemapId="4.0" sitemapTitle="Hana">
+			<meta>
+				<slug>travaasa-hana</slug>
+				<pageTitle>Travaasa Hāna</pageTitle>
+				<description>Please check back for updates on Travaasa Hāna.</description>
+				<keywords>travaasa, hana, hāna, updates</keywords>
+			</meta>
+			<slideshow>
+				<image>
+					<img>images/site/hana-slideshow1.png</img>
+					<desc></desc>
+				</image>
+				<image>
+					<img>images/site/hana-slideshow2.png</img>
+					<desc></desc>
+				</image>
+				<image>
+					<img>images/site/hana-slideshow3.png</img>
+					<desc></desc>
+				</image>
+				<image>
+					<img>images/site/hana-slideshow4.png</img>
+					<desc></desc>
+				</image>
+			</slideshow>
+			<mainContent>
+				<h1><![CDATA[Travaasa Hāna]]></h1>
+				<copy>Please check back for updates on this property.</copy>
+				<learnMoreUrl></learnMoreUrl>
+			</mainContent>
+		</hana>
+		<contact  sitemapId="5.0"  sitemapTitle="Contact Us">
+			<meta>
+				<slug>contact-us</slug>
+				<pageTitle>Contact Us</pageTitle>
+				<description> If you’re ready to Travaasa, start your journey today and experience the world in a different way.</description>
+				<keywords>travaasa, contact, austin, hana, hāna, book, reservations, registration</keywords>
+			</meta>
+		</contact>
+	</pages>

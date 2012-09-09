@@ -1,0 +1,75 @@
+<?xml version="1.0" standalone='yes' ?>
+	<pages>	
+		<backgroundImages>
+				<image>
+					<src>images/site/backgrounds/bg_option1.jpg</src>
+					<caption><![CDATA[<p>Travaasa Gift Cards.</p>]]></caption>
+				</image>
+				<image>
+					<src>images/site/backgrounds/bg_option2.jpg</src>
+					<caption><![CDATA[<p>With a variety of massages, cloud nine is always at hand.</p>]]></caption>
+				</image>
+		
+		</backgroundImages>
+		<giftcards>
+			<secondaryPages>
+				<page section="0" parentId="0" secondaryNav="true" id="0" position="1"  sitemapId="3.0" sitemapTitle="AUSTIN">
+					<title>Travaasa Giftcards</title>
+					<meta>
+						<slug>giftcards</slug>
+						<pageTitle>Gift Cards</pageTitle>
+						<description>Sustainability and eco-friendly principles guided the construction of Travaasa on 210 acres of Texas Hill Country.</description>
+						<keywords>travaasa, austin, texas, hill, country, sustainability, eco-friendly, canyonlands</keywords>
+					</meta>
+					<h1>Travaasa Gift Cards &#038; E-Cards</h1>
+					<copy><![CDATA[<p>Looking for the perfect last-minute gift?  Send a Travaasa Destinations E-Card and get it there on time.  Choose from one of six designs.</p>
+					<p><a href='http://giftcards.travaasa.com' target='blank'><img src='/images/site/691-egiftcard-white-bg.jpg' /></a></p>
+					
+					<br />
+					<p>Physical Gift cards ship in 1-2 business days or may be picked up in person on-property same-day in most cases. All orders placed online will be delivered to shipping address specified in PaytPal checkout process unless specified otherwise to our reservations team.  Please feel free to contact us directly at 1-855-TO-TRAVAASA (1-855-878-7282) for specific amounts, for special delivery circumstances, or same-day pickup.</p>
+					<br />
+					<p
+					<p>Gift cards may be redeemed at any Travaasa Destinations location for goods and services, never expire and are transferrable and reloadable.</p>
+					<br />
+					<p>Visit our <a href="http://giftcards.travaasa.com/" target="_BLANK">Gift Card Store</a> to purchase online.</p>
+					<br />
+					]]></copy>
+					<thumbImg>images/site/natural-beauty-crisman-t.jpg</thumbImg>
+					<thumbCaption>Travaasa Gift Cards</thumbCaption>
+					<mainImg>images/site/gift-cards.jpg</mainImg>
+					<imageCaption></imageCaption>
+					<Storybook></Storybook>
+					<pdf_downloads>
+						<pdf>
+							<title><![CDATA[Austin Spa Guide PDF]]></title>
+							<url>/pdf/The-Spa-at-Travaasa_Guide.pdf</url>
+						</pdf>
+					</pdf_downloads>
+				</page>
+				<!--<page section="0" secondaryNav="false" id="1" position="2"  sitemapId="3.0.1" sitemapTitle="MANAGING DIRECTOR, LARRY CALLAHAN">
+					<title>Managing Director, Larry Callahan</title>
+					<meta>
+						<slug>managing-director-larry-callahan</slug>
+						<pageTitle>Managing Director, Larry Callahan</pageTitle>
+						<description>Larry Callahan has three decades of experience in resort and project management for world-class properties.</description>
+						<keywords>travaasa, larry, callahan, management, managing, director</keywords>
+					</meta>
+					<h1>Larry Callahan, Managing Director, Travaasa Austin</h1>
+					<copy><![CDATA[<p>With more than three decades of experience in resort and project management for world-class properties, Larry Callahan was handpicked to manage and oversee Travaasa Austin.</p><p>Prior to Travaasa, Larry managed unique and magical hotels such as El Capitan in Santa Barbara, Robert Redford’s Sundance Resort & Properties in Utah, Post Ranch Inn in Big Sur California, Cousteau's Fiji Island Resort and the Lodge at Skylonda.</p><p>At heart, Larry is a consummate host who is fond of saying "Ensuring our guests leave feeling like they could only have had such a memorable journey at Travaasa is not just my goal; it’s my mission."</p>]]></copy>
+					<thumbImg>images/site/larry-callahan-REV-t.jpg</thumbImg>
+					<thumbCaption>Managing Director</thumbCaption>
+					<mainImg>images/site/larry-callahan-REV.jpg</mainImg>
+					<imageCaption>Larry lives for making guests feel welcome.</imageCaption>
+					<Storybook></Storybook>
+					<pdf_downloads>
+						<pdf>
+							<title></title>
+							<url></url>
+						</pdf>
+					</pdf_downloads>
+				</page>
+				-->
+				
+			</secondaryPages>
+		</giftcards>
+	</pages>
