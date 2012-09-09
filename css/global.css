@@ -1063,7 +1063,7 @@ a.large-link:hover {
 #p_slideshow img {
 
 }
-#nav, #promo_nav {
+#nav, #promo_nav, #main_img_slideshow_nav {
     
     text-align: center;
     position: absolute;
@@ -1072,10 +1072,13 @@ a.large-link:hover {
     z-index: 50;
     height: 20px;
 }
+#main_img_slideshow_nav {
+    top: 250px;
+}
 #promo_nav {
     top: 208px;
 }
-#nav a, #promo_nav a {
+#nav a, #promo_nav a, #main_img_slideshow_nav a {
     font-size: .01px;
     text-decoration: none;
     float:left;
@@ -1099,7 +1102,7 @@ a.large-link:hover {
 #nav a:active {
     outline: none;
 }
-#nav a.activeSlide, #promo_nav a.activeSlide{
+#nav a.activeSlide, #promo_nav a.activeSlide, #main_img_slideshow_nav a.activeSlide{
     background: url(../images/active-square-dot.png);
     color: #FFF;
 	background-size: 11px 11px;
@@ -1113,4 +1116,17 @@ a.large-link:hover {
     height: 20px;
     z-index: 50;
     text-indent: -9999px;
+}
+
+#main_img_slideshow {
+    list-style: none;
+    list-style-image: none;
+    padding: 0;
+    margin: 0;
+}
+#main_img_slideshow li {
+ list-style: none;
+    list-style-image: none;
+    padding: 0;
+    margin: 0;   
 }

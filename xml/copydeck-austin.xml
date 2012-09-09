@@ -67,7 +67,12 @@
 					]]></copy>
 					<thumbImg>images/site/natural-beauty-crisman-t.jpg</thumbImg>
 					<thumbCaption>Travaasa Austin</thumbCaption>
-					<mainImg>images/site/austin-landing-view-729.jpg</mainImg>
+					<mainImgs>
+                                            <img>images/site/austin-landing-view-729.jpg</img>
+                                            <img>images/site/hana-main.jpg</img>
+                                            <img>images/site/austin-landing-view-729.jpg</img>
+                                        </mainImgs>
+                                        
 					<imageCaption></imageCaption>
 					<Storybook></Storybook>
 					<pdf_downloads>

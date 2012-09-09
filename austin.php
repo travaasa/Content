@@ -81,7 +81,8 @@
   foreach ($xml->austin->secondaryPages->page as $page) {
 
       if (($_GET['page'] && $page->meta->slug == $page_slug) || (!$_GET['page'] && $page[id] == $pageId)) {
-          $imgSrc = $page->mainImg;
+          $main_imgs = $page->mainImgs;
+          
           $imageCaption = $page->imageCaption;
           $header = $page->h1;
           $copy = $page->copy;
@@ -259,9 +260,11 @@
                     <div id="main_content_frame">
                         <div id="main_image">
 
-
-
-                            <img src="/<?php echo $imgSrc; ?>" />
+                            <ul style="" id="main_img_slideshow">
+                                <?php foreach($main_imgs->img as $img){
+                                    print "<li><div style='position: relative'><img src='$img' /></li>";
+                                } ?>
+                            </ul>
 <?php if ($imageCaption != ""): ?>
                                   <div id="main_image_caption">
                                       <p><?php echo $imageCaption; ?></p>
@@ -327,5 +330,18 @@
   <? endif ?>
                             });
         </script>
+        <script type="text/javascript" src="/js/jquery.cycle.all.js"></script>
+                <script type="text/javascript">
+                $(document).ready(function(){
+                        $('#main_img_slideshow')
+                        .after("<div id='main_img_slideshow_nav'>")
+                        .cycle({
+                            pager: '#main_img_slideshow_nav'
+                        });
+                        $('#main_img_slideshow a, #navmain_img_slideshow_nav a').click(function(){
+                            $('#main_img_slideshow').cycle('pause');
+                        })
+                    });
+                </script>
     </body>
 </html>
