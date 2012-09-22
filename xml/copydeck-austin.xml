@@ -67,11 +67,12 @@
 					]]></copy>
 					<thumbImg>images/site/natural-beauty-crisman-t.jpg</thumbImg>
 					<thumbCaption>Travaasa Austin</thumbCaption>
-					<mainImgs>
-                                            <img>images/site/austin-landing-view-729.jpg</img>
-                                            <img>images/site/hana-main.jpg</img>
-                                            <img>images/site/austin-landing-view-729.jpg</img>
-                                        </mainImgs>
+                                        <mainImg>images/site/austin-landing-view-729.jpg</mainImg>
+					<slideshow>
+                                            <slide>/images/site/austin-landing-view-729.jpg</slide>
+                                            <slide>/images/site/hana-main.jpg</slide>
+                                            <slide>/images/site/austin-landing-view-729.jpg</slide>
+                                        </slideshow>
                                         
 					<imageCaption></imageCaption>
 					<Storybook></Storybook>
