@@ -35,7 +35,8 @@
                 <h1 position="1">Travaasa Hana: Maui's Last Truly Hawaiian Place</h1>
                 <copy position="1">
                     <![CDATA[
-                    <div style="background-color:#fafafa; -webkit-border-radius: 4px; -moz-border-radius: 4px; border-radius: 4px; border-color:#f1f1f1; border-width: 2px; border-style:solid; padding:15px 0 20px 0; margin:5px 25px 0px 25px; height:485px;">
+                    <div style="background-color:#fafafa; -webkit-border-radius: 4px; -moz-border-radius: 4px; border-radius: 4px; border-color:#f1f1f1; border-width: 2px; border-style:solid; padding:5px 0 20px 0; margin:5px 25px 0px 25px; height:655px;">
+                    <p style="text-align:center;"><a href='/lightbox/fly-to-hana.html' class='fancyajax'><img src="/images/site/hana-by-air-611r.jpg" width="625" /></a></p>
 		
 					<div style="float:left; margin:0 0 0 20px; width:370px;">
 					<a href="/hana/accommodations"><img class="frame-left" style="float:left;" src="http://travaasa.com/images/site/hana-landing-rooms-t.jpg" width="150" height="95" alt="Rooms"></a>
@@ -67,7 +68,7 @@
                         
                         <p>Located in the <a class="address_ajax" href="/hana/hana-maui">town of Hana</a> on the eastern tip of Maui, Travaasa Hana is the first resort on the island to greet the rising sun. Set amid rolling grass fields and palm trees above Kaihalulu Bay, Travaasa Hana will immerse you in the real Hawaii: <a class="address_ajax" href="/hana/hana-dining-overview">culinary classes on regional cuisine</a>, <a href="/hana/hana-the-spa-at-travaasa-hana">locally inspired spa treatments</a>, <a href="/hana/hana-culture-overview">Hawaiian throw-net fishing with a local guide</a>, and so much more.</p>
                         
-                        <p>For guests looking to dive into the entire experience, check out our <a href="/hana/hana-accommodations-sea-ranch-cottages">Sea Ranch Cottages</a>, which take in expansive views of the Pacific Ocean as well as all-inclusive packages to enjoy our unique offerings. Our <a href="/hana/hana-accommodations-garden-view-suites">Garden View Suites</a> are ideal for day-trippers, and will give you a sampling of our signature services on an à la carte plan.</p>	
+                        <p>For guests looking to dive into the entire experience, check out our <a href="/hana/hana-accommodations-sea-ranch-cottages">Sea Ranch Cottages</a>, which take in expansive views of the Pacific Ocean as well as all-inclusive packages to enjoy our unique offerings. Our <a href="/hana/hana-accommodations-garden-view-suites">Garden View Suites</a> are ideal for day-trippers, and will give you a sampling of our signature services on an à la carte plan.</p>
 					</div>
 					
                     ]]>
@@ -101,7 +102,7 @@
             				<copy><![CDATA[
             				
             				<div style="background-color:#FFFFFF; border-color:#F1F1F1; -webkit-border-radius: 4px; -moz-border-radius: 4px; border-radius: 4px; border-width: 2px; border-style:solid; padding:4px 10px 4px 10px; margin:10px 25px 10px 25px;">
-			                <p><a href='/lightbox/fly-to-hana.html' class='fancyajax'><img src="/images/site/hana-by-air-611.jpg" /></a></p>
+			                <p><a href='/lightbox/fly-to-hana.html' class='fancyajax'><img src="/images/site/hana-by-air-611r.jpg" width="611" /></a></p>
 			                </div>
             				
             				<div style="background-color:#fafafa; -webkit-border-radius: 4px; -moz-border-radius: 4px; border-radius: 4px; border-color:#f1f1f1; border-width: 2px; border-style:solid; padding:20px 0px 254px 22px; margin:5px 25px 0px 25px; height:879px;">
@@ -279,7 +280,7 @@
                 <p>Travaasa Resort & Spa provides you with different rate and package selections so that you can make the most of your time with us. These special offerings are designed to customize your journey.</p>
                 
                 <div style="background-color:#FFFFFF; border-color:#F1F1F1; border-width: 4px; border-style:solid; padding:4px 10px 4px 10px; margin:10px 25px 10px 25px;">
-                <p><a href='/lightbox/fly-to-hana.html' class='fancyajax'><img src="/images/site/hana-by-air-611.jpg" /></a></p>
+                <p><a href='/lightbox/fly-to-hana.html' class='fancyajax'><img src="/images/site/hana-by-air-611r.jpg" width="611" /></a></p>
                 </div>
                                 
                 <div style="background-color:#FFFFFF; border-color:#F1F1F1; border-width: 4px; border-style:solid; padding:10px 10px 10px 10px; margin:10px 25px 10px 25px;">
@@ -2402,9 +2403,10 @@
                         <p>Geographically, Hana is bookended by spectacular tropical wilderness. To the north and west lies the serpentine Hana Highway (also known as the Road to Hana), where each bend of the journey reveals ravines draped in waterfalls and lush rainforest. To the south and west, the road continues and delivers travelers to the outskirts of Haleakala National Park, where Ohe’o Gulch tumbles to the ocean in a series of magnificent cascades and swimmable pools.</p>
                         
                         <p>Here at the eastern edge of Maui, you are completely removed from the ordinary, and yet completely involved in the moment. The magic of Heavenly Hana simply has to be experienced to be believed.</p>
-                        <div id="book-gift" style='float: left;'><a class"address_ajax" href="/hana/hana-rates-and-packages">Rates</a></div>
-                        <div id="book-gift" style='float: left;'><a class"address_ajax" href="/hana/accommodations">Rooms</a></div>
+                        <div id="book-gift" style='float: left;'><a class="address_ajax" href="/hana/hana-rates-and-packages">Rates</a></div>
+                        <div id="book-gift" style='float: left;'><a class="address_ajax" href="/hana/accommodations">Rooms</a></div>
                         <div id="book-gift" style='float: left;'><a class="address_ajax" href="https://gc.synxis.com/rez.aspx?Hotel=26987&Chain=10237&template=HNMHM&shell=HNMHM2" target="_blank" onclick="_gaq.push(['_link', 'https://gc.synxis.com/rez.aspx?Hotel=26987&Chain=10237&template=HNMHM&shell=HNMHM2']); return false;">Book Now</a></div>
+                        <div id="book-gift" style='float: left;'><a class='fancyajax' href='/lightbox/fly-to-hana.html'>Flights</a></div>
                         <p>&nbsp;</p>
 
                       ]]>
@@ -2494,6 +2496,10 @@
                 </meta>
                 <h1>The Journey to Travaasa Hana</h1>
                 <copy><![CDATA[
+                <a class="frame-right" style="margin-right:20px" href="http://www.mokuleleairlines.com/" TARGET="_blank" title="Mokulele Airlines">
+            					<img src="/images/site/mokulele-badge.jpg" width="330" alt="Mokulele Airlines" /></a>
+
+                
                 <p>Your reception at the Travaasa Hana begins with a spectacular 49-mile drive along the coast, and ends with a Ti leaf lei in our lobby. Between point A and point B is one of the world’s most amazing journeys.</p>
                 
                 <p>It’s called the Hana Highway (or commonly known as the Road to Hana), and it is often referred to as one of the most scenic drives in America (visit <a style="color:#f58220; text-decoration: none; font-family:arial, helvetica, sans-serif;" href="http://ther2h.com" TARGET="_blank"><strong>R2H</strong></a> to learn more).</p>
@@ -2504,7 +2510,10 @@
                 
                 <p>Our vision at Travaasa has always been to uncover the magic of travel — the story of the journey. The road to the Travaasa Hana will give you stories to last a lifetime, even before your stay at our hotel.</p>
                 
+                <div id="book-gift" style='float: left;'><a class="address_ajax" href="/hana/hana-rates-and-packages">Rates</a></div>
+                <div id="book-gift" style='float: left;'><a class="address_ajax" href="/hana/accommodations">Rooms</a></div>
                 <div id="book-gift" style='float: left;'><a class="address_ajax" href="https://gc.synxis.com/rez.aspx?Hotel=26987&Chain=10237&template=HNMHM&shell=HNMHM2" target="_blank" onclick="_gaq.push(['_link', 'https://gc.synxis.com/rez.aspx?Hotel=26987&Chain=10237&template=HNMHM&shell=HNMHM2']); return false;">Book Now</a></div>
+                <div id="book-gift" style='float: left;'><a class='fancyajax' href='/lightbox/fly-to-hana.html'>Flights</a></div>
                 <p>&nbsp;</p>
                 ]]>
                 </copy>
@@ -3234,51 +3243,75 @@
                     </pdf>
                 </pdf_downloads>
             </page>
-            <page section="16" primarySection="1" secondaryNav="true" id="78" position="1" sitemapId="4.1.7" sitemapTitle="A PERFECT DAY AT HANA"> 
-            <title><![CDATA[A Perfect Day at Travaasa]]></title>
+            <page section="16" primarySection="1" secondaryNav="true" id="78" position="1" sitemapId="4.1.7" sitemapTitle="A PERFECT STAY AT HANA"> 
+            <title><![CDATA[A Perfect Stay at Travaasa]]></title>
             	<meta>
-            		<slug>a-perfect-day-at-travaasa-hana</slug>
-            		<pageTitle><![CDATA[A Perfect Day at Travaasa Hana | Things to Do | Travaasa Hana]]></pageTitle>
-            		<description><![CDATA[A perfect day at Travaasa Hana includes sunrise yoga, time on the beach, visiting the spa, seeing waterfalls and savoring delicious cuisine.]]></description>
+            		<slug>a-perfect-stay-at-travaasa-hana</slug>
+            		<pageTitle><![CDATA[A Perfect Stay at Travaasa Hana | Things to Do | Travaasa Hana]]></pageTitle>
+            		<description><![CDATA[A perfect stay at Travaasa Hana includes sunrise yoga, time on the beach, visiting the spa, seeing waterfalls and savoring delicious cuisine.]]></description>
             		<keywords><![CDATA[Travaasa, Hana, Maui, Hawaii, boutique spa resorts, hotels, guided activities, adventure, cultural travel, culinary, fitness, wellness, all-inclusive, yoga, spa vacations, what to do, beach, snorkeling,]]></keywords>
             	</meta>
-            	<h1><![CDATA[A Perfect Day at Travaasa Hana]]></h1>
+            	<h1><![CDATA[A Perfect Stay at Travaasa Hana]]></h1>
             	<copy><![CDATA[
-            	<p>So you’ve made your way down the Hana Highway to Travaasa Hana — what do we have in store for you? From thorough relaxation to exhilarating adventure, delicious cuisine to stunning scenery, your days with us will never have a dull moment. Here’s what a perfect day at Travaasa Hana looks like.</p>
+            	<p>So you’ve made your way down the Hana Highway to Travaasa Hana — what do we have in store for you? From thorough relaxation to exhilarating adventure, delicious cuisine to stunning scenery, your days with us will never have a dull moment. Here’s what a perfect stay at Travaasa Hana might look like.</p>
             	
             	<div style="background-color:#FFFFFF; border-color:#F1F1F1; border-width: 4px; border-style:solid; padding:20px 15px 15px 15px; margin:10px 25px 0px 25px;">
             	
             	
-            	<h2><span style="color:#d11241;">7:30am</span></h2>
-            	<p>Greet the sunrise over the Pacific Ocean with a proper sun salutation as you start your day with an <a class="pink-link" href="/hana/hana-yoga">early morning yoga class</a>. If you are in the mood for a more rigorous start to your day, join us for our <a class="pink-link" href="/hana/hana-coastal-workout">coastal workout</a>.</p>
-            	
-            	<h2><span style="color:#d11241;">8:30am</span></h2>
-            	<p>Invigorated and refreshed from your early start, you’ll be ready for some sustenance. Head to our restaurant for a delicious, locally sourced breakfast.</p>
-            	
-            	<h2><span style="color:#d11241;">9:15am</span></h2>
-            	<p>The Hana Coast is worth a closer look. Spend the morning by <a class="pink-link" href="/hana/hana-snorkeling">snorkeling in Hana Bay</a> (we can provide snorkeling gear) or see the town of Hana from one of <a class="pink-link" href="/hana/hana-bike-holoholo">our cruiser bikes</a>. You can also go further afield by driving 45 minutes south on the Hana Highway to O’heo Gulch. This legendary chain of pools — each crowned by a waterfall — is quite popular, but since you’re staying with us, you’ll have the scene all to yourself this early in the morning. Set aside the entire morning if you go to O’heo Gulch.</p>
-            	
-            	<h2><span style="color:#d11241;">11:00am</span></h2>
-            	<p>If you have stayed close by, join us for our <a class="pink-link" href="/hana/hana-tastings-series">tasting series</a>, where we sample everything from locally grown coffee to gourmet chocolates to coconut water.</p>
-            	
-            	<h2><span style="color:#d11241;">1:00pm</span></h2>
-            	<p>After lunch, learn the local practice of <a class="pink-link" href="/hana/hana-hawaiian-throw-net">Hawaiian throw-net fishing</a>, an activity that is widely adopted throughout the islands, but rarely shared with visitors. This traditional way of fishing requires focus and patience, but our local guide will show you the ropes and you will come to appreciate both Hawaiian culture and the local ecosystem in a whole new way.</p>
-            	
-            	<h2><span style="color:#d11241;">2:30pm</span></h2>
-            	<p>Spend the rest of the afternoon savoring <a class="pink-link" href="/hana/hana-the-spa-at-travaasa-hana">our world-class spa</a>. From locally inspired body treatments to our signature massages, the Spa at Travaasa Hana will serve you a uniquely relaxing and revitalizing experience.</p>
-            	
-            	<h2><span style="color:#d11241;">5:00pm</span></h2>
-            	<p>Before dinner, gather with friends and learn the <a class="pink-link" href="/hana/hana-the-art-of-the-cocktail">Art of the Cocktail</a>, one of our most popular culinary experiences. From whipping up a classic cocktail to modern mixology techniques, you’ll learn new skills that will add some oomph to your next party.</p>
-            	
-            	<h2><span style="color:#d11241;">8:00pm</span></h2>
-            	<p>After a delicious, locally sourced dinner cooked by <a class="pink-link" href="/hana/hana-executive-chef">our executive chef</a> and his culinary team, relax with your friends and other guests at our <a class="pink-link" href="/hana/hana-talk-story">nightly gathering</a> by the outdoor fireplace</p>
+            	<h2><span style="color:#d11241;">Day One</span></h2>
+				<p><em>Arrival</em><br />
+				Guided Garden Walk<br />
+				Art of the Cocktail by the pool<br />
+				Traditional Lomilomi Massage<br />
+				Delicious Supper at the Ka’uiki Restaurant</p>
+				
+				<h2><span style="color:#d11241;">Day Two</span></h2>
+				<p><em>Beach Day</em><br />
+				Coastal Walk and Stretch<br />
+				Healthy Breakfast<br />
+				Stand-Up Paddling Lesson<br />
+				Picnic Lunch<br />
+				Throw-Net Fishing<br />
+				Hana Remineralizing Facial<br />
+				Open Mic Night at Hana Ranch Restaurant</p>
+				
+				<h2><span style="color:#d11241;">Day Three</span></h2>
+				<p><em>On Property</em><br />
+				Hatha Yoga<br />
+				Healthy Breakfast<br />
+				Coastal Horseback Ride<br />
+				Coconut Husking<br />
+				Lunch<br />
+				Lei Making<br />
+				Personal Training Session<br />
+				Fitness Hula Class<br />
+				Mele: Song and Hula &#8211; Ka’uiki Restaurant</p>
+				
+				<h2><span style="color:#d11241;">Day Four</span></h2>
+				<p><em>Off-Property Adventure</em><br />
+				Outdoor Boot Camp<br />
+				Breakfast<br />
+				Glider Adventure<br />
+				Holoholo Fruit tasting tour<br />
+				Bamboo Forest Hike to Waimoku Falls<br />
+				Detoxifying Algae Wrap and Massage<br />
+				Dinner</p>
+				
+				<h2><span style="color:#d11241;">Day Five</span></h2>
+				<p>Breakfast<br />
+				Pilates<br />
+				Archery<br />
+				Juicy Living<br />
+				Lunch<br />
+				Hand and Foot Treatment<br />
+				Departure</p>
             	
             	</div>
             	
             	]]>
             	</copy>
             	<thumbImg>images/site/hana-bike-holoholo-t.jpg</thumbImg>
-            	<thumbCaption><![CDATA[A perfect day at Travaasa Hana]]></thumbCaption>
+            	<thumbCaption><![CDATA[A perfect stay at Travaasa Hana]]></thumbCaption>
             	<mainImg>images/site/hana-bike-holoholo.jpg</mainImg>
             	<imageCaption>Bike Holoholo</imageCaption>
             	<Storybook></Storybook>

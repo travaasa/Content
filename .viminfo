@@ -9,6 +9,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
+:q
 
 # Search String History (newest to oldest):
 
@@ -21,21 +22,27 @@
 # Registers:
 
 # File marks:
-'0  3  5  ~/.gitignore
-'1  2  7  ~/.gitignore
-'2  1  11  ~/.gitignore
+'0  5  12  ~/.gitignore
+'1  4  6  ~/.gitignore
+'2  3  5  ~/.gitignore
+'3  2  7  ~/.gitignore
+'4  1  11  ~/.gitignore
 
 # Jumplist (newest first):
--'  3  5  ~/.gitignore
+-'  5  12  ~/.gitignore
+-'  4  0  ~/.gitignore
+-'  3  0  ~/.gitignore
 -'  2  0  ~/.gitignore
 -'  1  0  ~/.gitignore
 
 # History of marks within files (newest to oldest):
 
 > ~/.gitignore
-	"	3	5
-	^	3	6
-	.	3	5
+	"	5	12
+	^	5	13
+	.	5	12
 	+	1	12
-	+	4	0
-	+	3	5
+	+	6	0
+	+	3	6
+	+	4	7
+	+	5	12

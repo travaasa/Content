@@ -139,6 +139,7 @@ foreach ($xml->experiences->secondaryPages->page as $page) {
 	<script type="text/javascript" charset="utf-8">
 		$(document).ready(function () {
 			$('a.fancy').fancybox();
+			$('a.fancyajax').fancybox({type: 'ajax'});
 			$(".fancybox-thumb").fancybox({
 					prevEffect	: 'none',
 					nextEffect	: 'none',
