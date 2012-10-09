@@ -487,23 +487,20 @@
                     
                    <p>Travaasa Experiential Resorts' monthly calendar of experiences, classes and special events.</p>
                    
-                   <div style="background-color:#FFFFFF; border-color:#F1F1F1; -webkit-border-radius: 4px; -moz-border-radius: 4px; border-radius: 4px; border-width: 2px; border-style:solid; padding:20px 0px 20px 25px; margin:10px 25px 10px 25px; height:620px;">
-                   
-                   <a class="fancyajax frame-left" href="/lightbox/uncover-month.html">
-						<img src="/images/site/sep-uncover-blue.png" height="293" alt="September is Uncover Month" /></a>
+                   <div style="background-color:#FFFFFF; border-color:#F1F1F1; -webkit-border-radius: 4px; -moz-border-radius: 4px; border-radius: 4px; border-width: 2px; border-style:solid; padding:20px 0px 20px 25px; margin:20px 25px 10px 25px; height:195px;">
 						
 				   <a class="fancyajax frame-left" href="/lightbox/harvest-month.html">
-						<img src="/images/site/oct-harvest-gray.png" height="293" alt="October is Harvest Month" /></a>	
+						<img src="/images/site/oct-harvest-blue.png" height="184" alt="October is Harvest Month" /></a>	
 
-                   <a class="fancy frame-left" href="/images/site/coming-soon.png">
-						<img src="/images/site/nov-stop-gray.png" height="293" alt="November is Stop Month" /></a>
+                   <a class="fancyajax frame-left" href="/lightbox/nov-2012.html">
+						<img src="/images/site/nov-stop-gray.png" height="184" alt="November is Stop Month" /></a>
 						
 				   <a class="fancy frame-left" href="/images/site/coming-soon.png">
-						<img src="/images/site/dec-joy-gray.png" height="293" alt="December is Joy Month" /></a>
+						<img src="/images/site/dec-joy-gray.png" height="184" alt="December is Joy Month" /></a>
 						
-				   </div>		
-
-			        <p>&nbsp;</p>                                                                                                    
+				   </div>
+				   <p style="margin: 0 0 0 0; padding: 0 0 0 0;">&nbsp;</p>	
+                                                                                                    
                     ]]>
 					</copy>
 					<thumbImg>images/site/hana-spa-wellness-t.jpg</thumbImg>
