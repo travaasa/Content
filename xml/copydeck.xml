@@ -1,0 +1,216 @@
+<?xml version="1.0" standalone='yes' ?>
+	<pages>
+		<intro sitemapId="0.0" sitemapTitle="Landing Page">
+			<meta>
+				<slug></slug>
+				<pageTitle>Travaasa - Real Travel for Real Experiences.</pageTitle>
+				<description>Rediscover the magic of travel with Travaasa Austin, Texas or Hana, Maui.</description>
+				<keywords>travaasa, travel, resorts, hana, hāna, hawaii, austin, texas, Austin resort, Austin spa, travaasa Austin, Austin spa resort, experiential, hotel, Austin hotel, Austin conference center, Austin group meeting</keywords>
+			</meta>
+			<backgroundImages>
+				<image>
+					<src>images/site/backgrounds/splash_BG.jpg</src>
+					<caption></caption>
+				</image>
+			</backgroundImages>
+			<mainContent>
+				<h1><![CDATA[Travaasa&ndash;a collection of experiential destination hotels.]]></h1>
+				<copy><![CDATA[<p class="home_content">We created Travaasa so you can Travaasa. So you can rediscover the magic of travel. The art of the journey. Have memories to glow by. Travaasa opens you up to your physical, spiritual and mental world with happenings you'll remember forever, lessons and delights that will become a part of you forever. And it all starts at our gorgeous Hāna, Hawaii and Austin, Texas, destination hotels. Your Travaasa experience begins and ends with one thought: Only at Travaasa could I live that.</p>]]>
+					</copy>
+				<learnMoreUrl></learnMoreUrl>
+			</mainContent>
+		</intro>
+		
+		<index sitemapId="0.0" sitemapTitle="Home Page">
+			<meta>
+				<slug></slug>
+				<pageTitle>Travaasa - Real Travel for Real Experiences.</pageTitle>
+				<description>Rediscover the magic of travel with Travaasa Austin, Texas or Hana, Maui.</description>
+				<keywords>travaasa, travel, resorts, hana, hāna, hawaii, austin, texas, Austin resort, Austin spa, travaasa Austin, Austin spa resort, experiential, hotel, Austin hotel, Austin conference center, Austin group meeting</keywords>
+			</meta>
+			<backgroundImages>
+			    <image>
+			    	<src>images/site/backgrounds/main-background-3.jpg</src>
+			    	<caption><![CDATA[<p>Sunrise view from Travaasa Hana&#39;s Sea Ranch Cottages.</p>]]></caption>
+			    </image>
+			    <image>
+			    	<src>images/site/backgrounds/main-background-4.jpg</src>
+			    	<caption><![CDATA[<p>Throw net at Hana Bay.</p>]]></caption>
+			    </image>
+			    <image>
+			    	<src>images/site/backgrounds/main-background-1.jpg</src>
+			    	<caption><![CDATA[<p>Soak it all in at the infinity pool at Travaasa Austin.</p>]]></caption>
+			    </image>
+				<image>
+					<src>images/site/backgrounds/main-background-2.jpg</src>
+					<caption><![CDATA[<p>After a relaxing spa visit, you might not want to put your boots back on. </p>]]></caption>
+				</image>			
+			</backgroundImages>
+			<slideshow instructions="because of the plugin, these actual need to be in reverse order of how they come out on the page">
+					<image>
+						<img>images/site/conde-naste-chairs-960.png</img>
+						<desc></desc>
+					    <link>/hana</link>
+					</image>
+					<image>
+						<img>images/site/remember-fresh-air-960.png</img>
+						<desc></desc>
+					    <link>/austin/accommodations</link>
+					</image>
+					<image>
+						<img>images/site/number-one-spa-in-hawaii-960.png</img>
+						<desc></desc>
+					    <link>/hana/hana-the-spa-at-travaasa-hana</link>
+					</image>
+					<image>
+						<img>images/site/have-stories-to-tell-960.png</img>
+						<desc></desc>
+					    <link>/austin/austinschedule</link>
+					</image>
+						
+			</slideshow>
+			<promos>
+				<promo>
+					<img>images/site/hana-by-air-400.jpg</img>
+					<h3></h3>
+					<copy><![CDATA[
+                    
+                    ]]></copy>
+					<learnMoreUrl>/hana/hana-rates-and-packages</learnMoreUrl>
+				</promo>
+				
+				<promo>
+			    	<img>images/site/austin-exposition-kitchen-400.jpg</img>
+			    	<h3></h3>
+			    	<copy><![CDATA[
+			    	Visit Austin on the Total Travaasa Package
+			        ]]></copy>
+			    	<learnMoreUrl>/austin/rates-and-packages</learnMoreUrl>
+			    </promo>
+			    
+			    <promo>
+			    	<img>images/site/hana-photos-400.jpg</img>
+			    	<h3></h3>
+			    	<copy><![CDATA[
+			    	Travaasa Hana Photo Gallery
+			        ]]></copy>
+			    	<learnMoreUrl>/hana/hanaphotos</learnMoreUrl>
+			    </promo>
+				
+                <promo>
+					<img>images/site/austin-cowboy-400.jpg</img>
+					<h3></h3>
+					<copy><![CDATA[
+                    Equine Encounters at Travaasa Austin
+                    ]]></copy>
+					<learnMoreUrl>/austin/equine-experiences</learnMoreUrl>
+				</promo>
+				
+				<promo>
+					<img>images/site/austin-massage-400.jpg</img>
+					<h3></h3>
+					<copy><![CDATA[
+				    The Spa at Travaasa Austin
+				    ]]></copy>
+					<learnMoreUrl>/austin/travaasa-spa-overview</learnMoreUrl>
+				</promo>
+				
+				                                
+			</promos>
+			<mainContent>
+				<h1><![CDATA[Travaasa Experiential Resorts &#038; Spas]]></h1>
+				<copy><![CDATA[<p class="home_content">Introducing Travaasa, a new collection of experiential spa resorts that emphasizes real travel and the unique, authentic qualities that make a destination magical.  <em>Learn more about the <a href="http://www.travaasa.com/about-us/">Travaasa Vision</a>.</em></p>
+				<br />
+				  <p class="home_content">Our hotels are tailored to the intellectually active and culturally curious, offering a resort experience that is defined by <a href="http://www.travaasa.com/experiences/">guided adventures</a>, <a href="http://www.travaasa.com/experiences/">culinary classes</a>, <a href="http://www.travaasa.com/experiences/">cultural encounters</a>, <a href="http://www.travaasa.com/austin/#/travaasa-spa-overview">healing spa treatments</a>, as well as <a href="http://www.travaasa.com/experiences/">fitness</a> and <a href="http://www.travaasa.com/experiences/">wellness workshops</a>.</p>]]>
+					</copy>
+				<learnMoreUrl></learnMoreUrl>
+			</mainContent>
+		</index>
+		<aboutUs  sitemapId="1.0" sitemapTitle="About Us">
+			<meta>
+				<slug></slug>
+				<pageTitle>Travaasa Experiential Destination Hotels</pageTitle>
+				<description>A destination hotel with world-class spa services where you can experience local food, landscapes, people and a real sense of place.</description>
+				<keywords>travaasa, resort, spas, services, hotels, travel</keywords>
+			</meta>
+			<backgroundImages>
+				<image>
+					<src>images/site/backgrounds/main-background-3.jpg</src>
+					<caption><![CDATA[<p>Sunrise view from Travaasa Hana's Sea Ranch Cottages.</p>]]></caption>
+				</image>
+				<image>
+					<src>images/site/backgrounds/main-background-4.jpg</src>
+					<caption><![CDATA[<p>Throw net at Hana Bay.</p>]]></caption>
+				</image>
+				<image>
+					<src>images/site/backgrounds/main-background-1.jpg</src>
+					<caption><![CDATA[<p>Soak it all in at the infinity pool at Travaasa Austin.</p>]]></caption>
+				</image>
+				<image>
+					<src>images/site/backgrounds/main-background-2.jpg</src>
+					<caption><![CDATA[<p>After a relaxing spa visit, you might not want to put your boots back on. </p>]]></caption>
+				</image>			
+			</backgroundImages>
+			<mainImage>
+				<img>images/site/about-travaasa-crisman.png</img>
+				<caption><![CDATA[<p>An experience that recaptures the magic of travel.</p>]]></caption>
+			</mainImage>
+			<mainContent>
+				<h1><![CDATA[The Travaasa Vision]]></h1>
+				<copy><![CDATA[
+				<p>Our inspiration for Travaasa began with our own travel — far too often we have stayed in cold, soulless concrete towers that suppressed the magic of a place.</p> 
+				<p>For years we searched for an experiential hotel that truly embodied a sense of place — a destination’s culture, its cuisine, its adventures, its sense of well-being.</p>
+				<p>We wanted a place that would reawaken us. Intellectually, culturally, experientially. A place where we could learn, touch and do new things. A place we couldn’t find in our own backyard, or at the local spa or gym.</p>
+				<p>In other words, we wanted the joy of the journey, the magic of arriving somewhere new and getting a sense of that place. We wanted spontaneous moments and the magic of surprise that travel is supposed to bring us — all embodied in a hotel with wonderful amenities.</p>
+				<p><strong>No such place existed, so we decided to create it.</strong></p>
+				<p>We are more than just destination hotels with world-class spa services, cuisine inspired by local flavor, and breathtaking vistas. Our hotels recapture the magic of travel and give you indelible memories.</p>
+				<p>Travaasa Experiential Resorts embody the best of what happens when you travel: the journey, the discovery of a place, of people, of yourself, of the stories that define your life.</p>
+				<p>We invite you to join us on the journey.</p>
+				<br />
+								]]></copy>
+				<learnMoreUrl></learnMoreUrl>
+			</mainContent>
+			<promos>
+				<promo>
+					<h2>The Texas You've Always Dreamed Of</h2>
+					<copy><![CDATA[<p>Your Travaasa starts the moment you find yourself in a car, winding down a spectacular Texas Hill Country road. The vista unravels like a color-saturated ribbon, leading you to a place unlike any other. The car stops. You have arrived. And what you&rsquo;ll find is an intimate gathering of buildings — a <em>curated</em> amount of lodges.  We&rsquo;re about your experience, your travel &ndash; not catering to hundreds of people.</p>]]></copy>
+					<img>images/site/texas-dreamed-of-crisman.png</img>
+					<learnMoreUrl>/austin/</learnMoreUrl>
+					<learnMoreText>Explore Travaasa Austin</learnMoreText>
+				</promo>
+				<promo>
+					<h2>A Magical Place Called Hana</h2>
+					<copy><![CDATA[<p>Travaasa Hana is a destination resort unlike anywhere else in the world. Gracious in every sense of the word, from our staff to accommodations, dining, experiences, scenery and much more. We invite you to discover it for yourself.</p>]]></copy>
+					<img>images/site/hana-about-us.jpg</img>
+					<learnMoreUrl>/hana/</learnMoreUrl>
+					<learnMoreText>Explore Travaasa Hana</learnMoreText>
+				</promo>
+			</promos>
+		</aboutUs>
+		<contact  sitemapId="5.0" sitemapTitle="Contact Us">
+			<meta>
+				<slug>contact-us</slug>
+				<pageTitle>Contact Us</pageTitle>
+				<description> If you’re ready to Travaasa, start your journey today and experience the world in a different way.</description>
+				<keywords>travaasa, contact, austin, hana, hāna, book, reservations, registration</keywords>
+			</meta>
+			<backgroundImages>
+				<image>
+					<src>images/site/backgrounds/main-background-3.jpg</src>
+					<caption><![CDATA[<p>Sunrise view from Travaasa Hana&#39;s Sea Ranch Cottages.</p>]]></caption>
+				</image>
+				<image>
+					<src>images/site/backgrounds/main-background-4.jpg</src>
+					<caption><![CDATA[<p>Throw net at Hana Bay.</p>]]></caption>
+				</image>
+				<image>
+					<src>images/site/backgrounds/main-background-1.jpg</src>
+					<caption><![CDATA[<p>Soak it all in at the infinity pool at Travaasa Austin.</p>]]></caption>
+				</image>
+				<image>
+					<src>images/site/backgrounds/main-background-2.jpg</src>
+					<caption><![CDATA[<p>After a relaxing spa visit, you might not want to put your boots back on. </p>]]></caption>
+				</image>			
+			</backgroundImages>
+		</contact>
+	</pages>

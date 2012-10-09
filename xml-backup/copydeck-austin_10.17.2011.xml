@@ -1,0 +1,1873 @@
+<?xml version="1.0" standalone='yes' ?>
+	<pages>	
+		<backgroundImages>
+				<image>
+					<src>images/site/backgrounds/bg_option1.jpg</src>
+					<caption><![CDATA[<p>Indulge and re-energize in the Spa at Travaasa Austin.</p>]]></caption>
+				</image>
+				<image>
+					<src>images/site/backgrounds/bg_option2.jpg</src>
+					<caption><![CDATA[<p>With a variety of massages, cloud nine is always at hand.</p>]]></caption>
+				</image>
+				<image>
+					<src>images/site/backgrounds/austin-background-3.jpg</src>
+					<caption><![CDATA[<p>An experience that recaptures the magic of travel.</p>]]></caption>
+				</image>
+				<image>
+					<src>images/site/backgrounds/bg_option7.jpg</src>
+					<caption><![CDATA[<p>Relax and reconnect at Travaasa Austin.</p>]]></caption>
+				</image>		
+		</backgroundImages>
+		<austin>
+			<secondaryPages>
+				<page section="0" parentId="0" secondaryNav="true" id="0" position="1"  sitemapId="3.0" sitemapTitle="AUSTIN">
+					<title>Travaasa Austin Overview</title>
+					<meta>
+						<slug>travaasa-austin-overview</slug>
+						<pageTitle>Austin</pageTitle>
+						<description>Sustainability and eco-friendly principles guided the construction of Travaasa on 210 acres of Texas Hill Country.</description>
+						<keywords>travaasa, austin, texas, hill, country, sustainability, eco-friendly, canyonlands</keywords>
+					</meta>
+					<h1>Travaasa Austin: Natural Beauty in Texas Hill Country</h1>
+					<copy><![CDATA[<p>The sound of Golden-cheeked Warblers—which nest nowhere else in the world except in the oak and juniper woodlands of the Balcones Canyonlands. The sight of 210 acres of Texas Hill Country spreading out in every direction in front of you. The smell of bluebonnets, native Texas wildflowers. Once you experience this beautiful piece of earth, you’ll understand why sustainability and eco-friendly principles guide every facet of our design and operation.</p><p>Travaasa is an environmentally-sensitive destination hotel that was built with respect for the untouched, natural beauty of the adjoining Balcones Canyonlands Preserve. Only 34 acres were developed; native vegetation and wildlife are abundant throughout the rest of this undisturbed preserve.</p><p>The property integrates the existing terrain using a “least disturbance” design philosophy—emphasizing land and water conservation. Discover more about our green methodology in our construction materials and energy consumption sections. Or just come see for yourself.</p>]]></copy>
+					<thumbImg>images/site/natural-beauty-crisman-t.jpg</thumbImg>
+					<thumbCaption>Travaasa Austin</thumbCaption>
+					<mainImg>images/site/natural-beauty-crisman.jpg</mainImg>
+					<imageCaption>Let all your senses explore Travaasa Austin</imageCaption>
+					<Storybook></Storybook>
+					<pdf_downloads>
+						<pdf>
+							<title>Travaasa Austin Construction Materials</title>
+							<url>/pdf/Travaasa-Construction.pdf</url>
+						</pdf>
+						<pdf>
+							<title>Travaasa Austin Energy Consumption</title>
+							<url>/pdf/Travaasa-Energy-Consumption.pdf</url>
+						</pdf>
+					</pdf_downloads>
+				</page>
+				<!--<page section="0" secondaryNav="false" id="1" position="2"  sitemapId="3.0.1" sitemapTitle="MANAGING DIRECTOR, LARRY CALLAHAN">
+					<title>Managing Director, Larry Callahan</title>
+					<meta>
+						<slug>managing-director-larry-callahan</slug>
+						<pageTitle>Managing Director, Larry Callahan</pageTitle>
+						<description>Larry Callahan has three decades of experience in resort and project management for world-class properties.</description>
+						<keywords>travaasa, larry, callahan, management, managing, director</keywords>
+					</meta>
+					<h1>Larry Callahan, Managing Director, Travaasa Austin</h1>
+					<copy><![CDATA[<p>With more than three decades of experience in resort and project management for world-class properties, Larry Callahan was handpicked to manage and oversee Travaasa Austin.</p><p>Prior to Travaasa, Larry managed unique and magical hotels such as El Capitan in Santa Barbara, Robert Redford’s Sundance Resort & Properties in Utah, Post Ranch Inn in Big Sur California, Cousteau's Fiji Island Resort and the Lodge at Skylonda.</p><p>At heart, Larry is a consummate host who is fond of saying "Ensuring our guests leave feeling like they could only have had such a memorable journey at Travaasa is not just my goal; it’s my mission."</p>]]></copy>
+					<thumbImg>images/site/larry-callahan-REV-t.jpg</thumbImg>
+					<thumbCaption>Managing Director</thumbCaption>
+					<mainImg>images/site/larry-callahan-REV.jpg</mainImg>
+					<imageCaption>Larry lives for making guests feel welcome.</imageCaption>
+					<Storybook></Storybook>
+					<pdf_downloads>
+						<pdf>
+							<title></title>
+							<url></url>
+						</pdf>
+					</pdf_downloads>
+				</page>
+				-->
+				<page section="1"  secondaryNav="true" id="2" position="0"  sitemapId="3.1" sitemapTitle="AUSTIN EXPERIENCES">
+					<title>Austin Experiences</title>
+					<meta>
+						<slug>austin-experiences</slug>
+						<pageTitle>Austin Experiences</pageTitle>
+						<description>We provide a wide range of experiences to enrich your mind, stretch your imagination, feed your psyche, move your body, and give you spa delights. We call these experiences Travaasas.</description>
+						<keywords> travaasa, austin, experiences, travaasas</keywords>
+					</meta>
+					<h1>Austin Travaasas</h1>
+					<copy><![CDATA[<p>The flavor of Austin is unique, and so are the travaasas we offer here. You’ll taste local food that will bring a twang to your palate (hint: we just bet you’ll go home craving our Chipotle Chocolate Cake), experience the splendor of Texas Hill Country, and immerse yourself in all things authentic to Austin’s diverse and exciting culture.</p><p>Our Travaasas come in five categories: <strong>Adventure, Culinary, Culture, Fitness,</strong> and <strong>Spa</strong>.  Within each group, there is a delightful array of activities to ensure your experience with us is unforgettable. And just when you thought you’d seen everything, along comes a round or two of golf at the championship-level Twin Creeks Country Club, a two-step dance class and storytelling at our fire pit.</p>]]>
+					</copy>
+					<thumbImg>images/site/travaasa-experiences-t.jpg</thumbImg>
+					<thumbCaption>Austin Experiences</thumbCaption>
+					<mainImg>images/site/travaasa-experiences.png</mainImg>
+					<imageCaption></imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="1" parentId="0" secondaryNav="false" id="3" position="1"  sitemapId="3.1.1 DUPLICATE" sitemapTitle="ADVENTURE OVERVIEW">
+					<title>Adventure</title>
+					<meta>
+						<slug>adventure-overview</slug>
+						<pageTitle>Adventure</pageTitle>
+						<description>Travaasa adventure offerings include hiking, equine and challenge courses.</description>
+						<keywords>adventure, equine, hiking, hike, challenge course, climbing wall, travaasa, austin</keywords>
+					</meta>
+					<h1>Adventure Overview</h1>
+					<copy><![CDATA[<p>Our Austin Adventure Travaasas take full advantage of the natural beauty of the Texas Hill Country and our temperate climate. From the Prickly Pear Challenge Course that offers an unparalleled view of the Balcones Canyonlands Preserve as you fly over the treetops on our dual zip line, to discovering a sense of self-awareness during our equine experiences, there’s something here for everyone. And if you’d like to take it slow and smell the flowers along the way, our sunrise and sunset walks provide the perfect pace.</p>]]>
+					</copy>
+					<thumbImg>images/site/adventure-overview-austin-crisman-t.jpg</thumbImg>
+					<thumbCaption>Adventure Overview</thumbCaption>
+					<mainImg>images/site/adventure-overview-austin-crisman.jpg</mainImg>
+					<imageCaption>Travel should be an adventure.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="1" parentId="0" secondaryNav="false" id="4" position="2" sitemapId="3.1.2 DUPLICATE" sitemapTitle="CULINARY OVERVIEW">
+					<title>Culinary</title>
+					<meta>
+						<slug>culinary-overview</slug>
+						<pageTitle>Culinary Overview</pageTitle>
+						<description>Travaasa culinary offers a range of classes, from basic culinary skills and advice on making healthy choices at the market to new recipes steeped in local tradition.</description>
+						<keywords>culinary, cooking, food, nutrition, healthy, travaasa</keywords>
+					</meta>
+					<h1>Culinary Overview</h1>
+					<copy><![CDATA[<p>With the emphasis on locally sourced, organic food, and the concern over healthy ways of eating, Travaasa Austin brings you a well-rounded culinary program that offers everything from basic culinary skills to a Tastings class that stimulates your palate with everything from regional recipes to tea flights. Or learn how to navigate your way around the market—no mean feat in these days of über selection. Sample for yourself some of our scintillating selections.</p>]]>
+					</copy>
+					<thumbImg>images/site/culinary-overview-crisman-t.jpg</thumbImg>
+					<thumbCaption>Culinary Overview</thumbCaption>
+					<mainImg>images/site/culinary-overview-crisman.jpg</mainImg>
+					<imageCaption>Cooking demos that will set your palate on fire.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="1" parentId="0" secondaryNav="false" id="5" position="3" sitemapId="3.1.3 DUPLICATE" sitemapTitle="CULTURE OVERVIEW">
+					<title>Culture</title>
+					<meta>
+						<slug>culture-overview</slug>
+						<pageTitle>Culture Overview</pageTitle>
+						<description>Explore surroundings, immerse yourself learning new skills and allow for moments that renew and challenge.</description>
+						<keywords>travaasa, enrichment, cultures, foods, austin</keywords>
+					</meta>
+					<h1>Culture Overview </h1>
+					<copy><![CDATA[<p>When we talk about our range of experiences (our “Travaasas”) that do everything from feed the soul to get your heart racing, nowhere is that range more diverse than our Austin Culture classes, series and conversations. Take advantage of our unique location to delve into our Ecology series that takes a look at birds, bees, butterflies, native plants and flowers, and even the healing properties of herbs. Or go back home to California confident in your Texas Two-Step capabilities. For more ruminative sorts, try journaling, nature photography or drawing. And everyone loves ending the evening around our fire pit, lost in conversation and laughter.</p>]]>
+					</copy>
+					<thumbImg>images/site/fireside-chats-crisman-t.jpg</thumbImg>
+					<thumbCaption>Culture Overview</thumbCaption>
+					<mainImg>images/site/fireside-chats-crisman.jpg</mainImg>
+					<imageCaption>Explore the world with our Culture Travaasas.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="1" parentId="0" secondaryNav="false" id="6" position="4" sitemapId="3.1.4 DUPLICATE" sitemapTitle="FITNESS OVERVIEW ">
+					<title>Fitness</title>
+					<meta>
+						<slug>fitness-overview</slug>
+						<pageTitle>Fitness Overview</pageTitle>
+						<description>Travaasa fitness focuses on balance, core work and flexibility.</description>
+						<keywords>fitness, strengthening, balance, core, flexibility, agile, strength, travaasa, austin</keywords>
+					</meta>
+					<h1>Fitness Overview </h1>
+					<copy><![CDATA[<p>Fitness Travaasa Austin-style encompasses everything from aquatic yoga to Zumba®. And just to give you a taste of that “everything,” imagine being able to take six different yoga classes from renowned yoga experts, pilates, barre and foam rollers... even take a ride on the mechanical bull as an exciting end to a core workout! You can also enjoy our outdoor circuit, which makes exercise not just about breathing properly, but also breathtaking as you take in the surrounding scenery.</p>]]>
+					</copy>
+					<thumbImg>images/site/fitness-overview-crisman-t.jpg</thumbImg>
+					<thumbCaption>Fitness Overview</thumbCaption>
+					<mainImg>images/site/fitness-overview-crisman.jpg</mainImg>
+					<imageCaption>Let your inner agile child shine with our Fitness Travaasas.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="1" parentId="0" secondaryNav="false" id="7" position="5"  sitemapId="3.1.5 DUPLICATE" sitemapTitle="SPA  WELLNESS OVERVIEW">
+					<title><![CDATA[Wellness]]></title>
+					<meta>
+						<slug>spa-wellness</slug>
+						<pageTitle><![CDATA[Wellness Overview]]></pageTitle>
+						<description>Travaasa spa workshops include meditation, stretch, posture and breath work.</description>
+						<keywords>wellness, meditation, stretch, health, workshops, travaasa, spa</keywords>
+					</meta>
+					<h1><![CDATA[Wellness Overview]]></h1>
+					<copy><![CDATA[<p>Our Austin Spa and Wellness Travaasas focus on mind, body and spirit with meditation offerings to help you decompress or recharge, Mini Med classes that look at the relationship between our inner workings and our outer façade, and spirited “moving meditations” like Chi Gong and I Chi Flow. Take something from each for a well-rounded Travaasa experience. </p>]]>
+					</copy>
+					<thumbImg>images/site/spa-overview-crisman-t.jpg</thumbImg>
+					<thumbCaption><![CDATA[Wellness Overview]]></thumbCaption>
+					<mainImg>images/site/spa-overview-crisman.jpg</mainImg>
+					<imageCaption>These Travaasas are like a wellness toolkit.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title>Spa Programming Schedule</title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+					
+				
+				<page section="2" parentId="1" secondaryNav="true" id="8" position="1"  sitemapId="3.1.1" sitemapTitle="ADVENTURE OVERVIEW">
+					<title>Adventure</title>
+					<meta>
+						<slug>adventure-overview</slug>
+						<pageTitle>Adventure</pageTitle>
+						<description>Travaasa adventure offerings include hiking, equine and challenge courses.</description>
+						<keywords>adventure, equine, hiking, hike, challenge course, climbing wall, travaasa, austin</keywords>
+					</meta>
+					<h1>Adventure Overview</h1>
+					<copy><![CDATA[<p>Our Austin Adventure Travaasas take full advantage of the natural beauty of the Texas Hill Country and our temperate climate. From the Prickly Pear Challenge Course that offers an unparalleled view of the Balcones Canyonlands Preserve as you fly over the treetops on our dual zip line, to discovering a sense of self-awareness during our equine experiences, there’s something here for everyone. And if you’d like to take it slow and smell the flowers along the way, our sunrise and sunset walks provide the perfect pace.</p>]]>
+					</copy>
+					<thumbImg>images/site/adventure-overview-austin-crisman-t.jpg</thumbImg>
+					<thumbCaption>Adventure Overview</thumbCaption>
+					<mainImg>images/site/adventure-overview-austin-crisman.jpg</mainImg>
+					<imageCaption>Travel should be an adventure.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="2" secondaryNav="false" subnav="false" id="9" position="2" sitemapId="3.1.1.1" sitemapTitle="PRICKLY PEAR CHALLENGE COURSE">
+					<title>Prickly Pear Challenge Course</title>
+					<meta>
+						<slug>prickly-pear-challenge-course</slug>
+						<pageTitle>Prickly Pear Challenge Course</pageTitle>
+						<description>A state-of-the-art course at Travaasa Austin, designed in partnership with Outward Bound Professional and incorporates vertical climbing elements for all levels of physical ability.</description>
+						<keywords>travaasa, challenge, course, prickly, pear, outward bound, climbing, austin</keywords>
+					</meta>
+					<h1>Prickly Pear Challenge Course</h1>
+					<copy><![CDATA[<p>Ever picked a prickly pear? If you have, you know the importance of each foot and hand placement as you find your way between the cactus needles. The same focus on movement is required as you navigate the space above the trees on our challenge course. Our state-of-the-art course was designed in partnership with Outward Bound Professional, and incorporates vertical climbing elements for a wide range of physical ability. Begin at the Cob Web, progress over Raider Bridge, through the Flying V, to navigate Double Trouble. The linear progression of the course culminates with a fantastic flight of over 250 feet long, soaring over the tree tops.</p>
+					<h2>Climbing Wall</h2>
+					<p>Ready to feel exhilarated and have a real sense of accomplishment that you did something out of your comfort zone? Our climbing wall at the Prickly Pear Challenge Course will entertain and test both first timers and experienced climbers alike. You’ll love the feeling of challenging yourself to reach new heights while daring yourself to trust your body and go beyond your (perceived) limitations. </p>
+					<h2>Zipline</h2>
+					<p>There's no other feeling like that of a zip line—the sensation of flying and the freedom afforded by your journey down the cable—is at once exhilarating and empowering. At Travaasa Austin, the  linear progression of our course culminates with a fantastic dual zip line flight over 250 feet long, soaring above the tree tops. </p>
+					<h2>Partner Overview: Outward Bound</h2>
+					<p>For more than 60 years, Outward Bound has proven that they are simply the best at what they do as the premier adventure-based education program in the world. Most people know that Outward Bound has a nationwide system of wilderness courses, community-centric and special programming, but many may not be familiar with the Outward Bound Professional program, whose goal is to create positive, lasting change in the workplace through innovative, customized programs that enhance the effectiveness of individuals, groups and organizations. Travaasa celebrates our partnership with this revered leader in experiential learning and discovery. </p>]]>
+					</copy>
+					<thumbImg>images/site/challenge-course-crisman-t.jpg</thumbImg>
+					<thumbCaption>Challenge Course</thumbCaption>
+					<mainImg>images/site/challenge-course-crisman.jpg</mainImg>
+					<imageCaption>Our state-of-the-art challenge course.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="2" secondaryNav="false" id="10" position="3" sitemapId="3.1.1.2" sitemapTitle="EQUINE EXPERIENCES">
+					<title>Equine Experiences</title>
+					<meta>
+						<slug>equine-experiences</slug>
+						<pageTitle>Equine Experiences</pageTitle>
+						<description>Reconnect with your innate instinctual intelligence through working with horses.</description>
+						<keywords>travaasa, equine, experience, horses, austin</keywords>
+					</meta>
+					<h1>Equine Experiences</h1>
+					<copy><![CDATA[
+					<h2>Signature Experience</h2>
+					<p>Develop your self-awareness through close interaction with this intelligent creature and allow our equine team to guide you on a journey of heightened personal understanding. No previous horse experience needed.</p>
+					<h2>Basic Experience</h2>
+					<p>Learn to lead and project your intensions as you are guided by our equine team. No previous horse experience needed for this Travaasa that will teach you how to establish communication with another being through respect, sensitivity and awareness.</p>
+					<h2>Sunrise Walk</h2>
+					<p>There's nothing like a Hill Country sunrise and there is no better place to view it then Travaasa’s extensive trail system. Awaken the body and get ready to start your experience as you breath in the fresh morning air and watch the sun rise over the terrain and Lake Travis.</p>
+					<h2>Sunset Walk</h2>
+					<p>Watch the sunset while you spend time with your new equine friends at the stable. This evening hike will allow you to reflect on the amazing day you had at Travaasa Austin.</p>
+					]]>
+					</copy>
+					<thumbImg>images/site/equine-experience-crisman-t.jpg</thumbImg>
+					<thumbCaption>Equine</thumbCaption>
+					<mainImg>images/site/equine-experience-crisman.jpg</mainImg>
+					<imageCaption>Let our equine team guide you on a journey of heightened personal understanding.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="2" secondaryNav="false" id="11" position="4" sitemapId="3.1.1.3" sitemapTitle="ARCHERY">
+					<title>Archery</title>
+					<meta>
+						<slug>archery</slug>
+						<pageTitle>Archery</pageTitle>
+						<description>Archery boosts mental and physical health and fitness.</description>
+						<keywords>travaasa, archery, austin</keywords>
+					</meta>
+					<h1>Archery</h1>
+					<copy><![CDATA[<p>Learn the fundamentals that create the foundation of archery while boosting your mental attention and connecting your breath to physical performance. Experience techniques to develop your focus, patience, flexibility, concentration, and attention skills and understand why great archers continually develop these simple concepts to heighten all aspects of their lives.</p>]]>
+					</copy>
+					<thumbImg>images/site/archery-crisman-t.jpg</thumbImg>
+					<thumbCaption>Archery</thumbCaption>
+					<mainImg>images/site/archery-crisman.jpg</mainImg>
+					<imageCaption>Archery develops focus, patience, flexibility and concentration.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="2" secondaryNav="false" id="12" position="5" sitemapId="3.1.1.4" sitemapTitle="HIKING">
+					<title>Hiking</title>
+					<meta>
+						<slug>hiking</slug>
+						<pageTitle>Hiking</pageTitle>
+						<description>Explore Travaasa's rich and extensive trail system during morning, evening and moonlight hikes.</description>
+						<keywords>travaasa, hiking, trail, ecology, austin</keywords>
+					</meta>
+					<h1>Hiking</h1>
+					<copy><![CDATA[
+						<h2>Hill Country Hike</h2>
+						<p>Even if you don’t think you’re into hiking, you’ll change your mind after you explore our rich and extensive trail system. If you take a guided tour, you’ll learn about local flora, fauna and the history and ecology of the area. Hikes are open to all and accommodate a wide range of interests and abilities. Wear comfortable, supportive shoes and bring water. We have morning, evening and moonlight hikes.</p>
+						<h2>Sunrise Hike</h2>
+						<p>There's something magical about starting your day with a sunrise hike. Your body is refreshed from sleep, and your mind is open to experiencing new and vital things. Feel the fresh morning air on your face and watch the sun rise over the breathtaking landscape of the Balcones Canyonlands and waterscape of Lake Travis.</p>]]>
+					</copy>
+					<thumbImg>images/site/hiking-crisman-t.jpg</thumbImg>
+					<thumbCaption>Hiking</thumbCaption>
+					<mainImg>images/site/hiking-crisman.jpg</mainImg>
+					<imageCaption>Our rich and extensive trail system.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="2" secondaryNav="false" id="13" position="6" sitemapId="3.1.1.5" sitemapTitle="GEOCACHING ADVENTURE">
+					<title>Geocaching Adventure</title>
+					<meta>
+						<slug>geocaching-adventure</slug>
+						<pageTitle>Geocaching Adventure</pageTitle>
+						<description>A game of high-tech hide and seek using a GPS receiver to hide and search out containers.</description>
+						<keywords>travaasa, geocaching, gps, austin</keywords>
+					</meta>
+					<h1>Geocaching Adventure</h1>
+					<copy><![CDATA[
+						<p>Geocaching is an outdoor sporting activity, often described as a “game of high-tech hide & seek,” in which the participants use a Global Positioning System (GPS) receiver or other navigational techniques to hide and search out containers, called “geocaches” or “caches” anywhere in the world. And in your case, you’ll have the entire spectacular Travaasa property to explore—discovering and hiding your own caches.</p>]]>
+					</copy>
+					<thumbImg>images/site/geocaching-adventure-crisman-t.jpg</thumbImg>
+					<thumbCaption>Geocaching</thumbCaption>
+					<mainImg>images/site/geocaching-adventure-crisman.jpg</mainImg>
+					<imageCaption>Geocaching - high-tech meets hide 'n seek.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="3" parentId="1" secondaryNav="true" id="14" position="1" sitemapId="3.1.2" sitemapTitle="CULINARY OVERVIEW">
+					<title>Culinary</title>
+					<meta>
+						<slug>culinary-overview</slug>
+						<pageTitle>culinary-overview</pageTitle>
+						<description>Travaasa culinary offers a range of classes, from basic culinary skills and advice on making healthy choices at the market to new recipes steeped in local tradition.</description>
+						<keywords>culinary, cooking, food, nutrition, healthy, travaasa</keywords>
+					</meta>
+					<h1>Culinary Overview</h1>
+					<copy><![CDATA[<p>With the emphasis on locally sourced, organic food, and the concern over healthy ways of eating, Travaasa Austin brings you a well-rounded culinary program that offers everything from basic culinary skills to a Tastings class that stimulates your palate with everything from regional recipes to tea flights. Or learn how to navigate your way around the market—no mean feat in these days of über selection. Sample for yourself some of our scintillating selections.</p>]]>
+					</copy>
+					<thumbImg>images/site/culinary-overview-crisman-t.jpg</thumbImg>
+					<thumbCaption>Culinary Overview</thumbCaption>
+					<mainImg>images/site/culinary-overview-crisman.jpg</mainImg>
+					<imageCaption>Cooking demos that will set your palate on fire.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="3" secondaryNav="false" id="15" position="2" sitemapId="3.1.2.1" sitemapTitle="BASIC CULINARY SKILLS">
+					<title>Basic Culinary Skills</title>
+					<meta>
+						<slug>basic-culinary-skills</slug>
+						<pageTitle>Basic Culinary Skills</pageTitle>
+						<description>Cooking demos that teach you skills and techniques while showcasing Travaasa house recipes. A four-part series in terminology, eggs, knife skills and sauces.</description>
+						<keywords>travaasa, cooking, culinary, skills, class, terminology, eggs, knife, sauces, AUSTIN</keywords>
+					</meta>
+					<h1>Basic Culinary Skills</h1>
+					<copy><![CDATA[<p>Our hands-on cooking demos will teach you skills and techniques while showcasing Travaasa house recipes. Let our gourmet culinary team delight you, on property, with ways to prepare, cook and present the cuisine you savor.</p>
+					]]>
+					</copy>
+					<thumbImg>images/site/basic-culinary-skills-crisman-t.jpg</thumbImg>
+					<thumbCaption>Basic Culinary Skills</thumbCaption>
+					<mainImg>images/site/basic-culinary-skills.jpg</mainImg>
+					<imageCaption>Hands-on cooking demos.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="3" secondaryNav="false" id="16" position="3" sitemapId="3.1.2.2" sitemapTitle="HAVING FUN IN THE KITCHEN ">
+					<title>Having Fun in the Kitchen</title>
+					<meta>
+						<slug>having-fun-in-the-kitchen</slug>
+						<pageTitle>Having Fun in the Kitchen</pageTitle>
+						<description>Cooking demos that teach you skills and techniques while showcasing Travaasa house recipes. A three-part series dealing with appetizers, cocktails and irresistible recipes.</description>
+						<keywords>travaasa, cooking, appetizers, cocktails, recipes, austin</keywords>
+					</meta>
+					<h1>Having Fun in the Kitchen</h1>
+					<copy><![CDATA[<p>You know those enviable people who make entertaining look so easy, and preparing recipes so effortless? After this culinary adventure, you’ll be one of them as you whip up tempting appetizers, perfect the art of the cocktail and learn how to create a memorable meal through layering different tastes and textures.</p>
+					]]>
+					</copy>
+					<thumbImg>images/site/fun-in-kitchen-crisman-t.jpg</thumbImg>
+					<thumbCaption>Having Fun in the Kitchen</thumbCaption>
+					<mainImg>images/site/fun-in-kitchen-crisman.jpg</mainImg>
+					<imageCaption>Have fun in the kitchen with Chef Ben.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="3" secondaryNav="false" id="17" position="4" sitemapId="3.1.2.3" sitemapTitle="HEALTHY REGIONAL CUISINE  ">
+					<title>Healthy Regional Cuisine</title>
+					<meta>
+						<slug>healthy-regional-cuisine</slug>
+						<pageTitle>Cooking: Healthy Regional Cuisine</pageTitle>
+						<description>Cooking demos that teach you skills and techniques while showcasing Travaasa house recipes. A three-part series dealing with Mediterranean, Asian and Caribbean cuisines.</description>
+						<keywords>travaasa, cooking, regional, mediterranean, asian, caribbean, recipes, austin</keywords>
+					</meta>
+					<h1>Regional Cuisine Series</h1>
+					<copy><![CDATA[<p>Travaasa is a journey, and there's a whole world of regional cuisines out there to explore. This is a gastronomic exploration that takes you from east to west and south with flavors that will excite, ignite and surprise.</p>
+					]]>
+					</copy>
+					<thumbImg>images/site/regional-cuisine-crisman-t.jpg</thumbImg>
+					<thumbCaption>Healthy Regional Cuisine</thumbCaption>
+					<mainImg>images/site/regional-cuisine-crisman.jpg</mainImg>
+					<imageCaption>Explore a world of regional cuisines.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+								<page section="3" secondaryNav="false" id="19" position="5" sitemapId="3.1.2.5" sitemapTitle="JUICING 2.0">
+					<title>Juicing 2.0</title>
+					<meta>
+						<slug>juicing-2_0</slug>
+						<pageTitle>Juicing 2.0</pageTitle>
+						<description>The Travaasa Juicing 2.0 program is a hands-on, experiential class that provides a novel way to discover the exciting possibilities of food.</description>
+						<keywords>travaasa, nutrition, palette, grocery, shopping, healthy, juicing, nourish, austin</keywords>
+					</meta>
+					<h1>Juicing 2.0</h1>
+					<copy><![CDATA[<p>Most have tried juicing before. And promptly quit because of the slopping, mopping and chopping. Enter our Juicing 2.0 Travaasa. This isn't juicing from another era.</p>
+					<p>Instead, we bring you an interactive meal-making program that uses a blender and fresh, whole food as its culinary crayon box. This is a hands-on, experiential class that provides a novel way to discover the exciting possibilities of food. We use whole foods to blend, juice and mix into fresh whole juices, hot soups, ice cream, salsas, dips, spreads and desserts... all from scratch. And all delicious.</p>
+					]]>
+					</copy>
+					<thumbImg>images/site/juicing-crisman-t.jpg</thumbImg>
+					<thumbCaption>Juicing 2.0</thumbCaption>
+					<mainImg>images/site/juicing-crisman.jpg</mainImg>
+					<imageCaption>Juicing like you've never tasted before.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="3" secondaryNav="false" id="20" position="6" sitemapId="3.1.2.6" sitemapTitle="TASTINGS">
+					<title>Tastings</title>
+					<meta>
+						<slug>tastings</slug>
+						<pageTitle>Wine Tasting</pageTitle>
+						<description>An education for your palate that includes tastings of regional foods, organic wines, handcrafted beers and artisanal delicacies.</description>
+						<keywords>travaasa, tasting, palate, regional, organic, education, delicacies, wine, austin</keywords>
+					</meta>
+					<h1>Wine Tasting</h1>
+					<copy><![CDATA[
+					<p>Sip. Surrender. Savor. Wine appreciation can sound daunting and complicated. Let us step in with this Travaasa that “undaunts” and underscores all the important things you need to know and understand about enjoying wine. First of all, wine is not just about knowing what you like. There is a difference between objective quality and subjective enjoyment. So let yourself surrender to different tastes you might never get to experience again. </p><p>We'll start with the bottle itself. Much of the magic of wine lies in being able to properly evaluate bottles, which in turn can lead to an understanding of wine's history and origins. Then we'll move on to learning the skill of wine appreciation by tasting and evaluating wines with experts in the field (top wines can come from many regions, but they all have certain characteristics in common). You'll learn how to analyze the various flavors, aromas and textures of grapes, and you'll have a chance to taste quality wines, which will be provided along with water and appropriate snacks.</p>]]>
+					</copy>
+					<thumbImg>images/site/tastings-crisman-t.jpg</thumbImg>
+					<thumbCaption>Wine Tasting</thumbCaption>
+					<mainImg>images/site/tastings-crisman.jpg</mainImg>
+					<imageCaption>As we always say, the educated palate is a happy (and satisfied) palate.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="4" parentId="1" secondaryNav="true" id="21" position="1" sitemapId="3.1.3" sitemapTitle="CULTURE OVERVIEW">
+					<title>Culture</title>
+					<meta>
+						<slug>culture-overview</slug>
+						<pageTitle>Culture Overview</pageTitle>
+						<description>Explore surroundings, immerse yourself learning new skills and allow for moments that renew and challenge.</description>
+						<keywords>travaasa, enrichment, cultures, foods, austin</keywords>
+					</meta>
+					<h1>Culture Overview </h1>
+					<copy><![CDATA[<p>When we talk about our range of experiences (our “Travaasas”) that do everything from feed the soul to get your heart racing, nowhere is that range more diverse than our Austin Culture classes, series and conversations. Take advantage of our unique location to delve into our Ecology series that takes a look at birds, bees, butterflies, native plants and flowers, and even the healing properties of herbs. Or go back home to California confident in your Texas Two-Step capabilities. For more ruminative sorts, try journaling, nature photography or drawing. And everyone loves ending the evening around our fire pit, lost in conversation and laughter.</p>]]>
+					</copy>
+					<thumbImg>images/site/fireside-chats-crisman-t.jpg</thumbImg>
+					<thumbCaption>Culture Overview</thumbCaption>
+					<mainImg>images/site/fireside-chats-crisman.jpg</mainImg>
+					<imageCaption>Explore the world with our Culture Travaasas.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="4" secondaryNav="false" id="22" position="2" sitemapId="3.1.3.1" sitemapTitle="TEXAS TWO-STEP">
+					<title>Texas Two-Step</title>
+					<meta>
+						<slug>texas-two-step</slug>
+						<pageTitle>Texas Two-Step</pageTitle>
+						<description>Travaasa teaches Texas Two-Step for fun and enrichment.</description>
+						<keywords>travaasa, texas, two-step, dance, austin</keywords>
+					</meta>
+					<h1>Texas Two-Step</h1>
+					<copy><![CDATA[<p>The Texas Two Step includes three steps: a quick step, a quick step, and then a slow step. The lead steps forward on his left foot, lifting his right heel for the first step, which is the first quick step. It can be danced to music with either a 2/4 or 4/4 time signature. And best of all? It doesn’t have to be done just in Texas, which means you’ve got a whole new skill to show off to friends when you go home, or a new weekend get-together idea.</p>]]>
+					</copy>
+					<thumbImg>images/site/texas-two-step-crisman-t.jpg</thumbImg>
+					<thumbCaption>Texas Two-Step</thumbCaption>
+					<mainImg>images/site/texas-two-step-crisman.jpg</mainImg>
+					<imageCaption>The best place to learn the Texas Two-Step? Texas.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="4" secondaryNav="false" id="23" position="3" sitemapId="3.1.3.2" sitemapTitle="ECOLOGY">
+					<title>Ecology Series</title>
+					<meta>
+						<slug>ecology-series-sustin</slug>
+						<pageTitle>Ecology Series</pageTitle>
+						<description>A guided hike of the Travaasa property that includes learning about the area’s ecology.</description>
+						<keywords>travaasa, ecology, hike, austin</keywords>
+					</meta>
+					<h1>Ecology Series</h1>
+					<copy><![CDATA[<p>Travaasa Austin is situated within 210 acres of the Balcones Canyon lands Preserve—a migratory landing spot for two federally endangered migratory species, the Black-capped Vireo and the Golden-cheeked Warbler. It’s also home to plants only native to this area. In this series, you’ll learn about native flora and fauna and also learn about the many healing properties of plants.</p>
+					<p>Choose one, or take all three: </p>
+					<ul>
+						<li>Birds, Bees and Butterflies </li>
+						<li>Healing Properties of Herbs/Plants </li>
+						<li>Native Plants & Flowers</li>
+					</ul>]]>
+					</copy>
+					<thumbImg>images/site/ecology-series-crisman-t.jpg</thumbImg>
+					<thumbCaption>Ecology</thumbCaption>
+					<mainImg>images/site/ecology-series-crisman.jpg</mainImg>
+					<imageCaption>Learn about native Texan flora and fauna.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="4" secondaryNav="false" id="24" position="4" sitemapId="3.1.3.3" sitemapTitle="PHOTOGRAPHY">
+					<title>Photography</title>
+					<meta>
+						<slug>photography</slug>
+						<pageTitle>Photography</pageTitle>
+						<description>Capture the beauty of the Texas Hill Country by learning how to compose shots that make the most of natural scenery.</description>
+						<keywords>travaasa, photography, camera, austin</keywords>
+					</meta>
+					<h1>Photography</h1>
+					<copy><![CDATA[<p>For budding Ansel Adams-es, learn to capture the beauty of the Texas Hill Country by focusing through the lens of a digital camera. We’ll teach you how to compose your shots, making the most of natural scenery, and offer important tips on how to frame a scene for maximum gorgeousness. Bring your own camera and make sure you have plenty of memory. </p>]]>
+					</copy>
+					<thumbImg>images/site/photography-crisman-t.jpg</thumbImg>
+					<thumbCaption>Photography</thumbCaption>
+					<mainImg>images/site/photography-crisman.jpg</mainImg>
+					<imageCaption>Capture the beauty of Texas Hill Country.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="4" secondaryNav="false" id="25" position="5" sitemapId="3.1.3.4" sitemapTitle="LEARNING HARMONICA">
+					<title>Learning Harmonica</title>
+					<meta>
+						<slug>learning-harmonica</slug>
+						<pageTitle>Learning Harmonica</pageTitle>
+						<description>The harmonica allows the musically challenged to learn how to create music within a few hours.</description>
+						<keywords>travaasa, harmonica, music, austin</keywords>
+					</meta>
+					<h1>Learning Harmonica</h1>
+					<copy><![CDATA[<p>Not just for cowhands, the harmonica allows the musically challenged to begin enjoying the benefits of music within just a few hours. You do not have to know how to read music to begin playing the harmonica. All you need is a tune in your head, because in some ways it is much like humming or whistling. In just a short time, everything clicks and it becomes as natural as whistling. You just sing your music through your harmonica without thinking about the numbered holes and whether you blow or draw. </p>]]>
+					</copy>
+					<thumbImg>images/site/learning-harmonica-crisman-t.jpg</thumbImg>
+					<thumbCaption>Harmonica</thumbCaption>
+					<mainImg>images/site/learning-harmonica-crisman.jpg</mainImg>
+					<imageCaption>Discover why we say anyone can learn harmonica.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="4" secondaryNav="false" id="26" position="6" sitemapId="3.1.3.5" sitemapTitle="JOURNALING">
+					<title>Journaling</title>
+					<meta>
+						<slug>journaling</slug>
+						<pageTitle>Journaling</pageTitle>
+						<description>Journaling at Travaasa includes creative ways to write your story.</description>
+						<keywords>travaasa, journaling, austin</keywords>
+					</meta>
+					<h1>Journaling</h1>
+					<copy><![CDATA[<p>Journaling is one of the best ways to release the tension of the day (all while creating a document of your life). It’s pleasurable, easy, and all you need is a writing implement and a piece of paper—or a laptop if you’re the kind of person who thinks faster than they can write. Our journaling Travaasa is low-pressure while we give you fun and creative ways to think about writing your story. </p>]]>
+					</copy>
+					<thumbImg>images/site/journaling-crisman-t.jpg</thumbImg>
+					<thumbCaption>Journaling</thumbCaption>
+					<mainImg>images/site/journaling-crisman.jpg</mainImg>
+					<imageCaption>Write your own story at Travaasa.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="4" secondaryNav="false" id="27" position="7" sitemapId="3.1.3.6" sitemapTitle="SKETCH, DRAW, PAINT">
+					<title>Sketch, Draw, Paint</title>
+					<meta>
+						<slug>sketch-draw-paint</slug>
+						<pageTitle>Sketch, Draw, Paint</pageTitle>
+						<description>Unleash your creative self at Travaasa with sketching, drawing and painting classes.</description>
+						<keywords>travaasa, sketch, draw, paint, austin</keywords>
+					</meta>
+					<h1>Sketch, Draw, Paint</h1>
+					<copy><![CDATA[<p>It’s been said that within each of us is a creative being just longing to get out. At Travaasa, we believe that. That’s why we offer you pressure-free ways to release your inner creative and focus your soul through your choice of artistic outlet. Best of all? No experience or talent is needed to create something amazing that you can bring home to remind you of your Travaasa journey. </p>]]>
+					</copy>
+					<thumbImg>images/site/sketch-draw-paint-crisman-t.jpg</thumbImg>
+					<thumbCaption>Sketch, Draw, Paint</thumbCaption>
+					<mainImg>images/site/sketch-draw-paint-crisman.jpg</mainImg>
+					<imageCaption>Let your creativity shine.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="4" secondaryNav="false" id="28" position="8" sitemapId="3.1.3.7" sitemapTitle="STARGAZING">
+					<title>Stargazing</title>
+					<meta>
+						<slug>stargazing</slug>
+						<pageTitle>Stargazing</pageTitle>
+						<description>Discover the wonderment of the night sky and learn the stories the stars have to share.</description>
+						<keywords>travaasa, stargazing, sky, stars, austin</keywords>
+					</meta>
+					<h1>Stargazing</h1>
+					<copy><![CDATA[<p>Many of us dwell in cities and rarely experience the wonderment of the night sky or learn the stories the stars have to share. Stargazing has an inextricable link to romance—it’s got all the essential components: mystery, pursuit and ultimate discovery. It’s an activity that is easily shared by couples, families and friends. Join us on this relaxing journey that’s nothing more complex than looking up at the stars and exploring, yet it can open up your mind to a whole new dimension. </p>]]>
+					</copy>
+					<thumbImg>images/site/stargazing-crisman-t.jpg</thumbImg>
+					<thumbCaption>Stargazing</thumbCaption>
+					<mainImg>images/site/stargazing-crisman.jpg</mainImg>
+					<imageCaption>Stargazing - mystery, pursuit, discovery.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="4" secondaryNav="false" id="29" position="9" sitemapId="3.1.3.8" sitemapTitle="VISION BOARDING">
+					<title>Vision Boarding</title>
+					<meta>
+						<slug>vision-boarding</slug>
+						<pageTitle>Vision Boarding</pageTitle>
+						<description>Make your vision or dream happen with this visualization tool that manifests your dreams into reality.</description>
+						<keywords>travaasa, vision, boarding, exercise, austin</keywords>
+					</meta>
+					<h1>Vision Boarding</h1>
+					<copy><![CDATA[<p>Do you have a vision? Or a dream? This is the workshop that can help you make it happen. A vision board is a simple yet powerful visualization tool that uses the universal law of attraction to begin manifesting your dreams into reality. This is an exercise in putting energy toward what you DO want in life, not what you don’t want. Do this exercise and see what happens. You’ll be surprised by the results.</p>]]>
+					</copy>
+					<thumbImg>images/site/vision-boarding-crisman-t.jpg</thumbImg>
+					<thumbCaption>Vision Boarding</thumbCaption>
+					<mainImg>images/site/vision-boarding-crisman.jpg</mainImg>
+					<imageCaption>Put your energy toward what you want in life.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="4" secondaryNav="false" id="30" position="10" sitemapId="3.1.3.9" sitemapTitle="EVENING FIRESIDE CHATS">
+					<title>Evening Fireside Chats</title>
+					<meta>
+						<slug>evening-fireside-chats</slug>
+						<pageTitle>Evening Fireside Chats</pageTitle>
+						<description>A comforting and convivial way to complete your evening Travaasa-style through fireside chats with other guests.</description>
+						<keywords>travaasa, fire, fireside, firepit, chat, austin</keywords>
+					</meta>
+					<h1>Evening Fireside Chats</h1>
+					<copy><![CDATA[<p>At Travaasa Austin, we want to offer you a comforting and convivial way to end the evening. Around our firepit (outside) or fireside (inside) a nightly gathering as guests talk, laugh and share the day’s memories. It’s a friendly environment that allows you to get to know your fellow guests and the staff a little bit better. Whatever we do, whether it’s sharing stories, roasting marshmallows, or an impromptu music jam, every night will be a little bit different and a whole lot of fun.</p>]]>
+					</copy>
+					<thumbImg>images/site/fireside-chats-crisman-t.jpg</thumbImg>
+					<thumbCaption>Evening Fireside Chats</thumbCaption>
+					<mainImg>images/site/fireside-chats-crisman.jpg</mainImg>
+					<imageCaption>Enjoy a nightly gathering around our fire pit.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="5" parentId="1" secondaryNav="true" id="31" position="1" sitemapId="3.1.4" sitemapTitle="FITNESS OVERVIEW ">
+					<title>Fitness</title>
+					<meta>
+						<slug>fitness-overview</slug>
+						<pageTitle>Fitness Overview</pageTitle>
+						<description>Travaasa fitness focuses on balance, core work and flexibility.</description>
+						<keywords>fitness, strengthening, balance, core, flexibility, agile, strength, travaasa, austin</keywords>
+					</meta>
+					<h1>Fitness Overview </h1>
+					<copy><![CDATA[<p>Fitness Travaasa Austin-style encompasses everything from aquatic yoga to Zumba®. And just to give you a taste of that “everything,” imagine being able to take six different yoga classes from renowned yoga experts, pilates and foam rollers... even take a ride on the mechanical bull as an exciting end to a core workout! You can also enjoy our outdoor circuit, which makes exercise not just about breathing properly, but also breathtaking as you take in the surrounding scenery.</p>]]>
+					</copy>
+					<thumbImg>images/site/fitness-overview-crisman-t.jpg</thumbImg>
+					<thumbCaption>Fitness Overview</thumbCaption>
+					<mainImg>images/site/fitness-overview-crisman.jpg</mainImg>
+					<imageCaption>Let your inner agile child shine with our Fitness Travaasas.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="5" secondaryNav="false" id="32" position="2" sitemapId="3.1.4.1" sitemapTitle="YOGA FOR MIND AND BODY">
+					<title>Yoga for Mind and Body </title>
+					<meta>
+						<slug>yoga-for-mind-and-body</slug>
+						<pageTitle>Yoga for Mind and Body </pageTitle>
+						<description>Travaasa yoga classes to heal, detoxify and unify mind and body.</description>
+						<keywords>yoga, vinyasa, heal, detoxify, unify, healthy, Travaasa, austin</keywords>
+					</meta>
+					<h1>Yoga for Mind and Body </h1>
+					<copy><![CDATA[<p>Yoga is a wonderful technique to heal, detoxify and unify your mind and body. It can help fortify your awareness of movement, balance and intention, in addition to strengthening your body (through vinyasa yoga). No matter your age, strength or flexibility level, anyone can do yoga with the right attitude and the right teacher. And if you are new to yoga, you’ll find a physical path that harmonizes mind, body and soul. Yoga combines physical activity with breath to reduce stress, control weight, relieve lower back pain and enhance focus. Our yoga classes include various styles and routines that create a dynamic, challenging program which combines strength, spirituality and a healthy dose of sweat.</p>
+					<h2>Yoga: Aquatic</h2>
+					<p>Practicing yoga in the water can provide a number of benefits. First of all, it feels great. The wiggly-waggly way water feels when you bend and stretch will have you experiencing childhood again. But water also acts as a safeguard against injuries that are more likely to occur on land. Your movements become smoother in water and therefore your body will not experience the same strain as on terra firma. There are a few poses which are even easier practiced in water, such as the standing eagle pose or tree pose. You can perform these effortlessly in water because the ripples that are created in the water force your body to maintain the necessary pose. </p>
+					<h2>Yoga: Awakening the Joints</h2>
+					<p>This is a “must-do” Travaasa if you sometimes feel aches and pains in your ankles, knees, elbows, wrists, shoulders and hips. And if you’re over the age of 30, you know what we mean. In this class we focus on yoga postures and stretches to bring greater movement to the body through awakening and stimulating stiff joints. And all without having to dip into the Glucosamine and Chondroitin.  </p>
+					<h2>Yoga: Bhava </h2>
+					<p>Envisoned by Travaasa yoga expert Susan Anderson, Bhava yoga invites us to connect with the world beyond ourselves. The word Bhava loosely translates as "An expansion of feeling and sentiment in the heart through song and chant" and Bhava can transform you, but it calls for the surrender of your ego and sense of self. Join us for a unique yoga experience that will alter the way you think about yoga. </p>
+					<h2>Yoga: Hatha (All Levels) </h2>
+					<p>Wake up your body and mind with this flowing yoga practice that accommodates all levels of practitioners. Energize yourself with traditional morning Sun Salutations (a linking of breath and motion) and other Hatha yoga poses. This is a low-to-moderate-intensity class, geared toward everyone with an interest in yoga, and will allow those who are newer to take their time, while letting seasoned practitioners pick up the intensity.  </p>
+					<h2>Yoga: Spine Work </h2>
+					<p>One of the most important factors in maintaining a healthy body is a flexible spine. Yogis say that youth is determined by the flexibility of your spine (which means, with a physically sound spine, 50 might really be the new 30). Lower back pain and upper back stress are some of the most common health complaints of adults. The best way to avoid backaches is to take care of your spine on a daily basis. There is no quick fix for back pain, but our exercise set is an effective maintenance program. In this Travaasa we practice a combination of back bends and forward bends to strengthen and bring flexibility to the spine. We will also learn some gentle stretches you can do on your own to relieve and prevent back pain.  </p>
+					<h2>Yoga: Bar</h2>
+					<p>Combining the best of both worlds, the flowing movements of dance with the meditative qualities of yoga, this slow, ballet-bar based yoga was designed by Travaasa Austin's resident yogi Susan Anderson to provide an experience that draws from both yoga fundamentals and the movements and principles or dance. Bar Yoga will rejuvenate your body, mind and soul. </p>
+					]]>
+					</copy>
+					<thumbImg>images/site/yoga-crisman-t.jpg</thumbImg>
+					<thumbCaption>Yoga</thumbCaption>
+					<mainImg>images/site/yoga-crisman.jpg</mainImg>
+					<imageCaption>Yoga heals, detoxifies and unifies your mind and body.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="5" secondaryNav="false" id="33" position="3" sitemapId="3.1.4.9" sitemapTitle="BULL RIDING">
+					<title>Mechanical Bull Riding Workout</title>
+					<meta>
+						<slug>mechanical-bull-riding-workout</slug>
+						<pageTitle>Mechanical Bull Riding Workout</pageTitle>
+						<description>Travaasa mechanical bull riding workout focuses on the engagement of core abdominal, back and thigh muscles.</description>
+						<keywords>mechanical bull riding, core, abdominal, back and thigh muscles, Travaasa, balance</keywords>
+					</meta>
+					<h1>Mechanical Bull Riding Workout</h1>
+					<copy><![CDATA[<p>You probably didn’t see this one coming, but you are in Austin, after all. After you’ve gotten your muscles primed with pilates or our core conditioning Travaasa, graduate to our mechanical bull for a core workout that’s unlike anything you’ve ever experienced. Riding the bull increases strength and improves flexibility because it’s continually moving—up, down, right and left—purposely keeping you off-balance. It’s a ride that forces you to use your leg muscles to grip the sides of the bull, and your core muscles to flex as you move forward and back. And lastly, form does count, so don’t forget to raise one arm up in the air to maintain your balance (bonus points if you have a cowboy hat). And you thought cowboys were just being cool waving their hats around in the air!</p>]]>
+					</copy>
+					<thumbImg>images/site/bull-riding-crisman-t.jpg</thumbImg>
+					<thumbCaption>Mechanical Bull Riding Workout</thumbCaption>
+					<mainImg>images/site/bull-riding-crisman.jpg</mainImg>
+					<imageCaption>The ultimate core workout.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+
+				<page section="5" secondaryNav="false" id="35" position="4" sitemapId="3.1.4.4" sitemapTitle="OUTDOOR CIRCUIT">
+					<title>Outdoor Circuit </title>
+					<meta>
+						<slug>outdoor-circuit</slug>
+						<pageTitle>Outdoor Circuit </pageTitle>
+						<description>Outdoor workout at Travaasa that gives you maximum results in minimum time by mixing up moves and changing intensity.</description>
+						<keywords>travaasa, outdoor, circuit, intervals, circuit, heart rate, tone, strength, austin</keywords>
+					</meta>
+					<h1>Outdoor Circuit </h1>
+					<copy><![CDATA[<p>Spice up your workouts with our outdoor circuit workout that will take you through some tough intervals that make your heart rate soar. Circuit training is a refreshing exercise that provides excellent, all-around fitness, tone and strength. Best of all, you get maximum results in a minimum amount of time. By mixing up the moves and changing the intensity throughout the workout, you’ll keep your body challenged and your mind interested—and that’s half the battle when you’re trying to motivate yourself to exercise.</p>]]>
+					</copy>
+					<thumbImg>images/site/outdoor-circuit-crisman-t.jpg</thumbImg>
+					<thumbCaption>Outdoor Circuit </thumbCaption>
+					<mainImg>images/site/outdoor-circuit-crisman.jpg</mainImg>
+					<imageCaption>Maximum results in a minimum amount of time.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="5" secondaryNav="false" id="36" position="5" sitemapId="3.1.4.5" sitemapTitle="FOAM ROLLERS">
+					<title>Foam Rollers</title>
+					<meta>
+						<slug>foam-rollers</slug>
+						<pageTitle>Foam Rollers</pageTitle>
+						<description>Release muscular tension with a rolling massage that helps increase flexibility.</description>
+						<keywords>travaasa, foam, rollers, exercise, muscular, tension, balance, stability, Austin</keywords>
+					</meta>
+					<h1>Foam Rollers</h1>
+					<copy><![CDATA[<p>Not your grandmother's pink foam hair rollers, this body rolling exercise helps you release muscular tension with a rolling massage that feels great and helps increase flexibility. As you move and stabilize the roller on different planes, you'll improve balance, core muscles, stability and total body function.</p>]]>
+					</copy>
+					<thumbImg>images/site/foam-rollers-crisman-t.jpg</thumbImg>
+					<thumbCaption>Foam Rollers</thumbCaption>
+					<mainImg>images/site/foam-rollers-crisman.jpg</mainImg>
+					<imageCaption>Release muscular tension.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="5" secondaryNav="false" id="37" position="6" sitemapId="3.1.4.6" sitemapTitle="PILATES">
+					<title>Pilates</title>
+					<meta>
+						<slug>pilates</slug>
+						<pageTitle>Pilates</pageTitle>
+						<description>Transform the way your body looks, feels and performs without building excess bulk.</description>
+						<keywords>travaasa, pilates, strength, posture, flexibility, agility, austin</keywords>
+					</meta>
+					<h1>Pilates</h1>
+					<copy><![CDATA[<p>There’s nothing else like Pilates to make you feel like you’ve gained five inches in height or have the poise of a ballerina. Pilates is designed to transform the way your body looks, feels and performs, building strength without excess bulk. This basic all-level Pilates class on the mat teaches awareness, good posture and easy, graceful movement, while improving flexibility and agility. </p>]]>
+					</copy>
+					<thumbImg>images/site/pilates-crisman-t.jpg</thumbImg>
+					<thumbCaption>Pilates</thumbCaption>
+					<mainImg>images/site/pilates-crisman.jpg</mainImg>
+					<imageCaption>Build strength without excess bulk.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="5" secondaryNav="false" id="38" position="7" sitemapId="3.1.4.7" sitemapTitle="SIMPLIFIED FITNESS">
+					<title>Simplified Fitness</title>
+					<meta>
+						<slug>simplified-fitness</slug>
+						<pageTitle>Simplified Fitness</pageTitle>
+						<description>A class that provides exercise tips and tricks that allow you to work out anywhere and anytime.</description>
+						<keywords>travaasa, simplified, fitness, tips, tricks, exercise, workout, austin</keywords>
+					</meta>
+					<h1>Simplified Fitness</h1>
+					<copy><![CDATA[<p>This workout gets rid of the weights and machines and takes you through an intense program using only your body’s resistance and the earth’s gravity. Learn tips and tricks that will allow you to work out anywhere and anytime. You’ll be surprised by the large number of exercises you will learn that will allow you to focus on any area of your body. Travelers for both business and pleasure love this "portable" workout. </p>]]>
+					</copy>
+					<thumbImg>images/site/simplified-fitness-crisman-t.jpg</thumbImg>
+					<thumbCaption>Simplified Fitness</thumbCaption>
+					<mainImg>images/site/simplified-fitness-crisman.jpg</mainImg>
+					<imageCaption>Learn a portable workout.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="5" secondaryNav="false" id="39" position="8" sitemapId="3.1.4.8" sitemapTitle="ZUMBA">
+					<title>Zumba</title>
+					<meta>
+						<slug>zumba</slug>
+						<pageTitle>Zumba</pageTitle>
+						<description>Tone your body and whittle your abs using Latin dance, hip-hop, belly dancing and Reggaeton.</description>
+						<keywords>travaasa, zumba, dance, tone, abs, dancing, workout, interval, austin</keywords>
+					</meta>
+					<h1>Zumba</h1>
+					<copy><![CDATA[<p>The word Zumba is Colombian slang for “buzz like a bee” or “move very fast.” This Travaasa uses Latin dance, hip-hop, belly dancing and Reggaeton (a form of Latin hip-hop) choreography to tone the body and whittle abs, all while feeling like you are at a dance party… not sweating through a workout. Interval training keeps the body at an efficient and consistent fat-burning level throughout. Zumba’s slogan is “Ditch the workout. Join the party!” which makes it the perfect workout for the exercise-resistant. </p>]]>
+					</copy>
+					<thumbImg>images/site/zumba-crisman-t.jpg</thumbImg>
+					<thumbCaption>Zumba</thumbCaption>
+					<mainImg>images/site/zumba-crisman.jpg</mainImg>
+					<imageCaption>Tone your body while feeling like you're at a dance party.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="5" secondaryNav="false" id="40" position="9" sitemapId="3.1.4.2" sitemapTitle="CORE CONDITIONING">
+					<title>Core Conditioning</title>
+					<meta>
+						<slug>core-conditioning</slug>
+						<pageTitle>Core Conditioning</pageTitle>
+						<description>Travaasa core work tones abs, lower back and glutes, and improves balance.</description>
+						<keywords>travaasa, core, muscle, tone, abs, back, glutes, strength, exercises, austin</keywords>
+					</meta>
+					<h1>Core Conditioning</h1>
+					<copy><![CDATA[<p>There’s nothing like core work to make you feel like you can conquer the world, one muscle group at a time. Tone your abs, lower back and glutes in this intense 30-minute class. We’ll help you improve core strength, balance and total body function using stability balls and gravity-resistant exercises.</p>]]>
+					</copy>
+					<thumbImg>images/site/core-conditioning-crisman-t.jpg</thumbImg>
+					<thumbCaption>Core Conditioning</thumbCaption>
+					<mainImg>images/site/core-conditioning-crisman.jpg</mainImg>
+					<imageCaption>Tone your abs, lower back and glutes.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				
+				<page section="6" parentId="1" secondaryNav="true" id="41" position="1"  sitemapId="3.1.5" sitemapTitle="SPA  WELLNESS OVERVIEW">
+					<title><![CDATA[Wellness]]></title>
+					<meta>
+						<slug>spa-wellness</slug>
+						<pageTitle><![CDATA[Wellness Overview]]></pageTitle>
+						<description>Travaasa spa workshops include meditation, stretch, posture and breath work.</description>
+						<keywords>wellness, meditation, stretch, health, workshops, travaasa, spa</keywords>
+					</meta>
+					<h1><![CDATA[Wellness Overview]]></h1>
+					<copy><![CDATA[<p>Our Austin Spa and Wellness Travaasas focus on mind, body and spirit with meditation offerings to help you decompress or recharge. Take something from each for a well-rounded Travaasa experience. </p>]]>
+					</copy>
+					<thumbImg>images/site/spa-overview-crisman-t.jpg</thumbImg>
+					<thumbCaption><![CDATA[Wellness Overview]]></thumbCaption>
+					<mainImg>images/site/spa-overview-crisman.jpg</mainImg>
+					<imageCaption>These Travaasas are like a wellness toolkit.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+
+				<page section="6" secondaryNav="false" id="44" position="2"  sitemapId="3.1.5.3" sitemapTitle="BREATH WORK">
+					<title>Breath Work</title>
+					<meta>
+						<slug>breath-work</slug>
+						<pageTitle>Breath Work</pageTitle>
+						<description>Breath work at Travaasa releases us from stress and anxiety to bring a calmer, more relaxed state.</description>
+						<keywords>travaasa, restorative, breathing, breath, stress, anxiety, calm, austin</keywords>
+					</meta>
+					<h1>Breath Work</h1>
+					<copy><![CDATA[<p>Who knew that focusing on something we do unconsciously every second of every day can do so much more for us? This Travaasa works with the breath, following its movements through the body. Restorative sequencing moves us slowly into a deep somatic experience to release us from stress and anxiety and bring a calmer, more relaxed state (great for type-A personalities who have trouble relaxing). As we turn the lens inward, we will learn more about the asana—the breath—and ourselves.</p>
+					]]>
+					</copy>
+					<thumbImg>images/site/breath-work-crisman-t.jpg</thumbImg>
+					<thumbCaption>Breath Work</thumbCaption>
+					<mainImg>images/site/breath-work-crisman.jpg</mainImg>
+					<imageCaption>Great for Type-A personalities who have trouble relaxing.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="6" secondaryNav="false" id="45" position="3"  sitemapId="3.1.5.4" sitemapTitle="MEDITATION">
+					<title>Meditation</title>
+					<meta>
+						<slug>meditation</slug>
+						<pageTitle>Meditation</pageTitle>
+						<description>Meditation starts with guided practice and the use of Chakra Points to learn acceptance and letting go.</description>
+						<keywords>travaasa, meditation, guided, chakra, austin</keywords>
+					</meta>
+					<h1>Meditation</h1>
+					<copy><![CDATA[<p>Meditation is a wonderful way to decompress after a stressful day—or to start your day in a calming state of mind. We offer three different points of view on meditation, and all are easy to learn and incorporate into your daily life.</p>
+					<h2>Meditation: Wake-Up</h2>
+					<p>Start your morning with a meditation experience designed to get your day off to a balanced start.</p>
+					<h2>Meditation: Chakra </h2>
+					<p>Within our bodies there are focal points of energy that we use (whether consciously or unconsciously), to allow us to fully experience and realize events that unfold before us. These focal points of energy are called Chakras. The word Chakra is Sanskrit for "wheel," and there are seven primary Chakra points in the body—each like a moving wheel of energy, ready to help you tune out, and tune into yourself. When one of the chakra centers is out of balance, it effects other centers. When one chakra center is out of balance, you are out of balance. Balance the chakra centers through meditation, and you will feel balanced throughout your day.</p>
+					<h2>Meditation: Guided </h2>
+					<p>In this Travaasa, we help demystify the ancient practice of meditation—bringing awareness to our moment-to-moment experiences. This simple—but not easy—practice of acceptance, letting go, non-striving and suspension of the judgmental mind leaves us with a deep sense of openness and receptivity to ourselves, to others and to the moment as it unfolds.</p>]]>
+					</copy>
+					<thumbImg>images/site/meditation-crisman-t.jpg</thumbImg>
+					<thumbCaption>Meditation</thumbCaption>
+					<mainImg>images/site/meditation-crisman.jpg</mainImg>
+					<imageCaption>Relax, renew, discover yourself.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="7" secondaryNav="true" id="46" position="1" sitemapId="3.2" sitemapTitle="SPA TREATMENTS">
+					<title>The Spa at Travaasa Austin</title>
+					<meta>
+						<slug>travaasa-spa-overview</slug>
+						<pageTitle>The Spa at Travaasa Austin</pageTitle>
+						<description>Travaasa offers an array of massages, healing rituals, beauty treatments and personalized services using only organic products.</description>
+						<keywords>spa, massage, treatments, bioenergetic, primavera, anakiri, boutique, travaasa, austin</keywords>
+					</meta>
+					<h1>The Spa at Travaasa Austin™</h1>
+					<copy><![CDATA[<p>A visit to The Spa at Travaasa Austin goes far beyond pampering and indulgence.  Our treatments reflect our passion for, and knowledge of, the human body and the ability of plants and essential oils to naturally treat, heal and revitalize the soul.  Featuring 11 treatment rooms, including a couple’s room, as well as a hot tub and dry sauna, the spa sits adjacent to the property’s infinity pool, which overlooks the serene and scenic hill country landscape.</p><br />
+					<p>We offer an array of massages, healing rituals, beauty treatments and personalized services, using only organic, bioenergetic products, including the Primavera and Anakiri skin care lines, which are also available in our Spa Boutique.</p><br />
+					<p><a href="http://travaasa.com/pdf/The-Spa-at-Travaasa_Guide.pdf" target="_blank">Click here</a> to download our spa guide.</p><br />
+					<p><em>The Spa at Travaasa is a full service retreat for both overnight and day guests.</em></p> ]]>
+					</copy>
+					<thumbImg>images/site/spa-treatment-overview-crisman-t.jpg</thumbImg>
+					<thumbCaption>The Spa at Travaasa Austin</thumbCaption>
+					<mainImg>images/site/spa-treatment-overview-crisman.jpg</mainImg>
+					<imageCaption>Discover spa treatments that go far beyond pampering.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title><![CDATA[Download the Austin Spa Guide]]></title>
+								<url>/pdf/The-Spa-at-Travaasa_Guide.pdf</url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="7" secondaryNav="false" id="47" position="2" sitemapId="3.2.1" sitemapTitle="SPA RESERVATIONS">
+					<title>Spa Reservations</title>
+					<meta>
+						<slug>spa-reservations</slug>
+						<pageTitle>Spa Reservations</pageTitle>
+						<description>Reserve your spot for a Travaasa spa treatment package or retreat.</description>
+						<keywords>travaasa, spa, reserve, reservations, appointment</keywords>
+					</meta>
+					<h1>Reserve Your Spot</h1>
+					<copy><![CDATA[<p>To make reservations for a spa treatment or spa package, plan a spa retreat, or inquire about a customized wellness program, please call 512-225-1075 or toll-free at 855-TO-TRAVAASA (855-868-7282).</p><p>We encourage you to schedule your appointment in advance to ensure availability of treatments during your visit. We want your spa experience to be stress-free and relaxing. To help make your experience as enjoyable as possible, please consider the following before you arrive.</p>
+					<ul>
+						<li>When scheduling treatments, please let us know if you prefer a male or female therapist.</li>
+						<li>Should you need to cancel, please do so within 24 hours as no-shows will be charged for a full treatment.</li>
+						<li>Any changes within 6 hours of your scheduled appointment will be charged at 50% of full service price.</li>
+						<li>Shaving or waxing just prior to a treatment that includes a scrub is not recommended.</li>
+						<li>Please arrive a minimum of 30 minutes prior to your treatment time to begin the relaxation process. Allow time to change into your spa robe and slippers. Late arrivals may receive a reduced treatment time.</li>
+						<li>Please turn off all cell phones during your spa visit.</li>
+						<li>Travaasa does not accept children under the age of 16.</li>
+						<li>For your convenience, an 18% gratuity will be added to each spa service.</li>
+					</ul>]]>
+					</copy>
+					<thumbImg>images/site/spa-reservations-crisman-t.jpg</thumbImg>
+					<thumbCaption>Reservations</thumbCaption>
+					<mainImg>images/site/spa-reservations-crisman.jpg</mainImg>
+					<imageCaption>Reserve your spot today.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="7" secondaryNav="false" id="52" position="3" sitemapId="3.2.6" sitemapTitle="SPECIAL PACKAGES  DAY SPA">
+					<title><![CDATA[Special Packages & Day Spa]]></title>
+					<meta>
+						<slug>special-packages-and-day-spa</slug>
+						<pageTitle><![CDATA[Special Packages & Day Spa]]></pageTitle>
+						<description>Travaasa offers three different spa packages.</description>
+						<keywords>travaasa, spa, packages, day spa</keywords>
+					</meta>
+					<h1><![CDATA[Special Packages & Day Spa]]></h1>
+					<copy><![CDATA[<p>For those who want the convenience of choosing a spa package, Travaasa offers three different options—two different full-day packages and our half-day selection for the time-pressed. </p>
+					<h2>Ultimate Bliss Full-Day Package</h2>
+					<p>Experience bliss and total relaxation with a full-day spa package that will nurture your body from head to toe. It begins with a Vitamin C Bio-Energetic Healing Facial and Hydrating Eye Treatment, followed by an Ancient Purification Body Treatment, Swedish Massage and Nurturing Scalp Treatment. A healthy lunch in Jean’s Kitchen is included. Your day ends with a soothing tea served in a quiet corner of the spa. All gratuities are included; tax is additional.</p>
+					<h2>Serene & Calm Half-Day Package</h2>
+					<p>Unwind and renew with an amazing half-day package that will restore and renew your mind, body and spirit. Begin with an Organic Ultimate Hydration Facial, followed by an Invigorating Avocado Wrap Body Treatment and finally a Lavender Vanilla Hand Treatment. All gratuities are included; tax is additional.</p>
+					<br />
+					<p><em>Exclusively for our off-property guests</em></p>
+					<h2>Total Travaasa Day Package</h2>
+					<p>Discover all that Travaasa Austin has to offer through our experiential day package. It's our version of Choose Your Own Adventure &mdash; get your spa on, lounge at the infinity pool, participate in any scheduled activity from yoga to the challenge course, and recharge with a healthy lunch. Offered from 9:00AM until 5:00PM.  Includes all on-property activities; use of infinity pool; spa locker rooms; whirlpool; dry sauna; and one $125.00 spa credit. All gratuities are included; tax is additional. <br /><strong>$229.00</strong></p>
+					<h2>Travaasa Spa</h2>
+					<p>Escape to somewhere beautiful &mdash; treat yourself to the Travaasa Spa and get pampered with a $125.00 spa credit.  Spend a few hours before or after your service taking advantage of freshly-outfitted spa locker rooms, a whirlpool, dry sauna, and jealousy-inducing views from the infinity edge pool.  All gratuities are included; tax is additional.<br /><strong>Monday - Thursday $155; Friday - Sunday $175</strong></p>]]>
+					</copy>
+					<thumbImg>images/site/special-packages-crisman-t.jpg</thumbImg>
+					<thumbCaption><![CDATA[Special Packages & Day Spa]]></thumbCaption>
+					<mainImg>images/site/special-packages-crisman.jpg</mainImg>
+					<imageCaption>Four different spa packages are available.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="7" secondaryNav="false" id="48" position="4" sitemapId="3.2.2" sitemapTitle="BODY TREATMENTS">
+					<title>Body Treatments</title>
+					<meta>
+						<slug>body-treatments</slug>
+						<pageTitle>culinary-overview</pageTitle>
+						<description>Therapeutic, energetic, soothing, stimulating—you choose which Travaasa body treatment works for you during your stay.</description>
+						<keywords>travaasa, body, treatments, therapeutic, energetic, soothing, cleansing, stimulating</keywords>
+					</meta>
+					<h1>Body Treatments</h1>
+					<copy><![CDATA[<p>Therapeutic, energetic, soothing, cleansing or stimulating—you decide which of our body treatments to delight in during your stay.</p>
+					<h2>Rejuvenating Clay & Aloe Wrap</h2>
+					<p>Indigenous plants and flowers play a key role in this deeply stimulating wrap, which results in firmer and smoother skin. Organic juniper, cypress, rosemary and horsetail restore, rehydrate and protect, while unrefined, sun-dried green clay and French spirulina regenerate, oxygenate, clarify and balance. It’s the perfect way to restore mature or sun-damaged skin.<br /><strong>80 minutes - $180</strong></p>
+					<h2>Ancient Purification</h2>
+					<p>Combining the therapeutic properties of energetic flower essences, organic oils and essential minerals, this distinct ritual has been soothing and renewing skin for centuries. It begins with an organic Panela sugar scrub to relax the muscles and release toxins. Next, fossilized Dead Sea mud and organic herbs of chamomile, dandelion and lemon balm provide deep detoxification, while pure essential oils of rosemary, eucalyptus and lavender support, strengthen and ground the spirit. This joyful facial pressure-point and full-body massage will leave you feeling completely renewed.<br /><strong>80 minutes - $180</strong></p>
+					<h2>Detoxifying Juniper, Olive Stone Exfoliation & Polish </h2>
+					<p>This pampering treatment begins with a gentle, mineral-rich sea salt and crushed olive stone body polish to exfoliate, stimulate and cleanse the skin. During the massage, organic jojoba, almond and apricot kernel oils are mixed with organic juniper and cypress to detoxify your skin and body, restoring healthy tone and texture.<br /><strong>50 minutes - $130</strong></p>
+					<h2>Invigorating Avocado Wrap </h2>
+					<p>This super-rich and moisturizing body wrap nourishes dry, parched skin and releases tension from head to toe. After a hydrating cleanse of lavender and palmarosa, you’ll bask in a warm wrap of sumptuous avocado body butter blended with essential oils of lavender, pine, orange and lemon to balance, purify and tone. A stimulating scalp massage with organic oils and rosemary will boost circulation and awaken the senses as a full-body mineral mist floods the cells with hydrating elixirs. You’ll leave invigorated, revitalized and illuminated.<br /><strong>50 minutes - $130 </strong></p>
+					<h2>Nurturing Scalp Treatment </h2>
+					<p>A nurtured head is a nurtured body. This revitalizing treatment begins with an aromatic hot towel compress over the scalp to help you relax and refresh. A luxurious, moisture-rich, sun-dried clay pack is massaged over the scalp and hair to relieve stress and tension. This treatment adds moisture and minerals to your hair, leaving it full, silky and soft.<br /><strong>25 minutes - $45</strong></p>]]>
+					</copy>
+					<thumbImg>images/site/body-treatments-crisman-t.jpg</thumbImg>
+					<thumbCaption>Body Treatments</thumbCaption>
+					<mainImg>images/site/body-treatments-crisman.jpg</mainImg>
+					<imageCaption>Therapeutic and energetic body treatments.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="7" secondaryNav="false" id="49" position="5" sitemapId="3.2.3" sitemapTitle="FACIALS">
+					<title>Facials</title>
+					<meta>
+						<slug>facials</slug>
+						<pageTitle>Facials</pageTitle>
+						<description>Travaasa culinary offers a range of classes, from basic culinary skills and advice on making healthy choices at the market to new recipes steeped in local tradition.</description>
+						<keywords>culinary, cooking, food, nutrition, healthy, travaasa</keywords>
+					</meta>
+					<h1>Facials</h1>
+					<copy><![CDATA[<p>Put your face in good hands with a Travaasa facial created expressly for you. </p>
+					<h2>Organic Ultimate Hydration Facial </h2>
+					<p>The skin-purifying effect of this facial will restore youthful elasticity and hydrate skin with lasting moisture, leaving your skin feeling fresh and radiant. Sun-dried green and white clays, jojoba beads, aloe vera extract, organic licorice extract and spirulina combine with the rejuvenating properties of organic rose and pomegranate to create the harmonizing effect of this treatment, which will smooth fine lines, rehydrate skin cells and fight free radical damage.<br /><strong>80 minutes - $170</strong></p>
+					<h2>Vitamin C Bioenergetic Healing Facial </h2>
+					<p>Restore radiance and vitality to every cell with this powerful and refreshing facial. It targets your skin’s nutritional and energetic needs with skin-renewing antioxidants such as alpha lipoic acid, green and rooibos tea and vitamins A, C and E. Two masks, sun-infused oils and luxurious moisturizers hydrate and restore your skin, while a hand and foot treatment with homeopathic preparations completes this luxurious treatment.<br /><strong>80 minutes - $170</strong></p>
+					<h2>Sacred Stone Facial </h2>
+					<p>Experience a cleansing facial followed by a face-lifting massage using warm and cool stones to relieve tension and stimulate a healthy glow.<br /><strong>50 minutes - $130</strong></p>
+					<h2>Native Blends Rejuvenating Facial </h2>
+					<p>Luminous skin is an hour away with this relaxing and purifying facial. You’ll experience a gentle cleansing with herbal steam wraps, lavender and rosemary cleansers blended with plant phospholipids and deep exfoliation. A two-layer super-antioxidant mask with mushroom and pumpkin enzymes, turmeric and green tea will smooth and rejuvenate your complexion, while assisting with cell regeneration.<br /><strong>50 minutes - $125</strong></p>
+					<h2>Eco-Luxe Custom Facial </h2>
+					<p>Reestablish the natural beauty and health of your skin with the pure ingredients and simple luxury of this facial, which is customized to your skin type to provide your complexion with the most benefit. You will have a healthy, radiant glow after we lavish your skin with phytonutrients, antioxidants such as vitamin C and alpha lipoic acid, organic and wild-crafted botanicals, and pure essential oils.<br /><strong>50 minutes - $125</strong></p>
+					<h2>Replenishing Deep Moisture Facial </h2>
+					<p>Dehydrated skin magically responds to the soothing and calming effects of organic neroli oil. Our organic, Fair tTade-cultivated and custom-distilled neroli, along with organic jojoba and willow bark extract, will soothe dry, flaky skin while calming and balancing the senses. Fine lines and uneven skin texture are smoothed by organic cassis seed oil, which also seals in natural moisture. The combined healing power of neroli and cassis replenishes and sustains the skin’s moisture level for a smooth and healthy texture.<br /><strong>50 minutes - $125</strong></p>
+					<h2>Remineralizing Skin Repair Facial </h2>
+					<p>There may be no better way to regenerate, clarify and stimulate mature or sun-damaged skin than by using unrefined, sun-dried white and green clays blended with French spirulina. Skin deeply absorbs the minerals, vitamins and moisture in this unique blend of ingredients, which includes organic and Fair Trade rose, argan oil, pomegranate seed oil, white tea and shea butter. Organic licorice extract and unrefined, Fair Trade clays, plants and flowers will leave skin brighter, firmer, smoother and more youthful. All of our ingredients are organically cultivated and certified “responsible harvest” by the Forest Stewardship Council and Rainforest Alliance.<br /><strong>50 minutes - $125</strong></p>
+					<h2>Clarifying Oil Control Facial </h2>
+					<p>Decongest pores and restore balance, clarity and radiance to your skin with the natural powers of wild-crafted sandalwood, organic lemon and bitter orange. Fair Trade-certified algae extract and unrefined, sun-dried green and white clays help control excessive oil production and remove clogging impurities from skin, while organic licorice extract calms, soothes and helps balance uneven pigmentation for radiant, youthful skin.<br /><strong>50 minutes - $125</strong></p>
+					<h2>Gentleman's Clarifying Facial </h2>
+					<p>Specifically designed for today’s active man, this deeply cleansing and hydrating facial employs wild-crafted sandalwood, organic lemon and bitter orange to exfoliate and purify the skin while decongesting pores. Fair Trade organic licorice extract calms and soothes the skin and helps balance uneven pigmentation. It’s the perfect way to balance, calm and restore his skin.<br /><strong>50 minutes - $125</strong></p>
+					<h2>Calming Gentle Facial </h2>
+					<p>See for yourself why sun-dried white clay has been used by indigenous cultures throughout the ages for its healing, cooling, anti-inflammatory and regenerative properties. Our organic, botanical facial uses white clay, sandalwood and camellia seed oil to calm and nurture sensitive or sun-overexposed skin back to a healthy balance. Added organic neroli, argan oil, black currant, shea butter and rose will replenish your skin’s moisture level and strengthen and restore it to a healthy, even tone.<br /><strong>50 minutes - $125</strong></p>
+					<h2>Perfect Balance Facial </h2>
+					<p>Healthy skin is all about finding the right balance. Organic sage essential oil reduces excess oil while reviving the senses, and organic grape seed’s powerful antioxidants and essential fatty acids work to maintain the skin’s natural elasticity. These and other organic extracts (willow bark, licorice root, green tea and witch hazel) form an ideal harmony of plant-derived benefits that is ideal for combination to oily skin.<br /><strong>50 minutes - $125</strong></p>
+					<h2>Clarifying Back Treatment </h2>
+					<p>Decongest pores and restore balance, clarity and radiance to your skin with the natural powers of wild-crafted sandalwood, organic lemon and bitter orange. Fair Trade-certified algae extract and unrefined, sun-dried green and white clays help control excessive oil production and remove clogging impurities from skin, while organic licorice extract calms, soothes and helps balance uneven pigmentation for radiant, youthful skin.<br /><strong>25 minutes - $75</strong></p>
+					<h2>Hydrating Eye Treatment </h2>
+					<p>Rehydrate and refresh the delicate skin around your eyes. This treatment reduces puffiness, addresses fine lines and makes a great addition to any facial.<br /><strong>25 minutes - $45</strong></p>
+					]]>
+					</copy>
+					<thumbImg>images/site/facials-crisman-t.jpg</thumbImg>
+					<thumbCaption>Facials</thumbCaption>
+					<mainImg>images/site/facials-crisman.jpg</mainImg>
+					<imageCaption>Facials created expressly for you.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="7" secondaryNav="false" id="50" position="6" sitemapId="3.2.4" sitemapTitle="MASSAGE THERAPY">
+					<title>Massage Therapy</title>
+					<meta>
+						<slug>Massage Therapy</slug>
+						<pageTitle>Massage Therapy</pageTitle>
+						<description>No matter what your body craves, Travaasa massages run the gamut from energizing to deeply calming.</description>
+						<keywords>travaasa, massage, therapy</keywords>
+					</meta>
+					<h1>Massage Therapy</h1>
+					<copy><![CDATA[<p>Our massages run the gamut from energizing to deeply calming. No matter what your body craves, we have a special touch just for you.</p>
+					<h2>Detoxifying Juniper, Olive Stone Exfoliation & Massage </h2>
+					<p>The fresh scent of juniper berries revives the body and mind, while leaving skin silky, smooth and rejuvenated. Combined with pure seaweed and cypress, this juniper treatment cleans deep and stimulates, purifies and revitalizes the skin as it jump-starts the lymphatic system, aids circulation and penetrates the skin to help smooth cellulite. More toned, hydrated and tightened, your skin will thank you.<br /><strong>80 minutes - $180</strong></p>
+					<h2>The Energetic Edge </h2>
+					<p>For active athletes, our professional massage team performs this intensive therapy designed to give you the energetic edge for your specific sport. Organic sun-infused oils, homeopathic preparations and enzyme therapy will bathe and penetrate the muscle groups that you use most. Therapeutic massage and assisted stretches provide the ultimate support to ease pain and stiffness for increased flexibility and mobility.<br /><strong>80 minutes - $180</strong></p>
+					<h2>Deep Sleep Aromatherapy Massage </h2>
+					<p>Melt away the stress of the day with a gentle Swedish massage enhanced by hot stones, soothing foot wraps, an herbal eye pack and relaxing herbal tea. A soothing blend of aromatic lavender, clary sage and ylang-ylang oils will send you off to dreamland. Sweet dreams!<br /><strong>80 minutes - $180</strong></p>
+					<h2>Deep Tissue Massage </h2>
+					<p>The stuff dreams are made of, there is no better way to release muscle tension, realign your posture and restore the proper range of motion than a deep tissue massage.<br /><strong>50 or 80 minutes - $135/$185</strong></p>
+					<h2>Thai Massage </h2>
+					<p>This dynamic massage uses targeted yoga stretches, compression, joint manipulation and pressure points to restore and strengthen your body. Please wear comfortable clothing.<br /><strong>50 or 80 minutes - $135/$185</strong></p>
+					<h2>Shiatsu </h2>
+					<p>The Japanese word "shiatsu," or "pressure with fingers," describes both a form of physical manipulation and a means of balancing one's "chi." Based on centuries-old Eastern techniques, this active massage combines acupressure with stretches, weight and leverage to alleviate fatigue and pain. Please wear comfortable clothing.<br /><strong>80 minutes - $135/$185</strong></p>
+					<h2>Sacred Stones Massage </h2>
+					<p>The expert application of hot and cold is known to ease pain and inflammation. This massage features a variety of techniques performed with heated basalt stones to invite deep relaxation, and cold marble stones to soothe inflammation. The result is a balanced, relaxed and nurtured body from head to toe.<br /><strong>50 or 80 minutes - $130/$175</strong></p>
+					<h2>Swedish Massage</h2>
+					<p>This deeply relaxing massage uses long, flowing strokes to help reduce pain and stress, ease stiffness and aid in circulation.<br /><strong>50 or 80 minutes - $125/$170</strong></p>
+					<h2>Prenatal Massage </h2>
+					<p>Nobody said it's easy being a mom-to-be. Perfect for all stages of pregnancy, this unique massage is designed to reduce fluid retention, increase muscle tone and soothe aching backs and necks.<br /><strong>50 or 80 minutes - $125/$170</strong></p>
+					<br />
+					<p><em>Ask about Couples Massage options.</em></p>]]>
+					</copy>
+					<thumbImg>images/site/massage-therapy-crisman-t.jpg</thumbImg>
+					<thumbCaption>Massage Therapy</thumbCaption>
+					<mainImg>images/site/massage-therapy-crisman.jpg</mainImg>
+					<imageCaption>Just close your eyes and let your muscles experience their own journey.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="7" secondaryNav="false" id="51" position="7" sitemapId="3.2.5" sitemapTitle="HANDS  FEET">
+					<title><![CDATA[Hands & Feet]]></title>
+					<meta>
+						<slug>hands-and-feet</slug>
+						<pageTitle><![CDATA[Hands & Feet]]></pageTitle>
+						<description>Travaasa culinary offers a range of classes, from basic culinary skills and advice on making healthy choices at the market to new recipes steeped in local tradition.</description>
+						<keywords>culinary, cooking, food, nutrition, healthy, travaasa</keywords>
+					</meta>
+					<h1><![CDATA[Hands & Feet]]></h1>
+					<copy><![CDATA[<p>Your spa treatment wouldn’t be complete without taking care of those two hardworking parts of our body: the hands and feet. Trust us, they will thank you for the bliss they feel after any one of our "only at Travaasa" treatments.</p>
+					<h2>Peppermint Zenergy Foot Care </h2>
+					<p>Your feet deserve the same meticulous care with which you treat your face. This gloriously pampering foot treatment uses organic oils and hydrating shea butter usually exclusive to luxury facial moisturizers. It exfoliates, smooths and softens with organic sugar and grapefruit, while the power of peppermint energizes and revitalizes your hardworking feet. Yes, the rest of your body thinks your feet deserve it!<br /><strong>25 minutes - $65</strong></p>
+					<h2>Organic Coffee Foot Relief </h2>
+					<p>Your daily coffee won’t make you feel this good! Regardless of your sport or activity, your faithful feet take the punishment. It’s time to give them a rest. This treatment refreshes your overworked feet with a combination of herbs and homeopathics that have been used for centuries to detoxify and relieve acute and chronic pain. Organic oils, coffee and cooling gels soften, exfoliate and nourish to complete this healthy therapy.<br /><strong>25 minutes - $65</strong></p>
+					<h2>Lavender Vanilla Hand Treatment </h2>
+					<p>Using the soothing and healing power of lavender, this hand treatment will cleanse, exfoliate and hydrate your hands to leave them fresh and young.<br /><strong>25 minutes - $45</strong></p>]]>
+					</copy>
+					<thumbImg>images/site/hands-feet-crisman-t.jpg</thumbImg>
+					<thumbCaption><![CDATA[Hands & Feet]]></thumbCaption>
+					<mainImg>images/site/hands-feet-crisman.jpg</mainImg>
+					<imageCaption>For beautiful hands and feet.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="7" secondaryNav="false" id="53" position="8" sitemapId="3.2.7" sitemapTitle="HOLISTIC HEALING">
+					<title>Holistic Healing</title>
+					<meta>
+						<slug>holistic-healing</slug>
+						<pageTitle>Holistic Healing</pageTitle>
+						<description>Focusing on the body, mind and spirit, Travaasa’s holistic offerings are designed to touch you deeply.</description>
+						<keywords>travaasa, holistic, healing, mind, spirit, well-being</keywords>
+					</meta>
+					<h1>Holistic Healing</h1>
+					<copy><![CDATA[<p>Focusing on the body, mind and spirit, our holistic healing offerings are designed to touch you deeply, both inside and out, giving you a complete experience of well-being.</p>
+					<h2>Energy Balancing & Healing</h2>
+					<p>Experience the art of channeling energy to create a deep state of tranquility on both the physical and spiritual planes. Explore a number of techniques such as Reiki, healing touch, polarity therapy, Pranic Healing and Chakra clearing to balance and heal your internal energy. Each session is unique and tailored to the individual’s needs.<br /><strong>50 or 80 minutes - $125/$170</strong></p>
+					<h2>Yoga Therapy </h2>
+					<p>Encourage the body’s natural healing mechanisms with this gentle therapeutic treatment. Improve the function of the central nervous system, dissipate negative effects of stress and enhance resistance to disease by releasing energetic blockages along the spinal column.<br /><strong>50 or 80 minutes - $125/$170</strong></p>
+					<h2>Numerology </h2>
+					<p>Numerology looks at the relationship between numbers and letters in order to determine a pattern that holds the meaning of your life. Explore your true self and life path through a unique blend of name charts, astrology, tarot cards and intuition. Numerology helps build awareness of self, relationships and future possibilities. Reserve in advance with your full name at birth, the current name you now use and your date of birth. Name chart audiotape provided.<br /><strong>50 or 80 minutes - $125/$170</strong></p>
+					<h2>Astrological Consultation </h2>
+					<p>Select a natal chart (life map), year overview, relationship, parenting, health or geographical consultation to gain clarity and perspective for decision making. Reserve in advance with your birth date, time and place. Phone consultations are available. <br /><strong>80 minutes - $170</strong></p>
+					]]>
+					</copy>
+					<thumbImg>images/site/holistic-healing-crisman-t.jpg</thumbImg>
+					<thumbCaption>Holistic Healing</thumbCaption>
+					<mainImg>images/site/holistic-healing-crisman.jpg</mainImg>
+					<imageCaption>For a complete experience of well-being.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="7" secondaryNav="false" id="54" position="9" sitemapId="3.2.8" sitemapTitle="MAGGIE WAGNER, SENIOR DIRECTOR OF SPAS">
+					<title>Maggie Wagner, Senior Director of Spas, Travaasa Destinations</title>
+					<meta>
+						<slug>maggie-wagner-senior-director-of-spas-travaasa-destinations</slug>
+						<pageTitle>Maggie Wagner, Senior Director of Spas, Travaasa Destinations</pageTitle>
+						<description>Maggie Wagner has 22 years of experience in the spa industry and her focus is on delivering high-quality spa services, treatments and product education along with a specialty in organic products.</description>
+						<keywords>spa, massage, treatments, bioenergetic, primavera, anakiri, boutique, travaasa, Maggie, Wagner, management, director, austin</keywords>
+					</meta>
+					<h1>Maggie Wagner, Senior Director of Spas, Travaasa Destinations</h1>
+					<copy><![CDATA[<p>As Spa and Wellness director at Travaasa Austin, Maggie Wagner brings 22 years of hands-on experience in the spa industry in operations, private practice, management, and strategic planning expertise. She also has experience in therapeutic and technical competencies with certifications in Reflexology, Massage Therapy, and Neuromuscular Therapy. Her focus is in delivering high-quality spa services, treatments and product education along with a specialty in organic products that provide healing health and treatments. She has always taken a holistic approach, using organic products for a custom guest centered experience.</p><br />
+					<p>Prior to Travaasa, Maggie was the opening spa director of luxury spas such as Inn By The Sea in Cape Elizabeth and the Peter Island Resort in the British Virgin Islands. She also has served as spa director for Lake Arrowhead Resort and Spa in California, the Four Seasons Resort in Jackson Hole, WY and the Greenbrier Spa at the Westin Savannah Harbor Resort. She was also an integral part of the Spa Team and Starwoods Task Force for Starwood Hotels & Resorts in White Plains, NY.</p><br />
+					<p>No stranger to accolades, during Maggie’s tenure at the Four Seasons Resort, the property attained recognition as the number four rated spa in the U.S. and Canada during her first year and became the number one rated spa in her second year, by a Travel & Leisure magazine reader’s poll.</p>]]>
+					</copy>
+					<thumbImg>images/site/maggie-wagner-t.jpg</thumbImg>
+					<thumbCaption>Spa Director</thumbCaption>
+					<mainImg>images/site/maggie-wagner.jpg</mainImg>
+					<imageCaption>Maggie has 22 years of spa experience.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="8" secondaryNav="true" id="55" position="1" sitemapId="3.3" sitemapTitle="DINING">
+					<title>Dining</title>
+					<meta>
+						<slug>dining</slug>
+						<pageTitle>Dining</pageTitle>
+						<description>At Travaasa you’ll find organic, locally-sourced produce, meat, fish and dairy.</description>
+						<keywords>travaasa, dining, eat, organic, locally, health </keywords>
+					</meta>
+					<h1>Dining</h1>
+					<copy><![CDATA[<p>Jean—mom to one of the Travaasa founders—always said that being at the kitchen table, sharing your day’s story with family and friends, was the most magical time of the day. We can just hear her say, “We need more time for breaking bread, mmm, mmm, life is delicious!” That’s why we invite you to take time to explore Jean’s Kitchen, where the recipes are designed to help you create, taste and share the delicious moments of life.</p><p>At Travaasa, we like to eat. And we like to eat well. Fresh, organic, locally sourced produce, meat, fish and dairy. Artisanal cheeses and heirloom vegetables. Foods that are in-season and in our area to bring you only the finest sustainable breakfast, lunch and dinner options. At each of our locations you can expect to find only premium ingredients that go into everything we make. We like to nourish, not only the spirit, but also the body. Because at Travaasa, good food means good health.</p>]]>
+					</copy>
+					<thumbImg>images/site/dining-crisman-t.jpg</thumbImg>
+					<thumbCaption>Dining</thumbCaption>
+					<mainImg>images/site/dining-crisman.jpg</mainImg>
+					<imageCaption>Fresh and delicious. Two Travaasa bywords.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="8" secondaryNav="false" id="56" position="2" sitemapId="3.3.1" sitemapTitle="JEAN BERRY, NAMESAKE OF JEAN’S KITCHEN">
+					<title>Jean Berry, Namesake of Jean’s Kitchen</title>
+					<meta>
+						<slug>jean-berry-namesake-of-jeans-kitchen</slug>
+						<pageTitle>Jean Berry, Namesake of Jean’s Kitchen</pageTitle>
+						<description>Travaasa’s dining room is named jean’s kitchen after jean berry whose life was the epitome of the travaasa spirit.</description>
+						<keywords>jean’s kitchen, spirit, travaasa, food, fun, travel, cultures, italian and asian food, extra ordinary spirit.</keywords>
+					</meta>
+					<h1>Jean Berry, Namesake of Jean’s Kitchen</h1>
+					<copy><![CDATA[<p>Jean Berry's life was the epitome of the Travaasa spirit in travel, food and fun. Besides enjoying good food from around the world, she loved to cook, especially for others. Her ordinary life as a wife, mother, and friend gave her the opportunity to experiment, perfect, and make several types and kinds of food. Her meals and dishes became extraordinary because she used ideal ingredients and made just about everything from scratch.Although Jean's parents were Americans, they lived in Mexico at the time of her birth and traveled to EI Paso to have their baby in a more modern American hospital. She then spent her childhood in Chicago and Denver, working in the family creamery as a teenager. She married and eventually established her family in Phoenix, Arizona. She loved to travel and see and learn about new places and cultures.</p><p>She also had a passion for Italian food, and made her gnocchi, which became a family favorite, by hand. She went through an "Asian" phase and besides stir fry dishes, she made pot stickers and a variety of egg rolls. Once, when she made her Mexican green chili, she peeled so many chili peppers her hands blistered the next day. Her extraordinary drive and joyful attitude spurned her to compile and help publish several church cookbooks for the ordinary cook to benefit from her expertise. Her most famous dish, a meat pie, became a request of all potlucks and published in the local paper. Always with a smile, always with open arms and hugs, Jean was an ordinary woman with an extraordinary spirit, and the character of Travaasa.</p>
+					]]>
+					</copy>
+					<thumbImg>images/site/jean-berry-t.jpg</thumbImg>
+					<thumbCaption>Jean Berry, Namesake of Jean’s Kitchen</thumbCaption>
+					<mainImg>images/site/jean-berry.jpg</mainImg>
+					<imageCaption>Jean Berry epitomizes the Travaasa spirit.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="8" secondaryNav="false" id="57" position="3" sitemapId="3.3.2" sitemapTitle="DINING OPTIONS">
+					<title>Dining Options</title>
+					<meta>
+						<slug>dining-options</slug>
+						<pageTitle>Dining Options</pageTitle>
+						<description>Travaasa offers three dining options—Jean’s Kitchen, The Spur Café and our Community Table.</description>
+						<keywords>travaasa, dining, breakfast, lunch, dinner, jean's, kitchen</keywords>
+					</meta>
+					<h1>Dining Options</h1>
+					<copy><![CDATA[<p>Enjoy breakfast, lunch and dinner in our dining room, Jean’s Kitchen, and engage in spirited and always unpredictable discussions in the adjacent lounge.</p>
+					<h2>Dining at Travaasa Austin</h2>
+					<p>Executive Chef Ben Baker describes the culinary style of our Austin location as “Bon Vivant Gourmet,” and this fits completely with the Travaasa style—to enjoy life and the bounty of the earth that nourishes us in every sense of the word. Using techniques that range from Classical to Nuevo, he has crafted a menu that he describes as contemporary Austin cuisine. Everything offered at Travaasa Austin incorporates the many layers of influence that are relevant to central Texas today, and keeps in mind the sophisticated palates of this modern, progressive city.</p><p>Alongside characteristic Texas fare of BBQ and Tex-Mex, Austinites have a taste for Asian dishes, traditional Native American and Latin American ingredients and Old World European recipes. At Travaasa we mix it all up to create familiar and unique dishes for our guests. Austin is also a health-conscious city with lots of vegetarian options, and that’s why we also offer an extensive selection of gourmet vegetarian and vegan foods made from scratch with health and balance in mind.</p><p>When you stay with us, you can expect to savor the flavors of our own Texas Onion Soup—served with rich, nutty Manchego cheese melted on homemade sourdough bread; orange juice and tequila-reduced pork tamales; pan-seared hamachi with a white wine sauce finished with grapes or locally raised, grain-fed pork chops with creamy polenta; squash ribbons and an orange chipotle glaze. Mmm, we’re getting hungry already.</p>
+					]]>
+					</copy>
+					<thumbImg>images/site/dining-options-crisman-t.jpg</thumbImg>
+					<thumbCaption>Dining Options</thumbCaption>
+					<mainImg>images/site/dining-options-crisman.jpg</mainImg>
+					<imageCaption>Jean's Kitchen, our main dining room.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="8" secondaryNav="false" id="58" position="4" sitemapId="3.3.3" sitemapTitle="LIBATIONS">
+					<title>Libations</title>
+					<meta>
+						<slug>libations</slug>
+						<pageTitle>Libations</pageTitle>
+						<description>Travaasa culinary offers a range of classes, from basic culinary skills and advice on making healthy choices at the market to new recipes steeped in local tradition.</description>
+						<keywords>culinary, cooking, food, nutrition, healthy, travaasa</keywords>
+					</meta>
+					<h1>Libations</h1>
+					<copy><![CDATA[<p>Our wine list mirrors Travaasa’s environmental values by featuring organic, biodynamic and sustainable wines made by boutique producers. The practice of biodynamics in winemaking has been gaining in popularity and biodynamic winemakers have noted stronger, clearer, more vibrant tastes, as well as wines that remain drinkable longer.</p><p>We also keep it local by featuring the very best Texas wines, and offer a lot of fun wines that you don’t see very often elsewhere (for instance, Inwood Estates Vinyards from Florence, Texas). Join us weekly for wine tastings or seasonally for winemaker dinners. Our beer list is similar, featuring many of Texas’s great craft brewers and imported organic brews. We even have a great gluten-free Belgian ale. Our coffees and teas are also organic and from local companies.</p>]]>
+					</copy>
+					<thumbImg>images/site/libations-crisman-t.jpg</thumbImg>
+					<thumbCaption>Libations</thumbCaption>
+					<mainImg>images/site/libations-crisman.jpg</mainImg>
+					<imageCaption>Organic, biodynamic wines, craft beers and organic coffee and teas await.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="8" secondaryNav="false" id="59" position="5" sitemapId="3.3.4" sitemapTitle="EXECUTIVE CHEF, BENJAMIN BAKER">
+					<title>Executive Chef, Benjamin Baker</title>
+					<meta>
+						<slug>executive-chef-benjamin-baker</slug>
+						<pageTitle>Executive Chef, Benjamin Baker</pageTitle>
+						<description>Chef Benjamin Baker is creating innovative cuisine at Travaasa.</description>
+						<keywords>travaasa, austin, chef, benjamin, baker</keywords>
+					</meta>
+					<h1>Executive Chef, Benjamin Baker</h1>
+					<copy><![CDATA[<p>When Chef Benjamin Baker accepted the position as executive chef at Travaasa, he brought the tools he valued most to his new job—a good attitude, a set of knives and a 167-year-old sourdough starter. With his passion for baking breads and pastries and a dedication to seasonal, organic and local ingredients, Chef Baker is revolutionizing Travaasa cuisine. </p><p>Modestly, he gives credit to his sourdough starter that is used in many of his baked goods, but after cooking in kitchens from Maui, HI, to San Jose, CA, to Austin, TX, Baker’s two decades of experience have resulted in a distinctive and celebrated culinary style winning raves at Travaasa.</p><p>"I love nourishing people and introducing our guests to new flavors in a creative way,” said Baker. “We’re celebrating food in its most natural form with an emphasis on organic, seasonal and local ingredients."</p>]]>
+					</copy>
+					<thumbImg>images/site/benjamin-baker-crisman-t.jpg</thumbImg>
+					<thumbCaption>Executive Chef</thumbCaption>
+					<mainImg>images/site/benjamin-baker-crisman.jpg</mainImg>
+					<imageCaption>Chef Ben brought a 167-year-old sourdough starter with him to Travaasa Austin.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="9" secondaryNav="true" id="60" position="1" sitemapId="3.4" sitemapTitle="ACCOMMODATIONS">
+					<title>Accommodations</title>
+					<meta>
+						<slug>accommodations</slug>
+						<pageTitle>Accommodations</pageTitle>
+						<description>Travaasa Austin offers 70 guestrooms overlooking the Balcones Canyonlands Preserve.</description>
+						<keywords>travaasa, austin, rooms, accommodations</keywords>
+					</meta>
+					<h1>Accommodations</h1>
+					<copy><![CDATA[<p>Come celebrate the sunrise from one of our 70 guestrooms overlooking the Balcones Canyonlands Preserve. Each of our accommodations offers a private deck or patio welcoming the fresh outdoor air in; it’s a perfect place to just breathe.</p><p>Accommodations are in seven buildings placed along meandering paths allowing you to soak in the natural habitat of the local Hill Country as you walk around the Travaasa campus. Umbrellas are provided in the rare event we get a cooling summer rain or a light winter sprinkle adding refreshment to the native habitat.</p><p>Our rooms are comfortable, stylish and relaxing—perfect after an ambitious workout, nature hike or meeting. All rooms have queen-sized beds (several with two queen beds), organic cotton comforters and linens, desks, complimentary Wi-Fi, bed lamps for easy reading, coffee- and tea-makers, irons, bathrooms with showers (several with bathtubs) and sundry items. The rooms are appointed with robes, hair dryers, umbrellas and complimentary light refreshments.</p><p>Choose between one of our hacienda rooms (allowing you to always be connected with the outside world with flat-screen TVs) or one of our spa casita rooms, ideal for unplugging, with yoga mats and stretching ropes for the leisure guest.</p>]]>
+					</copy>
+					<thumbImg>images/site/casitas-crisman-t.jpg</thumbImg>
+					<thumbCaption>Accommodations</thumbCaption>
+					<mainImg>images/site/casitas-crisman.jpg</mainImg>
+					<imageCaption>Our 70 guestrooms overlook the Balcones Canyonlands.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="9" secondaryNav="false" id="61" position="2" sitemapId="3.4.1" sitemapTitle="CASITAS">
+					<title>Casitas</title>
+					<meta>
+						<slug>casitas</slug>
+						<pageTitle>Casitas</pageTitle>
+						<description>Travaasa Austin casitas, Lavender, Bluebonnet and Sage, are closest to the spa and infinity pool</description>
+						<keywords>travaasa, austin, casitas</keywords>
+					</meta>
+					<h1>Casitas</h1>
+					<copy><![CDATA[<p>Three buildings comprise our casitas: Lavender, Bluebonnet and Sage. These buildings are closest to our spa and infinity pool and are for those guests who simply want to unplug and get away from everyday pressures. Instead of a TV, we offer a yoga mat and stretching ropes so you may practice feeling good, sunrise to sunset. Once in your room, you’ll realize it has either a private deck or a patio—welcoming spaces to let the fresh outdoor air in; it’s also a perfect place to smell wildflowers and native tree species, or to just close your eyes and soak in the scents and sounds. </p>]]>
+					</copy>
+					<thumbImg>images/site/austin-accomodations-crisman-t.jpg</thumbImg>
+					<thumbCaption>Casitas</thumbCaption>
+					<mainImg>images/site/austin-accomodations-crisman.jpg</mainImg>
+					<imageCaption>Casita rooms.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="9" secondaryNav="false" id="62" position="3" sitemapId="3.4.2" sitemapTitle="HACIENDAS">
+					<title>Haciendas</title>
+					<meta>
+						<slug>haciendas</slug>
+						<pageTitle>Haciendas</pageTitle>
+						<description>Travaasa Austin haciendas, Rio Grande, Alamo, Longhorn and Brazo, are close to our conference and business centers.</description>
+						<keywords>travaasa, haciendas, business, austin</keywords>
+					</meta>
+					<h1>Haciendas</h1>
+					<copy><![CDATA[<p>Four buildings comprise our haciendas: Rio Grande, Alamo, Longhorn and Brazo. These buildings are closest to our Live Oak Conference Center, Agave Fitness, Welcome and Business Centers, and are perfect for our conference and business guests. If you want to stay connected both on foot and on satellite with our new flat-screen TVs, these are the rooms for you.</p>]]>
+					</copy>
+					<thumbImg>images/site/haciendas-crisman-t.jpg</thumbImg>
+					<thumbCaption>Haciendas</thumbCaption>
+					<mainImg>images/site/haciendas-crisman.jpg</mainImg>
+					<imageCaption>Hacienda rooms.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="10" secondaryNav="true" id="63" position="1" sitemapId="3.5" sitemapTitle="RATES  PACKAGES">
+					<title><![CDATA[Rates & Packages]]></title>
+					<meta>
+						<slug>rates-and-packages</slug>
+						<pageTitle><![CDATA[Rates & Packages]]></pageTitle>
+						<description>Travaasa offers different rate and package selections to customize your journey</description>
+						<keywords>travaasa, rates, packages, customize</keywords>
+					</meta>
+					<h1><![CDATA[Rates & Packages]]></h1>
+					<copy><![CDATA[<p>Travaasa Resort & Spa provides you with different rate and package selections so that you can make the most of your time with us. These special offerings are designed to customize your journey.</p>
+					<br />
+					<h2>Your Travaasa&#8482; </h2>
+					<p>Your Travaasa is a package of our core offerings including accommodations, breakfast and access to the wide variety of Travaasa's signature daily programming experiences.  Guests staying on Your Travaasa may customize their experience with additional meals and/or spa treatments on an &#224; la carte basis.</p>
+			    	<br />
+			    	<p><em>Core offerings include:</em></p>
+			    		<ul>
+			        		<li>Spacious, well-appointed accommodations featuring organic cotton linens and complimentary Wi-Fi</li>
+			        		<li>A generous, healthy breakfast (don't miss Chef Ben's pancakes!)</li>
+			        		<li>All scheduled on-property activities including yoga, equine experiences, a challenge course, culinary classes and more</li>
+			    		</ul>
+			    	<p><a href="https://gc.synxis.com/rez.aspx?Hotel=28064&Chain=10237&template=AUSTC&shell=AUSTC4" target="_blank"
+			    			onclick="_gaq.push(['_link', https://gc.synxis.com/rez.aspx?Hotel=28064&Chain=10237&template=AUSTC&shell=AUSTC4']); 
+			    			return false;"><strong>Book Now</strong></a></p>
+					<br />
+					<h2>Total Travaasa&#8482; </h2>
+					<p>Treat yourself to the Total Travaasa package when you don’t want to worry about a thing.  Arrive, relax and enjoy.</p>
+					    <br />
+					    <ul>
+					        <li>Spacious, well-appointed accommodations featuring organic cotton linens and complimentary Wi-Fi</li>
+					        <li>Three healthy meals per day prepared by Chef Benjamin Baker and his team</li>
+					        <li>All snacks and non-alcoholic beverages</li>
+					        <li>Daily $125 spa credit or round of golf</li>
+					        <li>All scheduled on-property activities including yoga, equine experiences, a challenge course, culinary classes and more</li>
+					    </ul>
+					    <p><a href="https://gc.synxis.com/rez.aspx?Hotel=28064&Chain=10237&template=AUSTC&shell=AUSTC4" target="_blank"
+					    		onclick="_gaq.push(['_link', https://gc.synxis.com/rez.aspx?Hotel=28064&Chain=10237&template=AUSTC&shell=AUSTC4']); 
+					    		return false;"><strong>Book Now</strong></a></p>
+					 <br />
+					<h2>Girls' Getaway</h2>
+					<p>The more friends you gather the more you take away! Experience it all with the Total Travaasa or create your own from the Travaasa Sunrise.</p>
+						<br />
+						<ul>
+						    <li>Minimum 6 girls / 3 rooms - Flip Flops for each guest</li>
+							<li>Minimum 8 girls / 4 rooms - Cheese plate & two bottles of champagne</li>
+							<li>Minimum 10 girls / 5 rooms on Total Travaasa Package - Complimentary Travaasa Robes for each guest</li>
+						</ul>
+						<p>Call 1-855-TO-TRAVAASA or email us at austin@travaasa.com to plan your girls' getaway.</p>
+					<br />
+					<h2>Spa Packages</h2>
+					<p>Looking for a day visit to The Spa at Travaasa?  Visit <a href="http://travaasa.com/austin/#/special-packages-and-day-spa">Spa Rates & Packages</a> to view available options.</p>
+					<br />
+					 <p><em>Contact our team at 1-855-TO-TRAVAASA to learn about available special promotions on the Total Travaasa package, book a Girls Getaway, or if you have any questions on booking your stay.<br /><br />Please note: Travaasa Austin requires that all guests be 16 and older. Thank you.</em></p>]]>
+					</copy>
+					<thumbImg>images/site/rates-packages-crisman-t.jpg</thumbImg>
+					<thumbCaption><![CDATA[Rates & Packages]]></thumbCaption>
+					<mainImg>images/site/rates-packages-crisman.jpg</mainImg>
+					<imageCaption>From a girls' getaway to a babymoon package, we have different rate and package selections.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="11" secondaryNav="true" id="64" position="1" sitemapId="3.6" sitemapTitle="SPECIAL EVENTS">
+					<title>Special Events </title>
+					<meta>
+						<slug>special-events</slug>
+						<pageTitle>Special Events </pageTitle>
+						<description>We spice things up at Travaasa with special events—everything from  concerts to bull riding, a taste of Texas wineries, visiting chefs, local BBQs and more.  Please check with us often to find the right event for you.</description>
+						<keywords>travaasa, special, events, talks, mixers</keywords>
+					</meta>
+					<h1>Special Events </h1>
+					<copy><![CDATA[<p>At Travaasa we like to keep things moving, so we offer plenty of special events to spice things up. Everything from concerts to bull riding, a taste of Texas wineries, visiting chefs, local BBQs and more to ensure that you never get bored and have plenty of fodder for cocktail chatter when you get back home.</p>]]>
+					</copy>
+					<thumbImg>images/site/special-events-overview-crisman-t.jpg</thumbImg>
+					<thumbCaption>Special Events </thumbCaption>
+					<mainImg>images/site/special-events-overview-crisman.jpg</mainImg>
+					<imageCaption>From scintillating seminars to scrumptious edibles, Travaasa gives you the world.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="11" secondaryNav="false" id="65" position="2" sitemapId="3.6.1" sitemapTitle="DINNERS">
+					<title>Dinners</title>
+					<meta>
+						<slug>dinners</slug>
+						<pageTitle>Dinners</pageTitle>
+						<description>Savor a seasonally designed meal specific to your Travaasa location.</description>
+						<keywords>travaasa, seasonal, dinners, cooking, culinary, boutique, chef, private, dining, travaasa</keywords>
+					</meta>
+					<h1>Seasonal Dinners</h1>
+					<copy><![CDATA[<p>Dine and savor a seasonally designed meal, specific to your Travaasa destination. Utilizing ingredients and cooking methods that are appropriate for the time and place, you’ll understand why the chef paired and crafted the dinner in his/her particular way.</p>
+					<h2>Boutique Dinner </h2>
+					<p>Each week at Travaasa Austin, we offer an intimate dinner series that allows participants to enjoy a unique dining experience with a senior member of our culinary staff. Each dinner focuses on a different culinary theme that will tantalize your taste buds and provide a feast for your senses. This is one of our most popular, and delicious, Travaasas, so make sure you sign up early.</p>]]>
+					</copy>
+					<thumbImg>images/site/dinners-crisman-t.jpg</thumbImg>
+					<thumbCaption>Dinners</thumbCaption>
+					<mainImg>images/site/dinners-crisman.jpg</mainImg>
+					<imageCaption>Seasonally designed meals and a boutique dinner series.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="11" secondaryNav="false" id="66" position="3" sitemapId="3.6.2" sitemapTitle="AUSTIN MUSIC EXPERIENCE">
+					<title>Austin Music Experience</title>
+					<meta>
+						<slug>austin-music-experience</slug>
+						<pageTitle>Austin Music Experience</pageTitle>
+						<description>See and hear the Austin music scene in this guided off-property journey.</description>
+						<keywords>travaasa, austin, music, musical, downtown, bands</keywords>
+					</meta>
+					<h1>Austin Music Experience</h1>
+					<copy><![CDATA[<p>Experience Austin in a few hours as you see and hear the sounds of one of the country’s most unique and important musical cities. This guided, off-property journey will immerse you in the city where, day or night, weekday or weekend, you can always find something playing. And live music is just the beginning. Browse the never-ending selection at Waterloo Records, take a picture with the statue of Stevie Ray Vaughan and see the venues where musical breakthroughs were incubated, all before taking in an intimate live performance at the legendary Studio 6A.</p>]]>
+					</copy>
+					<thumbImg>images/site/austin-music-experience-t.jpg</thumbImg>
+					<thumbCaption>Austin Music Experience</thumbCaption>
+					<mainImg>images/site/austin-music-experience.jpg</mainImg>
+					<imageCaption>Experience one of the country's most unique musical cities.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="12" secondaryNav="true" id="67" position="1" sitemapId="3.7" sitemapTitle="PRIVATE CONSULTATIONS ">
+					<title>Private Classes </title>
+					<meta>
+						<slug>private-consultations </slug>
+						<pageTitle>Private Classes </pageTitle>
+						<description>We offer private sessions of most of our Travaasa services.</description>
+						<keywords>travaasa, private, consultations, trainers, consultants</keywords>
+					</meta>
+					<h1>Private Classes </h1>
+					<copy><![CDATA[<p>When you just can’t get enough of a good thing, prefer to go at your own pace or simply want our trainers and consultants all to yourself, we offer private sessions for the following services:</p>
+					<br />
+					<ul>
+						<li>Personal Training</li>
+						<li>Holistic Nutrition Consultation</li>
+						<li>Strength Training</li>
+						<li>Flexibility Training</li>
+						<li>Interval Training</li>
+						<li>Core Training</li>
+						<li>Balance Training</li>
+						<li>Health Consultation</li>
+						<li>Wellness Consultation</li>
+						<li>Private Hike (individual or group)</li>
+						<li>Private Dance Instruction</li>
+						<li>Personalized Yoga Session</li>
+						<li>Personalized Meditation Session</li>
+						<li>Water Fitness Instruction</li>
+					</ul>
+					<p>[All sessions are $125 for 50 minutes or $170 for 80 minutes]</p>
+						]]>
+					</copy>
+					<thumbImg>images/site/private-consultations-crisman-t.jpg</thumbImg>
+					<thumbCaption>Private Classes </thumbCaption>
+					<mainImg>images/site/private-consultations-crisman.jpg</mainImg>
+					<imageCaption>From personal training to private hiking, we've got private sessions just for you.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="13" secondaryNav="true" id="68" position="1" sitemapId="3.8" sitemapTitle="GROUPS  MEETINGS">
+					<title><![CDATA[Groups & Meetings]]></title>
+					<meta>
+						<slug>groups-and-meetings</slug>
+						<pageTitle><![CDATA[Groups & Meetings]]></pageTitle>
+						<description>Travaasa Austin is the ideal location for business meetings for companies in and outside of Texas.</description>
+						<keywords>travaasa, austin, groups, meetings, business, retreats, conferences, incentive</keywords>
+					</meta>
+					<h1><![CDATA[Groups & Meetings]]></h1>
+					<copy><![CDATA[<p>Travaasa Austin is an ideal location for corporate and incentive meetings for companies and groups both in and outside of Texas. Austin is accessible with direct flights from numerous cities, is only a couple hours’ drive for every Texan, and is the perfect setting for meetings year-round, with a warm, sunny climate and never-ending list of diversions and activities. Austin stands out on Entrepreneur magazine’s list of 2010 Trends as one of the Best Cities for Small Businesses.</p><p>Tired of breathing through dirty air filters during your meeting, making you sleepy and wishing you were someplace else? Then meet where nature meets nurture with a sense of place at Travaasa. Our meeting rooms open to and include amazing outdoor areas. We have several very flexible meeting spaces for your group’s needs, be they business or social. Our beautiful green building facilities are bright and airy, with exceptional natural lighting and panoramic views. Each room is unique, with its own distinct architectural design. All meeting spaces are versatile, with flexible seating arrangements and multimedia capabilities. We also offer outdoor venues that include breathtaking views of Lake Travis, as well as the pristine Balcones Canyonlands Preserve.</p><p><strong>For more information, visit <a href="http://sales.travaasa.com" target="_blank">sales.travaasa.com</a>.</strong></p>]]>
+					</copy>
+					<thumbImg>images/site/austin-groups-meetings-crisman-t.jpg</thumbImg>
+					<thumbCaption><![CDATA[Groups & Meetings]]></thumbCaption>
+					<mainImg>images/site/austin-groups-meetings-crisman.jpg</mainImg>
+					<imageCaption>Travaasa Austin is ideal for corporate meetings from groups both inside and out of Texas.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title>Meeting Planners' Guide</title>
+								<url>/pdf/Travaasa_Austin_Meeting_Planners_Guide_web.pdf</url>
+							</pdf>
+							<pdf>
+								<title>Group Activities</title>
+								<url>/pdf/Travaasa-Austin_Group-Activities.pdf</url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="13" secondaryNav="false" id="69" position="2" sitemapId="3.8.1" sitemapTitle="MEETING PACKAGES">
+					<title><![CDATA[Meetings & Packages]]></title>
+					<meta>
+						<slug>meetings-and-packages</slug>
+						<pageTitle><![CDATA[Meetings & Packages]]></pageTitle>
+						<description>Travaasa meeting packages are a cost-efficient way to budget your meeting in advance.</description>
+						<keywords>travaasa, meetings, packages</keywords>
+					</meta>
+					<h1>Meeting Packages</h1>
+					<copy><![CDATA[<p>Our Meeting Packages simplify the planning process by combining your group meals, continuous break service, audio/visual components and service charges into one, all-inclusive price per person. Selecting a Meeting Package is a cost-effective way to efficiently budget for your meeting in advance while providing a great value.</p>
+					<h2>Full-Day Complete Meeting Package includes:</h2>
+					<ul>
+						<li>American Breakfast Buffet</li>
+						<li>Morning and Afternoon Break with Continuous Beverage Service   </li>
+						<li>Lunch Buffet</li>
+						<li>A la Carte Plated or Buffet Dinner</li>
+						<li>Event Technology Package  </li>
+						<li>22% Service Charge</li>
+					</ul>
+					<h2>Half-Day Morning Complete Meeting Package includes:</h2>
+					<ul>
+						<li>American Breakfast Buffet </li>
+						<li>Morning Break with Continuous Beverage Service   </li>
+						<li>Lunch Buffet or Box Lunch </li>
+						<li>Event Technology Package  </li>
+						<li>22% Service Charge</li>
+					</ul>
+					<h2>Half-Day Afternoon Complete Meeting Package includes:</h2>
+					<ul>
+						<li>Lunch Buffet</li>
+						<li>Afternoon Break with Continuous Beverage Service</li>
+						<li>Event Technology Package</li>
+						<li>22% Service Charge</li>
+					</ul>
+					]]>
+					</copy>
+					<thumbImg>images/site/meeting-packages-crisman-t.jpg</thumbImg>
+					<thumbCaption><![CDATA[Meeting Packages]]></thumbCaption>
+					<mainImg>images/site/meeting-packages-crisman.jpg</mainImg>
+					<imageCaption>Not your typical meeting space.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="13" secondaryNav="false" id="70" position="3" sitemapId="3.8.2" sitemapTitle="FACILITIES">
+					<title>Facilities</title>
+					<meta>
+						<slug>facilities</slug>
+						<pageTitle>Facilities</pageTitle>
+						<description>The Travaasa Lone Star Room is ideal for larger meetings and events.</description>
+						<keywords>travaasa, facilities, meetings, events</keywords>
+					</meta>
+					<h1>Facilities</h1>
+					<copy><![CDATA[
+						<h2>Lone Star Room</h2>
+						<p>The Lone Star Room is ideal for larger meetings and events, whether classroom, banquet or theatre-style setup is required. Details include an authentic bamboo floor, tectum ceiling with exposed wood trusses, motorized blackout drapes, ceiling-mounted projector and motorized 10’ x 15’ screen. Full audiovisual playback is available either through the overhead lecture sound system or the PA system with four floor boxes</p>
+						<h2>Showroom</h2>
+						<p>The Showroom, with its Barco IQ Backlit Projector, 7-1/2’ x 10’ screen, Dolby 7.1 surround sound and automated blackout blinds system, offers excellent presentation technology with outside views from oversized picture windows.</p>
+						<h2>The Fireside Room</h2>
+						<p>The Fireside Room is an exquisite space and provides a warm environment for any gathering or meeting. Details include an open wood-deck ceiling measuring 25 feet at its peak, hickory/pecan floors, a stone fireplace and wood blinds.</p>
+						<h2>Parlor</h2>
+						<p>The Parlor offers gracious accommodations with comfortable couches and chairs, wraparound porch, kitchenette and private bathroom facilities.</p>
+						<h2>Chef’s Table</h2>
+						<p>The Chef’s Table, adjacent to Jean’s Kitchen, is the perfect venue for private dining or an executive board meeting.</p>
+						<h2>Solidago Gardens</h2>
+						<p>The Solidago Gardens, featuring a spacious handcrafted wood and stone structure, is accessible by way of a forested trail and is designed as an intimate setting for meetings and receptions.</p>
+						]]>
+					</copy>
+					<thumbImg>images/site/facilities-crisman-t.jpg</thumbImg>
+					<thumbCaption>Facilities</thumbCaption>
+					<mainImg>images/site/facilities-crisman.jpg</mainImg>
+					<imageCaption>Six different meeting spaces available.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title><![CDATA[Facilities & Layouts]]></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="13" secondaryNav="false" id="71" position="4" sitemapId="3.8.3" sitemapTitle="LEADERSHIP TRAINING AND DEVELOPMENT">
+					<title>Leadership Training and Development</title>
+					<meta>
+						<slug>Leadership Training and Development</slug>
+						<pageTitle>Leadership Training and Development</pageTitle>
+						<description>Travaasa leadership training and development activities are good bonding and competence tools to create memorable learning experiences.</description>
+						<keywords>travaasa, team, building, coworkers, bonding, activities, leadership, training, development</keywords>
+					</meta>
+					<h1>Leadership Training and Development</h1>
+					<copy><![CDATA[<h2>Beyond The Meeting Room</h2>
+					<p>Travaasa will help you create the perfect teambuilding experience for your group.  Using our exciting array of experiences, we’ll custom-design a program to meet your team’s specific needs.  Our innovative, interactive activities help your team members:</p>
+					<br />
+					<h2>Enhance Leadership Skills</h2>
+					<ul>
+					<li>Increased self-awareness</li>
+					<li>Improved non-verbal communication skills</li>
+					<li>Generating/radiating a greater sense of self-confidence and leadership</li>
+					<li>Overcoming resistance to change</li>
+					<li>Understanding & managing group roles/behaviors</li>
+					</ul>
+					<h2>Bond with Colleagues</h2>
+					<ul>
+					<li>Gaining greater familiarity through shared experience: fun, different, out of the box</li>
+					<li>Breaking self-imposed boundaries</li>
+					<li>Experiences that require interdependence, shared responsibility and accountability</li>
+					<li>Developing a common language & take home reminders of experience</li>
+					</ul>
+					]]>
+					</copy>
+					<thumbImg>images/site/team-building-crisman-t.jpg</thumbImg>
+					<thumbCaption><![CDATA[Leadership Training & Development]]></thumbCaption>
+					<mainImg>images/site/team-building-crisman.jpg</mainImg>
+					<imageCaption>Create memorable learning experiences for your team members.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title>Group Activities</title>
+								<url>/pdf/Travaasa-Austin_Group-Activities.pdf</url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+			</secondaryPages>
+		</austin>
+	</pages>

@@ -1,0 +1,21 @@
+@charset "UTF-8";
+/* CSS Document */
+#slideshowWrapper{position:relative;width:646px;margin:auto;}
+#fssPrev{position:absolute;top:169px;left:-67px;background:url(arrows.png) -67px 0px;width:67px;height:143px;text-indent:-999999px;}
+#fssNext{position:absolute;top:169px;left:646px;background:url(arrows.png) no-repeat;width:67px;height:143px;text-indent:-999999px;}
+#fssPlayPause{position:absolute;bottom: 7px; right:119px; width:20px; height:20px;}
+#fssPlayPause.btn_pause{background: url(../images/btn_play.png) no-repeat 0 0;}
+#fssPlayPause.btn_play{background: url(../images/btn_pause.png) no-repeat 0 0;}
+ul#slideshow{list-style:none;border:1px solid #999;padding:2px;margin:auto;margin-top:5%;width:640px;height:480px;overflow:hidden;}
+#fssList{list-style:none; position:absolute; bottom:7px; right:18px;}
+#fssList li{display:inline;padding-right:4px; float:left;}
+#fssList li a{color:#6fcde4;text-decoration:none; font-size:10px; border:1px solid #a9e1ef; background-color: #fff; width:18px; display:block; line-height:18px; text-align:center; height:18px;}
+#fssList li.fssActive a{font-weight:bold;color:#fff; background-color: #f8981d;}
+
+#top{background:#3b5998;width:100%;height:40px;}
+#top h1{color:#fff;font-weight:normal;font-size:18px;padding:7px 0 0 15px}
+#top h1 span{font-size:11px;}
+#top h1 a{text-decoration:underline;color:#fff;}
+#top h1 a:hover{text-decoration:none;}
+
+small a{color:#000;}

@@ -1,0 +1,520 @@
+<?xml version="1.0" standalone='yes' ?>
+	<pages>	
+		<backgroundImages>
+				<image>
+					<src>images/site/backgrounds/experiences-background-4.jpg</src>
+					<caption><![CDATA[<p>An invigorating Waipāuma Coastal walk.</p>]]></caption>
+				</image>
+				<image>
+					<src>images/site/backgrounds/experiences-background-1.jpg</src>
+					<caption><![CDATA[<p>Travaasa Austin guests meet their horses.</p>]]></caption>
+				</image>
+				<image>
+					<src>images/site/backgrounds/experiences-background-2.jpg</src>
+					<caption><![CDATA[<p>Dip into the infinity pool at Travaasa Hāna&rsquo;s Sea Ranch Cottages.</p>]]></caption>
+				</image>
+				<image>
+					<src>images/site/backgrounds/experiences-background-3.jpg</src>
+					<caption><![CDATA[<p>Like nowhere else on earth – kayaking at Hāna Bay.</p>]]></caption>
+				</image>
+			</backgroundImages>
+		<experiences>
+			<secondaryPages>
+				<page section="1" secondaryNav="true" id="0" position="0" sitemapId="2.0" sitemapTitle="EXPERIENCES">
+					<title>Experiences</title>
+					<meta>
+						<slug>experiences-overview</slug>
+						<pageTitle><![CDATA[Spa Resorts, All-Inclusive Experiences | Travaasa | Maui, Austin]]></pageTitle>
+						<description><![CDATA[Travaasa’s resorts immerse guests in guided adventures, culinary classes, cultural experiences, and fitness/wellness programs. All-inclusive packages available.]]></description>
+						<keywords><![CDATA[Travaasa, Hana, Maui, Hawaii, Austin, Texas, boutique spa resorts, hotels, guided activities, adventure, cultural travel, culinary, fitness, wellness, all-inclusive, yoga, spa vacations]]></keywords>
+					</meta>
+					<copy><![CDATA[
+					
+					<div style="padding:0px 10px 10px 10px; margin:0px 25px 10px 25px;">
+					
+					<p>
+					<span style="font-family:georgia, serif; color:#D11241; font-size:30px; line-height:40px;"><em>Travaasa Experiences</em></span><br />
+					<a class="large-link" href="/experiences/#/adventure-overview"><em>Stretch your imagination.</em></a><br />
+					<a class="large-link" href="/experiences/#/culinary-overview"><em>Delight your palate.</em></a><br />
+					<a class="large-link" href="/experiences/#/culture-overview"><em>Enrich your mind.</em></a><br />
+					<a class="large-link" href="/experiences/#/fitness-overview"><em>Move your body.</em></a><br />
+					<a class="large-link" href="/experiences/#/travaasa-spa-overview"><em>Spa-ify your visage.</em></a><br />
+					</p>
+					
+					<br />
+					
+					<p style="text-align:justify;">Travaasa Experiential Resorts go beyond rest and relaxation, offering experiences in five pillars — Adventure, Culinary, Culture, Fitness, and Spa & Wellness — all rooted in the local culture and environment.  Create your own <em>mo'olelo</em> (stories) by trying <a class="pink-link" href="hana/hana-hawaiian-throw-net">throw-net fishing</a> off the coast of Maui, <a class="pink-link" href="/austin/texas-two-step">Texas Two-Step lessons</a> under the Hill Country night sky, or <a class="pink-link" href="/hana/hana-yoga">yoga</a> beneath a Hawaiian banyon tree, just to name a few.</p>
+					
+					<p>Many are included as all-inclusive offerings in our <a class="pink-link" href="/hana/hana-rates-and-packages">Hana</a> and <a class="pink-link" href="/austin/rates-and-packages">Austin</a> rates & packages.</p>
+					
+					<p style="text-align:center;">
+					<div id="book-gift" style='float: left;'><a style="margin:5px 0px 8px 10px !important;" href="/experiences/#/adventure-overview">Adventure</a></div>
+					<div id="book-gift" style='float: left;'><a href="/experiences/#/culinary-overview">Culinary</a></div>
+					<div id="book-gift" style='float: left;'><a href="/experiences/#/culture-overview">Culture</a></div>
+					<div id="book-gift" style='float: left;'><a href="/experiences/#/fitness-overview">Fitness</a></div>
+					<div id="book-gift" style='float: left;'><a href="/experiences/#/travaasa-spa-overview">Wellness</a></div>
+					</p>
+					</div>
+					<br />
+		
+					]]></copy>
+					<thumbImg>images/site/travaasa-experiences-crisman-t.jpg</thumbImg>
+					<thumbCaption>Experiences</thumbCaption>
+					<mainImg>images/site/travaasa-experiences-crisman.jpg</mainImg>
+					<imageCaption>Customize your Travaasa experience any way you want.</imageCaption>
+					<Storybook></Storybook>
+					<pdf_downloads>
+						<pdf>
+							<title></title>
+							<url></url>
+						</pdf>
+					</pdf_downloads>
+				</page>
+				<page section="1" secondaryNav="true" id="10" position="1"  sitemapId="2.1" sitemapTitle="ADVENTURE OVERVIEW">
+					<title>Adventure</title>
+					<meta>
+						<slug>adventure-overview</slug>
+						<pageTitle><![CDATA[Spa Resorts, Adventure Tours & Experiences | Travaasa | Maui & Austin]]></pageTitle>
+						<description><![CDATA[Travaasa offers a series of adventure tours and experiences (including hiking, equine and challenge courses) at its resorts in Hana, Maui and Austin, Texas.]]></description>
+						<keywords><![CDATA[Travaasa, Hana, Maui, Hawaii, Austin, Texas, boutique spa resort, guided activities, adventure tours, hiking, horseback riding, equine, challenge courses, archery, stand up paddle boarding, sea kayaking, snorkeling]]></keywords>
+					</meta>
+					<h1>Adventure Tours by Travaasa</h1>
+					<copy>
+                    <![CDATA[
+                    <p>A stay at Travaasa includes more than just world-class accommodations and delicious dining … It includes adventure tours that stir the soul.</p>
+                                            
+                          <p>Below you will find profiles on Adventures by Travaasa. These tailored experiences are designed to foster your inner athlete and release your bottled-up spirit of exploration. From rigorous challenge courses to snorkeling with sea turtles, Travaasa will give you a fresh perspective on what a vacation experience can be.</p>
+                          
+                          <div style="background-color:#fafafa; -webkit-border-radius: 4px; -moz-border-radius: 4px; border-radius: 4px; border-color:#f1f1f1; border-width: 2px; border-style:solid; padding:20px 0px 254px 22px; margin:5px 25px 0px 25px; height:747px;">             
+                          
+                          <a class="fancy frame-left" rel="adventure-overview" href="/images/site/equine-encounters-large.jpg" title="Equine Encounters at Travaasa Austin">
+                          	<img src="/images/site/equine-encounters-small-mag.jpg" alt="Equine Encounters" />
+                          </a>
+                          <h2>Equine Encounters</h2>
+                          <p>Travaasa’s beautiful resort properties are covered with a network of footpaths that will guide you on a journey like none other.<br />
+                          &#8226;&nbsp;&nbsp;<a class="pink-link" style="color:#D11241; text-decoration:none;" href="/austin/equine-experiences">Equine Encounters at Travaasa Austin</a><br />
+                          &#8226;&nbsp;&nbsp;<a class="pink-link" href="/hana/hana-equine">Equine Encounters at Travaasa Hana</a>
+                          </p>
+                              
+                          <hr style="clear:both; border-top-style:dotted; border-color:#fafafa; border-width:1px;">
+                          
+                          <a class="fancy frame-left" rel="adventure-overview" href="/images/site/on-the-trail-large.jpg" title="Guided Walk at Travaasa Hana">
+                          	<img src="/images/site/on-the-trail-small.jpg" alt="On the Trail" />
+                          </a>
+                          <h2>On the Trail</h2>
+                          <p>With guidance from our equestrian staff, you will learn how to project your intentions and achieve a heightened sense of personal understanding.
+                            <br />
+                               &#8226;&nbsp;&nbsp;<a class="pink-link" href="/hana/hana-walks">Guided Walks at Travaasa Hana</a><br />
+                               &#8226;&nbsp;&nbsp;<a class="pink-link" href="/austin/hiking">Hiking the Hill Country at Travaasa Austin</a><br />
+                               &#8226;&nbsp;&nbsp;<a class="pink-link" href="/austin/geocaching-adventure">Geocaching at Travaasa Austin</a>
+                          </p>
+                          
+                          <hr style="clear:both; border-top-style:dotted; border-color:#fafafa; border-width:1px;">                    
+                          
+                          <a class="fancy frame-left" rel="adventure-overview" href="/images/site/on-the-water-large.jpg" title="The Pacific Ocean at Travaasa Hana">
+                          	<img src="/images/site/on-the-water-small.jpg" alt="On the water" /></a>
+                          <h2>On the Water</h2>
+                          <p>The hypnotic rhythms of the waves take on a whole new meaning as you explore the Pacific Ocean off Hana, Maui.
+                            <br />
+                               &#8226;&nbsp;&nbsp;<a class="pink-link" href="/hana/hana-snorkeling">Snorkeling at Travaasa Hana</a><br />
+                               &#8226;&nbsp;&nbsp;<a class="pink-link" href="/hana/hana-stand-up-paddling">Stand Up Paddle Boarding at Travaasa Hana</a>
+                          </p>
+                                               
+                          <hr style="clear:both; border-top-style:dotted; border-color:#fafafa; border-width:1px;">
+                          
+                          <a class="fancy frame-left" rel="adventure-overview" href="/images/site/amongst-nature-large.jpg" title="Walking path at Travaasa Austin">
+                          	<img src="/images/site/amongst-nature-small.jpg" alt="Amongst Nature" /></a>
+                          <h2>Amongst Nature</h2>
+                          <p>Nature’s transcendence cannot be underestimated, especially in heavenly Hana and the Texas Hill Country. These adventure tours will bring you closer to the miracles of nature.
+                            <br />
+                               &#8226;&nbsp;&nbsp;<a class="pink-link" href="/hana/hana-ecology">Ecology of Hawaii at Travaasa Hana</a><br />
+                               &#8226;&nbsp;&nbsp;<a class="pink-link" href="/austin/hiking">Hill Country Hike at Travaasa Austin</a>
+                          </p>
+                            
+                          <hr style="clear:both; border-top-style:dotted; border-color:#fafafa; border-width:1px;">
+                          
+                          <a class="fancy frame-left" rel="adventure-overview" href="/images/site/challenge-course-large.jpg" title="Zip Line at Travaasa Austin">
+                          	<img src="/images/site/challenge-course-small.jpg" alt="Challenge Course" /></a>
+                          <h2>Challenge Courses</h2>
+                          <p>Remember the ropes course at summer camp? Remember the feeling of accomplishment it gave you? Our challenge courses will have your inner child doing backflips.
+                            <br />
+                               &#8226;&nbsp;&nbsp;<a class="pink-link" href="/austin/prickly-pear-challenge-course">Challenge Course at Travaasa Austin</a><br />
+                               &#8226;&nbsp;&nbsp;<span style="color:#D11241; text-decoration:none;">Challenge Course at Travaasa Hana (coming 2013)</span>
+                           </p>
+                             
+                          <hr style="clear:both; border-top-style:dotted; border-color:#fafafa; border-width:1px;">
+                          
+                          <a class="fancy frame-left" rel="adventure-overview" href="/images/site/archery-large.jpg" title="Archer at Travaasa Austin">
+                          	<img src="/images/site/archery-small.jpg" alt="Archery" /></a>
+                          <h2>Archery</h2>
+                          <p>Life slings plenty of arrows at us. This course will help you deal with them by enabling you to channel your patience, harness your breath and reclaim a sense of focus through this ancient sport.
+                            <br />
+                               &#8226;&nbsp;&nbsp;<a class="pink-link" href="/austin/archery">Archery at Travaasa Austin</a><br />
+                               &#8226;&nbsp;&nbsp;<a class="pink-link" href="/hana/hana-archery">Archery at Travaasa Hana</a>
+                           </p>  
+                           
+                        </div>
+                    ]]>
+					</copy>
+					<thumbImg>images/site/hana-adventure-t.jpg</thumbImg>
+					<thumbCaption>Adventure Overview</thumbCaption>
+					<mainImg>images/site/hana-adventure.jpg</mainImg>
+					<imageCaption>Travel should be an adventure.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="2" secondaryNav="true" id="20" position="1" sitemapId="2.2" sitemapTitle="CULINARY OVERVIEW">
+					<title>Culinary</title>
+					<meta>
+						<slug>culinary-overview</slug>
+						<pageTitle><![CDATA[Spa Resorts, Culinary Classes & Experiences | Travaasa | Maui & Austin]]></pageTitle>
+						<description><![CDATA[Travaasa offers culinary classes that celebrate local cuisine and teach guests refined cooking techniques at its resorts in Hana, Maui and Austin, Texas.]]></description>
+						<keywords><![CDATA[Travaasa, Hana, Maui, Hawaii, Austin, Texas, boutique spa resort, guided activities, culinary classes, cooking school, local cuisine, healthy food, nutrition]]></keywords>
+					</meta>
+					<h1>Culinary Classes by Travaasa</h1>
+					<copy><![CDATA[
+					
+					<p>Travel adds flavor to life. Now, you can take that flavor home with you through Travaasa’s culinary experiences, a series of classes focused on regional cuisine, locally sourced ingredients, and cooking techniques rooted in the destinations of our resorts.</p> 
+					<p>At Travaasa, eating great food is only part of the culinary journey.</p>
+					
+					<div style="background-color:#fafafa; -webkit-border-radius: 4px; -moz-border-radius: 4px; border-radius: 4px; border-color:#f1f1f1; border-width: 2px; border-style:solid; padding:20px 0px 254px 22px; margin:5px 25px 0px 25px; height:259px;">
+					
+					<a class="fancy frame-left" rel="culinary-overview" href="/images/site/cuisine-large.jpg" title="A culinary demonstration at Travaasa Hana">
+						<img src="/images/site/cuisine-small-mag.jpg" alt="Cuisine" /></a>
+					<h2>Cuisine</h2>
+					<p>Let Travaasa’s gourmet culinary team guide you through the flavors and nuances of the destination’s local cuisine.
+					Group Cooking Demonstrations at Travaasa Austin
+					<br />
+					&#8226;&nbsp;&nbsp;<a class="pink-link" href="/austin/tastings">Wine Tastings at Travaasa Austin</a>
+					</p>
+					
+					<hr style="clear:both; border-top-style:dotted; border-color:#fafafa; border-width:1px;">
+					
+					<a class="fancy frame-left" rel="culinary-overview" href="/images/site/cooking-skills-large.jpg" title="A culinary demonstration at Travaasa Austin">
+						<img src="/images/site/cooking-skills-small.jpg" alt="Cooking Skills" /></a>
+					<h2>Cooking Skills</h2>
+					<p>Have you ever wanted to chop an onion like the pros? Ever struggled with grilling a mahi mahi just right? Travaasa’s chefs will show you their insider tips so you can elevate your culinary game at home.
+					<br />
+					&#8226;&nbsp;&nbsp;<a class="pink-link" href="/austin/basic-culinary-skills">Basic Culinary Skills at Travaasa Austin and Travaasa Hana</a><br />
+					&#8226;&nbsp;&nbsp;<a class="pink-link" href="/austin/group-cooking-demo">Group Cooking Demonstrations at Travaasa Austin</a><br />
+					&#8226;&nbsp;&nbsp;<a class="pink-link" href="/hana/hana-juicing-2_0">Juicing 2.0 at Travaasa Hana <a class="pink-link" href="/austin/juicing-2_0">and Travaasa Austin</a><br />
+					&#8226;&nbsp;&nbsp;<a class="pink-link" href="/hana/hana-the-art-of-the-cocktail">Art of the Cocktail at Travaasa Hana</a>
+					</p>
+					
+					<hr style="clear:both; border-top-style:dotted; border-color:#fafafa; border-width:1px;">
+					
+					<a class="fancy frame-left" rel="culinary-overview" href="/images/site/entertaining-large.jpg" title="The Art of the Cocktail at Travaasa Hana">
+						<img src="/images/site/entertaining-small.jpg" alt="Entertaining" /></a>
+					<h2>Entertaining</h2>
+					<p>Cooking and dining together is the ultimate expression of community. In these classes, guests learn how to make entertaining easy with simple yet innovative dishes and cooking techniques.
+					<br />
+					&#8226;&nbsp;&nbsp;<a class="pink-link" href="/austin/group-cooking-demo">Group Cooking Demonstrations at Travaasa Austin</a><br />
+					&#8226;&nbsp;&nbsp;<a class="pink-link" href="/austin/hana-the-art-of-the-cocktail">Art of the Cocktail at Travaasa Hana</a><br />
+					</p>
+					
+					</div>
+					
+					]]>
+					</copy>
+					<thumbImg>images/site/culinary-overview-crisman-t.jpg</thumbImg>
+					<thumbCaption>Culinary Overview</thumbCaption>
+					<mainImg>images/site/culinary-overview-crisman.jpg</mainImg>
+					<imageCaption>Cooking demos that will set your palate on fire.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="3" secondaryNav="true" id="30" position="1" sitemapId="2.3" sitemapTitle="CULTURE OVERVIEW">
+					<title>Culture</title>
+					<meta>
+						<slug>culture-overview</slug>
+						<pageTitle><![CDATA[Spa Resorts, Cultural Travel & Experiences | Travaasa | Maui & Austin]]></pageTitle>
+						<description><![CDATA[Travaasa’s cultural travel experiences — featured at its resorts in Maui and Austin — focus on local art, music, dance, creative expression and storytelling.]]></description>
+						<keywords><![CDATA[Travaasa, Hana, Maui, Hawaii, Austin, Texas, boutique spa resort, guided activities, cultural travel, music, art, dance, arts and culture]]></keywords>
+					</meta>
+					<h1>Cultural Travel by Travaasa</h1>
+					<copy>
+                    <![CDATA[
+                    
+                    <p>We travel to escape the ordinary, to slip into another culture, and in the process, learn something about ourselves.</p>
+                    
+                    <p>Travaasa’s resorts are engrained in the local community, and nothing makes us more proud than to share the local traditions and creative expression of our neighbors through our cultural travel experiences.</p>
+                    
+                    <p>Join us for a journey into the heart of the destination and its people.</p>
+                          
+                    <div style="background-color:#fafafa; -webkit-border-radius: 4px; -moz-border-radius: 4px; border-radius: 4px; border-color:#f1f1f1; border-width: 2px; border-style:solid; padding:20px 0px 254px 22px; margin:5px 25px 0px 25px; height:457px;">                        
+                          
+                    <a class="fancy frame-left" rel="culture-overview" href="/images/site/community-large.jpg" title="Evening Fireside Chats at Austin">
+                          	<img src="/images/site/community-small-mag.jpg" alt="Community at Travaasa" /></a>
+                    <h2>Community</h2>
+                    <p>A Moorish proverb states: “he who doesn’t travel, does not know the value of man.” We couldn’t agree more. Whether it’s a fireside chat or a class on the local ecology and its role in everyday life, these Travaasa experiences will expand your horizons.
+                    <br />
+                          &#8226;&nbsp;&nbsp;<a class="pink-link" href="/hana/hana-bike-holoholo">Bike Holoholo at Travaasa Hana</a><br />
+                          &#8226;&nbsp;&nbsp;<a class="pink-link" href="/austin/evening-fireside-chats">Evening Fireside Chats at Austin</a> and <a class="pink-link" href="/hana/hana-talk-story">Talk Story at Hana</a><br />
+                          &#8226;&nbsp;&nbsp;<a class="pink-link" href="/hana/hana-ecology">Ecology at Travaasa Hana</a> <a class="pink-link" href="/austin/ecology-series-austin">and Travaasa Austin</a>
+                          </p>
+                              
+                    <hr style="clear:both; border-top-style:dotted; border-color:#fafafa; border-width:1px;">
+                          
+                    <a class="fancy frame-left" rel="culture-overview" href="/images/site/local-customs-large.jpg" title="A Hula lesson at Travaasa Hana"><img src="/images/site/local-customs-small.jpg" alt="Local Customs at Travaasa" /></a>
+                    <h2>Local Customs</h2>
+                    <p>Observation is only but a part of travel. To truly experience a destination, you need to immerse in its culture. These encounters with local customs will heighten your understanding of our local communities.
+                    <br />
+                          &#8226;&nbsp;&nbsp;<a class="pink-link" href="/austin/texas-two-step">Texas Two Step at Travaasa Austin</a><br />
+                          &#8226;&nbsp;&nbsp;<a class="pink-link" href="/hana/hana-lei-making">Lei Making at Travaasa Hana</a><br />
+                          &#8226;&nbsp;&nbsp;<a class="pink-link" href="/hana/hana-hula">Hula at Travaasa Hana</a><br />
+                          &#8226;&nbsp;&nbsp;<a class="pink-link" href="/hana/hana-hawaiian-throw-net">Hawaiian Throw Net Fishing at Travaasa Hana</a>
+                          </p>
+                          
+                   <hr style="clear:both; border-top-style:dotted; border-color:#fafafa; border-width:1px;">
+                          
+                   <a class="fancy frame-left" rel="culture-overview" href="/images/site/sketch-draw-large.jpg" title="Sketching nature at Travaasa Austin">
+                          	<img src="/images/site/sketch-draw-small.jpg" alt="Art & Creative Expression"/></a>
+                   <h2>Art & Creative Expression</h2>
+                   <p>Surrender to your creative spirit and find new avenues of personal expression through these inspiration-focused experiences.
+                   <br />
+                          &#8226;&nbsp;&nbsp;<a class="pink-link" href="/austin/sketch-draw">Sketch & Draw at Travaasa Austin</a>
+                   </p>
+                          
+                   <hr style="clear:both; border-top-style:dotted; border-color:#fafafa; border-width:1px;">
+                          
+                   <a class="fancy frame-left" rel="culture-overview" href="/images/site/music-large.jpg" title="The music of Travaasa Hana">
+                          	<img src="/images/site/music-small.jpg" alt="Music at Travaasa" /></a>
+                   <h2>Music</h2>
+                   <p>Observation is only but a part of travel. To truly experience a destination, you need to immerse in its culture. These encounters with local customs will heighten your understanding of our local communities.
+                          <br />
+                          &#8226;&nbsp;&nbsp;<a class="pink-link" href="/austin/learning-harmonica">Harmonica Lessons at Travaasa Austin</a><br />
+                          &#8226;&nbsp;&nbsp;<a class="pink-link" href="/hana/hana-ukulele">Learn the Ukelele at Travaasa Hana</a>
+                  </p>
+                          
+                  </div>                     
+                    ]]>
+					</copy>
+					<thumbImg>images/site/hana-culture-t.jpg</thumbImg>
+					<thumbCaption>Culture Overview</thumbCaption>
+					<mainImg>images/site/hana-culture.jpg</mainImg>
+					<imageCaption>Explore the customs and creative expression of local cultures at Travaasa.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="4" secondaryNav="true" id="40" position="1" sitemapId="2.4" sitemapTitle="FITNESS OVERVIEW ">
+					<title>Fitness</title>
+					<meta>
+						<slug>fitness-overview</slug>
+						<pageTitle><![CDATA[Spa Resorts, Fitness, Yoga & Experiences | Travaasa | Maui & Austin]]></pageTitle>
+						<description><![CDATA[Travaasa’s resorts offer fitness and yoga courses that not only focus on balance, cardio and conditioning, but bring you closer to the destination. ]]></description>
+						<keywords><![CDATA[Travaasa, Hana, Maui, Hawaii, Austin, Texas, boutique spa resort, guided activities, fitness, yoga, dance, health, travel, pilates]]></keywords>
+					</meta>
+					<h1>Fitness by Travaasa</h1>
+					<copy>
+                    <![CDATA[
+                    
+                    <p>What makes you feel alive? Travel? Working out? Mixing the two together? If so, we’re kindred spirits. There is nothing quite as rewarding (or detoxing) as enjoying a good workout in a beautiful destination.</p>
+                    
+                    <p>Fitness by Travaasa serves up a heart-pounding array of workout options ranging from strength and conditioning routines, to the unique sports that the locals make look easy.</p>
+                    
+                    <div style="background-color:#fafafa; -webkit-border-radius: 4px; -moz-border-radius: 4px; border-radius: 4px; border-color:#f1f1f1; border-width: 2px; border-style:solid; padding:20px 0px 254px 22px; margin:5px 25px 0px 25px; height:642px;">
+                    
+                    <a class="fancy frame-left" rel="fitness-overview" href="/images/site/yoga-large.jpg" title="Enjoying yoga outdoors at Travaasa Hana">
+                    	<img src="/images/site/yoga-small-mag.jpg" alt="Yoga at Travaasa" /></a>
+                    <h2>Yoga</h2>
+                    <p>Surrender to your creative spirit and find new avenues of personal expression through these inspiration-focused experiences.
+                    <br />
+                    &#8226;&nbsp;&nbsp;<a class="pink-link" href="/hana/hana-yoga">Yoga at Travaasa Hana</a> <a class="pink-link" href="/austin/yoga-for-mind-and-body">and Travaasa Austin</a>.<br />
+                    </p>
+                    
+                    <hr style="clear:both; border-top-style:dotted; border-color:#fafafa; border-width:1px;">
+                    
+                    <a class="fancy frame-left" rel="fitness-overview" href="/images/site/local-workout-large.jpg" title="Mechanical Bull Riding at Travaasa Austin">
+                    	<img src="/images/site/local-workout-small.jpg" alt="How the Locals Work Out" /></a>
+                    <h2>How the Locals Work Out</h2>
+                    <p>The most effective workouts are the ones that are rooted in day-to-day life. With these activities, you’ll learn to master the pastimes that are quintessentially local.
+                    <br />
+                    &#8226;&nbsp;&nbsp;<a class="pink-link" href="/austin/mechanical-bull-riding-workout">Mechanical Bull Riding at Travaasa Austin</a><br />
+                    &#8226;&nbsp;&nbsp;<a class="pink-link" href="/hana/hana-stand-up-paddling">Stand Up Paddle Boarding at Travaasa Hana</a>
+                    </p>
+   
+                    
+                    <hr style="clear:both; border-top-style:dotted; border-color:#fafafa; border-width:1px;">
+                    
+                    <a class="fancy frame-left" rel="fitness-overview" href="/images/site/dance-fitness-large.jpg" title="A Zumba&#174; class at Travaasa Austin">
+                    	<img src="/images/site/dance-fitness-small.jpg" alt="Dance Fitness" /></a>
+                    <h2>Dance Fitness</h2>
+                    <p>Like dancing to a different beat (just not in the local gym)? Fortunately, you don’t have to be a trained dancer to reap the benefits of our dance fitness courses.
+                    <br />
+                    &#8226;&nbsp;&nbsp;<a class="pink-link" href="/austin/zumba">Dance Fitness at Travaasa Austin</a>
+                    </p>
+                    
+                    <hr style="clear:both; border-top-style:dotted; border-color:#fafafa; border-width:1px;">
+                    
+                    <a class="fancy frame-left" rel="fitness-overview" href="/images/site/scenic-workout-large.jpg" title="Outdoor Circuit at Travaasa Hana">
+                    	<img src="/images/site/scenic-workout-small.jpg" alt="Scenic Workouts" /></a>
+                    <h2>Scenic Workouts</h2>
+                    <p>From the pounding surf of the wild Hana coastline of Maui to the tranquil sanctuary of the Texas Hill Country, you may never burn calories in a more beautiful place.
+                    <br />
+                    &#8226;&nbsp;&nbsp;<a class="pink-link" href="/hana/hana-coastal-walk-and-stretch">Coastal Walk and Stretch at Travaasa Hana</a><br />
+                    &#8226;&nbsp;&nbsp;<a class="pink-link" href="/hana/hana-coastal-workout">Coastal Workout at Travaasa Hana</a><br />
+                    &#8226;&nbsp;&nbsp;<a class="pink-link" href="/hana/hana-outdoor-circuit">Outdoor Circuit at Travaasa Hana</a> <a class="pink-link" href="/austin/outdoor-circuit">and Travaasa Austin</a>
+                    </p>
+                    
+                                        <hr style="clear:both; border-top-style:dotted; border-color:#fafafa; border-width:1px;">
+                    
+                    <a class="fancy frame-left" rel="fitness-overview" style="margin-bottom:85px;" href="/images/site/conditioning-large.jpg" title="Stand Up Paddleboarding at Travaasa Hana (coming 2012)">
+                    	<img src="/images/site/conditioning-small.jpg" alt="Conditioning & Guided Workouts" /> </a>
+                    <h2>Conditioning & Guided Workouts</h2>
+                    <p>Travaasa’s fitness programs are the antithesis of your local gym. Our courses emphasize the essentials of inner strength, flexibility and proper conditioning, all set in the beautiful landscapes of our resort’s destinations.
+                    <br />
+                    &#8226;&nbsp;&nbsp;<a class="pink-link" href="/hana/hana-core-conditioning">Core Conditioning at Travaasa Hana</a> <a class="pink-link" href="/austin/core-conditioning">and Travaasa Austin</a><br />
+                    &#8226;&nbsp;&nbsp;<a class="pink-link" href="/hana/hana-stand-up-paddling">Stand Up Paddle Boarding at Travaasa Hana</a><br />
+
+                    &#8226;&nbsp;&nbsp;<a class="pink-link" href="/hana/hana-pilates">Pilates at Travaasa Hana</a> <a class="pink-link" href="/austin/pilates">and Travaasa Austin</a><br />
+                    &#8226;&nbsp;&nbsp;<a class="pink-link" href="/hana/hana-simplified-fitness">Simplified Fitness at Travaasa Hana</a> <a class="pink-link" href="/austin/simplified-fitness">and Travaasa Austin</a><br />
+                    &#8226;&nbsp;&nbsp;<a class="pink-link" href="/hana/hana-foam-rollers">Stress Relief with Foam Rollers at Travaasa Hana</a> <a class="pink-link" href="/austin/foam-rollers">and Travaasa Austin</a>
+                    </p>
+                    
+                    </div>                                                                                                                                                                  
+                    ]]>
+					</copy>
+					<thumbImg>images/site/fitness-overview-crisman-t.jpg</thumbImg>
+					<thumbCaption>Fitness Overview</thumbCaption>
+					<mainImg>images/site/fitness-overview-crisman.jpg</mainImg>
+					<imageCaption>Let your inner agile child shine with our Fitness Experiences.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="5" secondaryNav="true" id="50" position="1"  sitemapId="2.5" sitemapTitle="SPA  WELLNESS OVERVIEW">
+					<title><![CDATA[Spa &amp; Wellness]]></title>
+					<meta>
+						<slug>travaasa-spa-overview</slug>
+						<pageTitle><![CDATA[Spa Resorts, Wellness, Chi & Health Spa | Travaasa | Maui & Austin]]></pageTitle>
+						<description><![CDATA[Travaasa’s spa resorts combine the finest spa treatments with wellness classes focused on balancing mind, body and soul via meditation, chi and other practices.]]></description>
+						<keywords><![CDATA[Travaasa, Hana, Maui, Hawaii, Austin, Texas, boutique spa resort, guided activities, health spa, spa treatments, wellness programs, chi, meditation, relaxing, classes]]></keywords>
+					</meta>
+					<h1><![CDATA[Spa & Wellness by Travaasa]]></h1>
+					<copy>
+                    <![CDATA[
+                    
+                    <p>The essence of wellness is a connection between mind, body and spirit. Yet the day-to-day rigors of life can often make this connection a difficult thing to achieve.</p>
+                    
+                    <p>Travaasa’s destination resorts make it easy to detox and reconnect. With nature surrounding you, our spas and workshops in wellness strip away the stresses of everyday life so you can learn new disciplines, refocus on a balanced life, and reclaim your strength of spirit.</p>
+                    
+                    <div style="background-color:#fafafa; -webkit-border-radius: 4px; -moz-border-radius: 4px; border-radius: 4px; border-color:#f1f1f1; border-width: 2px; border-style:solid; padding:20px 0px 254px 22px; margin:5px 25px 0px 25px; height:415px;">
+                    
+                    <a class="fancy frame-left" rel="wellness-overview" href="/images/site/hana-spa-large.jpg" title="Outdoor shower at The Spa at Travaasa Hana">
+                    	<img src="/images/site/hana-spa-small-mag.jpg" alt="The Spa at Travaasa Hana" /></a>
+                    <h2>The Spa at Travaasa Hana</h2>
+                    <p>A sanctuary within the peace and tranquility of Heavenly Hana, the Spa at Travaasa Hana gracefully utilizes the bounty of Maui with treatments inspired by the island’s nature.
+                    <a class="pink-link" href="/hana/hana-the-spa-at-travaasa-hana">Learn More &#10148;</a>
+                    </p>
+                    
+                    <hr style="clear:both; border-top-style:dotted; border-color:#fafafa; border-width:1px;">
+                    
+                    <a class="fancy frame-left" rel="wellness-overview" href="/images/site/austin-spa-large.jpg" title="The Spa at Travaasa Austin">
+                    	<img src="/images/site/austin-spa-small.jpg" alt="The Spa at Travaasa Austin"/></a>
+                    <h2>The Spa at Travaasa Austin</h2>
+                    <p>Taking inspiration from the unique nature of the Texas Hill Country, the Spa at Travaasa Austin goes beyond just pampering and indulgence. Our staff has a keen awareness of how plants and essential oils can heal and revitalize. Open to both overnight and day spa guests. <a class="pink-link" href="/austin/travaasa-spa-overview">Learn More &#10148;</a>
+                    </p>
+                    
+                    <hr style="clear:both; border-top-style:dotted; border-color:#fafafa; border-width:1px;">
+                    
+                    <a class="fancy frame-left" rel="wellness-overview" href="/images/site/guided-meditation-large.jpg" title="Meditating on the grounds of Travaasa Hana">
+                    	<img src="/images/site/guided-meditation-small.jpg" alt="Guided Meditation & Breath Work" /></a>
+                    <h2>Guided Meditation & Breath Works</h2>
+                    <p>From the pounding surf of the wild Hana coastline of Maui to the tranquil sanctuary of the Texas Hill Country, you may never burn calories in a more beautiful place.
+                    <br />
+                    &#8226;&nbsp;&nbsp;<a class="pink-link" href="/austin/meditation">Meditation at Travaasa Austin</a> <a class="pink-link" href="/hana/hana-guided-meditation">and Travaasa Hana</a><br />
+                    &#8226;&nbsp;&nbsp;<a class="pink-link" href="/austin/breath-work">Breath Work at Travaasa Austin</a><br />
+                    </p>
+                    
+                    <hr style="clear:both; border-top-style:dotted; border-color:#fafafa; border-width:1px;">
+                    
+                    <a class="fancy frame-left" rel="wellness-overview" href="/images/site/inner-reflection-large.jpg" title="Reflecting by nature at Travaasa Austin">
+                    	<img src="/images/site/inner-reflection-small.jpg" alt="Inner Reflection" /></a>
+                    <h2>Inner Reflection</h2>
+                    <p>Sometimes the quiet solitude of painting or journaling in a beautiful location is all you need to reclaim a sense of balance. These sessions are uniquely designed to foster inner reflection on life.
+                    <br />
+                    &#8226;&nbsp;&nbsp;<a class="pink-link" href="/austin/journaling">Journaling at Travaasa Austin</a><br />
+                    &#8226;&nbsp;&nbsp;<a class="pink-link" href="/austin/sketch-draw">Sketch & Draw at Travaasa Austin</a><br />
+                    &#8226;&nbsp;&nbsp;<a class="pink-link" href="/austin/vision-boarding">Vision Boarding at Travaasa Austin</a>
+                    </p>
+                    
+                    </div>
+                                                                                                                                             
+                    ]]>
+					</copy>
+					<thumbImg>images/site/hana-spa-wellness-t.jpg</thumbImg>
+					<thumbCaption><![CDATA[Spa & Wellness Overview]]></thumbCaption>
+					<mainImg>images/site/hana-spa-wellness.jpg</mainImg>
+					<imageCaption>A wellness toolkit awaits you.</imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				<page section="6" secondaryNav="true" id="60" position="1"  sitemapId="2.6" sitemapTitle="CALENDAR OF MONTHLY FOCUSES">
+					<title><![CDATA[Calendar of Monthly Focuses]]></title>
+					<meta>
+						<slug>calendar</slug>
+						<pageTitle><![CDATA[Travaasa Calendar of Monthly Focuses | Travaasa | Maui & Austin]]></pageTitle>
+						<description><![CDATA[A monthly themed calendar of activies, experiences and classes at Travaasa Austin and Hana]]></description>
+						<keywords><![CDATA[Travaasa, Hana, Maui, Hawaii, Austin, Texas, boutique spa resort, classes, calendar]]></keywords>
+					</meta>
+					<h1><![CDATA[Calendar of Monthly Focuses]]></h1>
+					<copy>
+                    <![CDATA[
+                    
+                   <p>Travaasa Experiential Resorts' monthly calendar of experiences, classes and special events.</p>
+                   
+                   <div style="background-color:#FFFFFF; border-color:#F1F1F1; -webkit-border-radius: 4px; -moz-border-radius: 4px; border-radius: 4px; border-width: 2px; border-style:solid; padding:20px 0px 20px 25px; margin:20px 25px 10px 25px; height:195px;">
+						
+				   <a class="fancyajax frame-left" href="/lightbox/harvest-month.html">
+						<img src="/images/site/oct-harvest-blue.png" height="184" alt="October is Harvest Month" /></a>	
+
+                   <a class="fancyajax frame-left" href="/lightbox/nov-2012.html">
+						<img src="/images/site/nov-stop-gray.png" height="184" alt="November is Stop Month" /></a>
+						
+				   <a class="fancy frame-left" href="/images/site/coming-soon.png">
+						<img src="/images/site/dec-joy-gray.png" height="184" alt="December is Joy Month" /></a>
+						
+				   </div>
+				   <p style="margin: 0 0 0 0; padding: 0 0 0 0;">&nbsp;</p>	
+                                                                                                    
+                    ]]>
+					</copy>
+					<thumbImg>images/site/hana-spa-wellness-t.jpg</thumbImg>
+					<thumbCaption><![CDATA[Monthly Focuses]]></thumbCaption>
+					<mainImg>images/site/hana-spa-wellness.jpg</mainImg>
+					<imageCaption></imageCaption>
+					<Storybook></Storybook>
+						<pdf_downloads>
+							<pdf>
+								<title></title>
+								<url></url>
+							</pdf>
+						</pdf_downloads>
+				</page>
+				</secondaryPages>
+		</experiences>
+	</pages>

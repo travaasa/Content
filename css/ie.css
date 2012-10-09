@@ -1,0 +1,12 @@
+html{height:auto !important; overflow: auto !important;}
+
+
+
+
+ul.pg_paging li.pg_prev, ul.pg_paging li.pg_next{text-indent:0;}
+#footer_social {
+    width: 252px;
+}
+#footer_copyright{
+    width: 420px;
+}

@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone='yes' ?>
+	<pages>	
+		<backgroundImages>
+				<image>
+					<src>images/site/backgrounds/hana-background-2.jpg</src>
+					<caption><![CDATA[<p>Something happens when you meditate outside by the ocean.</p>]]></caption>
+				</image>
+				<image>
+					<src>images/site/backgrounds/hana-background-4.jpg</src>
+					<caption><![CDATA[<p>Sunrise Yoga with stunning ocean views and warm breezes.</p>]]></caption>
+				</image>
+
+		</backgroundImages>
+		<privatesale>
+			<secondaryPages>
+				<page section="0" parentId="0" secondaryNav="true" id="0" position="1"  sitemapId="3.0" sitemapTitle="PRIVATE SALE">
+					<title>Private Sale Access</title>
+					<meta>
+						<slug>privatesale</slug>
+						<pageTitle>Private Sale</pageTitle>
+						<description>Travaasa Destinations Private Voucher Sale Access</description>
+						<keywords>travaasa, hana, hawaii, maui, austin, hotel, resort, spa</keywords>
+					</meta>
+					<h1><![CDATA[Welcome to Travaasa's Private Sale Access]]></h1>
+					<copy><![CDATA[
+					
+					<div style="background-color:#fafafa; -webkit-border-radius: 4px; -moz-border-radius: 4px; border-radius: 4px; border-color:#f1f1f1; border-width: 2px; border-style:solid; padding:20px 0px 15px 22px; margin:10px 25px 0px 25px; height:265px;">
+					<a class="frame-left" href='/hana/' target='blank'><img src='/images/site/explore-travaasa1.jpg' /></a>
+					<a class="frame-left" href='http://book.travaasa.com/?utm_source=privatesale-landing-page&utm_medium=paid-search&utm_campaign=privatesale' target='blank'><img src='/images/site/visit-sale1.jpg' /></a>
+					
+					</div>
+					
+					<br />
+					<p style="clear:both;">Travaasa Hana is a destination resort unlike anywhere else in the world. Gracious in every sense of the word, from our staff to accommodations, dining, experiences, scenery and much more. We invite you to discover it for yourself.</p>
+					<br />
+					]]></copy>
+					<thumbImg>images/site/natural-beauty-crisman-t.jpg</thumbImg>
+					<thumbCaption>Travaasa Private Sale</thumbCaption>
+					<mainImg>images/site/hana-journey.jpg</mainImg>
+					<imageCaption></imageCaption>
+					<Storybook></Storybook>
+					<pdf_downloads>
+						<pdf>
+							<title>Travaasa Hana Brochure</title>
+							<url>/pdf/Travaasa-Hana-Brochure.pdf</url>
+						</pdf>
+					</pdf_downloads>
+				</page>				
+			</secondaryPages>
+		</privatesale>
+	</pages>
