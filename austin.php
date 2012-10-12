@@ -22,6 +22,7 @@
   }
 ?>
 <?php
+
   $count = 0;
   $html = "";
   foreach ($xml->austin->secondaryPages->page as $section) {
@@ -82,6 +83,7 @@
 
       if (($_GET['page'] && $page->meta->slug == $page_slug) || (!$_GET['page'] && $page[id] == $pageId)) {
           $imgSrc = $page->mainImg;
+          $main_imgs = $page->slideshow;
           $imageCaption = $page->imageCaption;
           $header = $page->h1;
           $copy = $page->copy;
@@ -258,15 +260,19 @@
                     </div><!-- #secondary_nav -->
                     <div id="main_content_frame">
                         <div id="main_image">
-
-
-
-                            <img src="/<?php echo $imgSrc; ?>" />
-<?php if ($imageCaption != ""): ?>
+                          <?php 
+                                print "<img class='mainimg' src='$imgSrc' style='display: none' />"; 
+                                print '<ul>';
+                                foreach($main_imgs->slide as $img){
+                                    print "<li><img src='$img' /></li>";
+                                }
+                                print "</ul>";
+                          ?>
+                          <?php if ($imageCaption != ""): ?>
                                   <div id="main_image_caption">
                                       <p><?php echo $imageCaption; ?></p>
                                   </div>
-  <?php else: ?>
+                          <?php else: ?>
                                   <div id="main_image_caption" style="display:none">
                                       <p></p>
                                   </div>
@@ -326,6 +332,17 @@
                                       $([<?php //echo $thumbNailArray ?>]).preload();
   <? endif ?>
                             });
+        </script>
+        <script type="text/javascript" src="/js/jquery.cycle.all.js"></script>
+        <script type="text/javascript">
+              $('#main_image ul')
+              .after("<div id='main_img_slideshow_nav'>")
+              .cycle({
+                pager: '#main_img_slideshow_nav'
+              });
+              $('#main_img_slideshow_nav').click(function(){
+                $('#main_img_slideshow').cycle('pause');
+              });
         </script>
     </body>
 </html>

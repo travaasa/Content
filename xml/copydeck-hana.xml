@@ -77,6 +77,11 @@
                 <thumbImg></thumbImg>
                 <thumbCaption></thumbCaption>
                 <mainImg>images/site/hana-main.jpg</mainImg>
+                <slides>
+                    <slide>images/site/hana-main.jpg</slide>
+                    <slide>images/site/austin-landing-view-729.jpg</slide>
+                    <slide>images/site/austin-landing-view-729.jpg</slide>
+                </slides>
                 <imageCaption></imageCaption>
                 <Storybook></Storybook>
                 <pdf_downloads>

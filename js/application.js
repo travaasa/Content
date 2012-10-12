@@ -112,13 +112,15 @@ function adjust_imageSlider(pagePosition){
 	
 }
 
-function create_pageContent(html, fromAjax, pagePosition){
+function create_pageContent(html, fromAjax, pagePosition, page_id){
+        
 //	$(".main_content_content h1").fadeOut().empty().append(html[0]).fadeIn();
 	
 	var downloadsHtml = "";
 	var copy = '<h1>'+html[0]+'</h1>'+html[1]; //combine the h1 and the rest of the page content.
  	$(".main_content_content").empty().append(copy);
-	$("#main_image img").attr("src", html[2]).hide();
+	$("#main_image img.mainimg").attr("src", html[2]).hide();
+        $("#main_image ul").hide();
 	if (html[3] == ""){
 		$("#main_image_caption").hide();
 		$("#main_image_caption p").empty();
@@ -147,9 +149,33 @@ function create_pageContent(html, fromAjax, pagePosition){
 			} // html[4][0][0]
 		}// html[4][0]
 	}//html[4]
-	$("#main_image img").imagesLoaded(function(){	$(this).show(); });
-		
-			$('#main_content_frame, ul.gallery, #slideshow, #slideshow li a img, #slideshow li a, .pdf_downloads_html_wrapper, #main_image img, #main_image_caption, ul.pg_paging li').fadeIn(1100);
+//	$("#main_image img").imagesLoaded(function(){	$(this).show(); });
+    console.log(html[6]);
+			if(page_id==0 && html[6].length>0){
+                            $('#main_content_frame, ul.gallery, #slideshow, #slideshow li a img, #slideshow li a, .pdf_downloads_html_wrapper, #main_image_caption, ul.pg_paging li').fadeIn(1100);
+                            $('#main_image img.mainimg').hide();
+                            var slideshow = '<ul>';
+                            $.each(html[6], function(e, l){
+                              slideshow+="<li><img src='"+l+"' /></li>";
+                            });
+                            slideshow+="</ul>";
+                            $('#main_image').html(slideshow);
+                            $('#main_image ul')
+                                .after("<div id='main_img_slideshow_nav'>")
+                                .cycle({
+                                    pager: '#main_img_slideshow_nav'
+                                });
+                            $('#main_img_slideshow_nav a').click(function(){
+                              $('#main_img_slideshow').cycle('pause');
+                            });
+                        }
+                        else {
+                            $('#main_image ul').hide();
+                            $('#main_img_slideshow_nav').hide();
+                            $('#main_content_frame, ul.gallery, #slideshow, #slideshow li a img, #slideshow li a, .pdf_downloads_html_wrapper, #main_image img.mainimg, #main_image_caption, ul.pg_paging li').fadeIn(1100);
+                            $('#main_image').html('');
+                            $('#main_image').html("<img src='"+html[2]+"' />");
+                        }
 			$('a.fancy').fancybox(); 
 	
 	document.title = html[5];
@@ -247,6 +273,7 @@ function get_idFromSlug(page_name, file_name, pageContent){
 	});
 	$(pageContent.responseXML).find('page').each(function(){
 		if (file_name != "hana"){
+                    $(pageContent.responseXML).find('slug');
 			if ($(this).attr('section') == sec_nav_id && $(this).attr('secondaryNav') == "true"){
 			sec_nav_selected_id = $(this).attr("id");
 			} 
@@ -256,7 +283,7 @@ function get_idFromSlug(page_name, file_name, pageContent){
 			}
 		}
 		page_info = [page_id, page_pos, sec_nav_selected_id];
-		
+                
 	});
 	if (file_name == "hana"){
 		show_correct_secondary_nav(primarySection);
@@ -266,7 +293,6 @@ function get_idFromSlug(page_name, file_name, pageContent){
 
 
 function get_pageContent(id, pageName, pageContent){
-	//console.log(id);
 	var content = new Array();
 	var pageTitle = "";
 	var header = "";
@@ -277,6 +303,7 @@ function get_pageContent(id, pageName, pageContent){
 	var pdfDownloadCount = 0;
 	var pdfDownloadData = new Array();
 	var count = 0;
+        var slides = [];
 	
 	// Since we were able to consolidate the copydeck into 1 xml file per section, this was rewritten so we don't have to keep making a call.
 	// var pageContent = $.ajax({
@@ -290,6 +317,7 @@ function get_pageContent(id, pageName, pageContent){
 		header = $(this).find("h1").text();
 		copy = $(this).find("copy").text();
 		mainImage = "/" + $(this).find("mainImg").text();
+                
 		imageCaption = $(this).find("imageCaption").text();
 		$(this).find("pdf").each(function(x){
 			pdfDownloadData = new Array();
@@ -303,12 +331,13 @@ function get_pageContent(id, pageName, pageContent){
 			
 			
 		});
-		
+                $(this).find('slide').each(function(e){
+                        slides[e] = $(this).text();
+                });
 	});
-
 	
 	//console.log(pdfDownload);
-	content = [header, copy, mainImage, imageCaption, pdfDownload, pageTitle];
+	content = [header, copy, mainImage, imageCaption, pdfDownload, pageTitle, slides];
 	return content;
 }
 
@@ -447,6 +476,7 @@ function get_thumbNails(id, pageName, galleryThumbs){
 function get_xml_data(file_name){
 	//copy decks are named:
 	//copydeck-experiences.xml and copydeck-austin.xml
+        
 	if (!data_xml){
 		data_xml = $.ajax({
 			url: '/xml/copydeck-'+file_name+'.xml',
@@ -602,7 +632,6 @@ function instantiate_thumbnail_ajax_pages(){
 			data_feed = get_xml_data("austin");
 			pageInfo = get_idFromSlug(page_slug, "austin", data_feed);
 			pageId = pageInfo[0];
-		
 		}
 		if(experiences && firstRunSlider){
 			thumbNailsHtml = get_thumbNails(pageId, 'experiences', data_feed);
@@ -798,7 +827,7 @@ function listen_change_event_for_address(event, fromAjax, hanaPage){
             clearInterval(wait);
             $("#slideshow_frame2").empty();
 			
-			create_pageContent(pageContent, "from_address", pageInfo[1]);
+			create_pageContent(pageContent, "from_address", pageInfo[1], page_id);
 			
 			create_thumbNails(thumbNailsHtml, pageInfo[1], fromAjax);
         }
@@ -1069,3 +1098,13 @@ $.fn.imagesLoaded = function(callback){
 
   return this;
 };
+//function showHideBanner(id){
+//    if(id==0){
+//        $('.mainimg').fadeOut();
+//        $('#main_img_slideshow').fadeIn();
+//    }
+//    else {
+//        $('.mainimg').fadeIn();
+//        $('#main_img_slideshow').fadeOut();   
+//    }
+//}
