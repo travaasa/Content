@@ -77,9 +77,10 @@
                 <thumbCaption></thumbCaption>
                 <mainImg>images/site/hana-main.jpg</mainImg>
                 <slides>
-                    <slide>images/site/hana-main.jpg</slide>
-                    <slide>images/site/austin-landing-view-729.jpg</slide>
-                    <slide>images/site/austin-landing-view-729.jpg</slide>
+                    <slide>images/hana-promo-729-aerial.jpg</slide>
+                    <slide>images/hana-promo-729-fly-to-hana.jpg</slide>
+                    <slide url='http://reddit.com'>images/hana-promo-729-hamoa-beach.jpg</slide>
+                    <slide url='http://google.com'>images/hana-promo-729-protected-east-coast.jpg</slide>
                 </slides>
                 <imageCaption></imageCaption>
                 <Storybook></Storybook>

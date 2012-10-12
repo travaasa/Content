@@ -150,13 +150,18 @@ function create_pageContent(html, fromAjax, pagePosition, page_id){
 		}// html[4][0]
 	}//html[4]
 //	$("#main_image img").imagesLoaded(function(){	$(this).show(); });
-    console.log(html[6]);
 			if(page_id==0 && html[6].length>0){
                             $('#main_content_frame, ul.gallery, #slideshow, #slideshow li a img, #slideshow li a, .pdf_downloads_html_wrapper, #main_image_caption, ul.pg_paging li').fadeIn(1100);
                             $('#main_image img.mainimg').hide();
                             var slideshow = '<ul>';
                             $.each(html[6], function(e, l){
-                              slideshow+="<li><img src='"+l+"' /></li>";
+
+                            var url ='';
+                            if(html[7][e]!=undefined){
+                                slideshow+="<a href='"+html[7][e]+"'><li><img src='"+l+"' /></li></a>";
+                            }
+                            else
+                                slideshow+="<li><img src='"+l+"' /></li>";
                             });
                             slideshow+="</ul>";
                             $('#main_image').html(slideshow);
@@ -304,7 +309,7 @@ function get_pageContent(id, pageName, pageContent){
 	var pdfDownloadData = new Array();
 	var count = 0;
         var slides = [];
-	
+	var urls = [];
 	// Since we were able to consolidate the copydeck into 1 xml file per section, this was rewritten so we don't have to keep making a call.
 	// var pageContent = $.ajax({
 	// 	url: '/xml/copydeck-'+pageName+'.xml',
@@ -333,11 +338,13 @@ function get_pageContent(id, pageName, pageContent){
 		});
                 $(this).find('slide').each(function(e){
                         slides[e] = $(this).text();
+                        urls[e] = $(this).attr('url');
                 });
+                
 	});
 	
 	//console.log(pdfDownload);
-	content = [header, copy, mainImage, imageCaption, pdfDownload, pageTitle, slides];
+	content = [header, copy, mainImage, imageCaption, pdfDownload, pageTitle, slides, urls];
 	return content;
 }
 
