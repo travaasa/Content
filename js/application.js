@@ -158,7 +158,11 @@ function create_pageContent(html, fromAjax, pagePosition, page_id){
 
                             var url ='';
                             if(html[7][e]!=undefined){
-                                slideshow+="<a href='"+html[7][e]+"'><li><img src='"+l+"' /></li></a>";
+                                var fancy = '';
+                                //console.log(html[8]);
+                                if(html[8][e]!=undefined)
+                                  fancy = " class='fancyajax' ";
+                                slideshow+="<a "+fancy+"href='"+html[7][e]+"'><li><img src='"+l+"' /></li></a>";
                             }
                             else
                                 slideshow+="<li><img src='"+l+"' /></li>";
@@ -310,6 +314,7 @@ function get_pageContent(id, pageName, pageContent){
 	var count = 0;
         var slides = [];
 	var urls = [];
+        var is_fancy = [];
 	// Since we were able to consolidate the copydeck into 1 xml file per section, this was rewritten so we don't have to keep making a call.
 	// var pageContent = $.ajax({
 	// 	url: '/xml/copydeck-'+pageName+'.xml',
@@ -339,12 +344,13 @@ function get_pageContent(id, pageName, pageContent){
                 $(this).find('slide').each(function(e){
                         slides[e] = $(this).text();
                         urls[e] = $(this).attr('url');
+                        is_fancy[e] = $(this).attr('fancybox');
                 });
                 
 	});
 	
 	//console.log(pdfDownload);
-	content = [header, copy, mainImage, imageCaption, pdfDownload, pageTitle, slides, urls];
+	content = [header, copy, mainImage, imageCaption, pdfDownload, pageTitle, slides, urls, is_fancy];
 	return content;
 }
 
