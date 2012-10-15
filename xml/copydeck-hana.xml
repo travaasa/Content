@@ -105,29 +105,41 @@
 			                <p><a href='/lightbox/fly-to-hana.html' class='fancyajax'><img src="/images/site/hana-by-air-611r.jpg" width="611" /></a></p>
 			                </div>
             				
-            				<div style="background-color:#fafafa; -webkit-border-radius: 4px; -moz-border-radius: 4px; border-radius: 4px; border-color:#f1f1f1; border-width: 2px; border-style:solid; padding:20px 0px 254px 22px; margin:5px 25px 0px 25px; height:879px;">
+            				<div style="background-color:#fafafa; -webkit-border-radius: 4px; -moz-border-radius: 4px; border-radius: 4px; border-color:#f1f1f1; border-width: 2px; border-style:solid; padding:20px 0px 254px 22px; margin:5px 25px 0px 25px; height:999px;">
             				
             				<p class="rates-table-description-box" style="clear:both; margin:0px 23px 12px 0px">Grounds</p>
             				
             				<a class="fancy frame-left" rel="hana-photo-gallery" href="/images/site/1433-hana-aerial.jpg" title="Aerial View of Travaasa Hana">
             					<img src="/images/site/100-hana-aerial.jpg" height="100" alt="Aerial View of Travaasa Hana" /></a>
             				
-            				<a class="fancy frame-left" rel="hana-photo-gallery" href="/images/site/1433-hana-pool.jpg" title="Sea Ranch Cottages Swimming Pool">
-            					<img src="/images/site/100-hana-pool.jpg" height="100" alt="Sea Ranch Cottages Swimming Pool" /></a>
-            				
+            				<a class="fancy frame-left" rel="hana-photo-gallery" href="/images/site/1433-hana-aerial-2.jpg" title="Aerial View of Travaasa Hana">
+            					<img src="/images/site/100-hana-aerial-2.jpg" height="100" alt="Aerial View of Travaasa Hana" /></a>
+            					
+            				<a class="fancy frame-left" rel="hana-photo-gallery" href="/images/site/1433-hana-aerial-3.jpg" title="Aerial View of Travaasa Hana">
+            					<img src="/images/site/100-hana-aerial-3.jpg" height="100" alt="Aerial View of Travaasa Hana" /></a>
+            					
+            				<a class="fancy frame-left" rel="hana-photo-gallery" href="/images/site/1433-red-truck.jpg" title="Arriving at Travaasa">
+            					<img src="/images/site/100-red-truck.jpg" height="100" alt="Arriving at Travaasa" /></a>
+            					
             				<a class="fancy frame-left" rel="hana-photo-gallery" href="/images/site/1433-hana-coast-view.jpg" title="Travaasa Hana, Maui">
             					<img src="/images/site/100-hana-coast-view.jpg" height="100" alt="Travaasa Hana, Maui" /></a>
+            					
+	
+            				<a class="fancy frame-left" rel="hana-photo-gallery" href="/images/site/1433-hot-tub-view.jpg" title="Sea Ranch Cottages">
+            					<img src="/images/site/100-hot-tub-view.jpg" height="100" alt="Sea Ranch Cottages" /></a>			
+            				
+            				<a class="fancy frame-left" rel="hana-photo-gallery" href="/images/site/1433-hana-pool.jpg" title="Sea Ranch Cottages Pool">
+            					<img src="/images/site/100-hana-pool.jpg" height="100" alt="Sea Ranch Cottages Swimming Pool" /></a>
+            					
+            				<a class="fancy frame-left" rel="hana-photo-gallery" href="/images/site/1433-hana-pool-couple.jpg" title="Sea Ranch Cottage Pool">
+            					<img src="/images/site/100-hana-pool-couple.jpg" height="100" alt="Sea Ranch Cottage Pool" /></a>
             				
             				<a class="fancy frame-left" rel="hana-photo-gallery" href="/images/site/1433-hamoa-beach.jpg" title="Hamoa Beach">
             					<img src="/images/site/100-hamoa-beach.jpg" height="100" alt="Hamoa Beach" /></a>
             					
             				<a class="fancy frame-left" rel="hana-photo-gallery" href="/images/site/1433-hamoa-beach2.jpg" title="Hamoa Beach">
             					<img src="/images/site/100-hamoa-beach2.jpg" height="100" alt="Hamoa Beach" /></a>	
-            				
-            				
-            				
-            				<a class="fancy frame-left" rel="hana-photo-gallery" href="/images/site/1433-hot-tub-view.jpg" title="Sea Ranch Cottages">
-            					<img src="/images/site/100-hot-tub-view.jpg" height="100" alt="Sea Ranch Cottages" /></a>
+
             				
             				<a class="fancy frame-left" rel="hana-photo-gallery" href="/images/site/1433-horses-coast-view.jpg" title="The Hana Coast">
             					<img src="/images/site/100-horses-coast-view.jpg" height="100" alt="The Hana Coast" /></a>
@@ -141,7 +153,9 @@
             				<a class="fancy frame-left" rel="hana-photo-gallery" href="/images/site/1433-garden-view-chairs.jpg" title="Garden View Lawn">
 			    				<img src="/images/site/100-garden-view-chairs.jpg" height="100" alt="Garden View Lawn" /></a>
 			    				
-			    			
+			    			<a class="fancy frame-left" rel="hana-photo-gallery" href="/images/site/1433-tree-meditating.jpg" title="Meditating under the Banyon Tree">
+            					<img src="/images/site/100-tree-meditating.jpg" height="100" alt="Meditating under the Banyon Tree" /></a>	
+
 			    			
 			    			<a class="fancy frame-left" rel="hana-photo-gallery" href="/images/site/1433-hana-dining-room.jpg" title="Ka'uiki Restaurant">
             					<img src="/images/site/100-hana-dining-room.jpg" height="100" alt="Ka'uiki Restaurant" /></a>
@@ -226,11 +240,8 @@
             					
             				<a class="fancy frame-left" rel="hana-photo-gallery" href="/images/site/1433-coastal-stretch.jpg" title="Coastal Stretch">
             					<img src="/images/site/100-coastal-stretch.jpg" height="100" alt="Coastal Stretch" /></a>
-            					
-            				
-            					
-            					
-            					
+ 
+ 
             				<p class="rates-table-description-box" style="clear:both; margin:0px 23px 12px 0px">The Spa at Travaasa</p>	
             				
             				<a class="fancy frame-left" rel="hana-photo-gallery" href="/images/site/1433-spa-shower.jpg" title="The Spa at Travaasa">
@@ -2509,7 +2520,15 @@
                 <p>The Hana Highway is a popular day trip for many visitors of Maui, but one of the biggest perks of being a Travaasa Hana guest is that you can truly savor the drive with no pressure to return to the other side of the isle by nightfall. In fact, many guests choose to drive here in the afternoon, when many drivers are heading in the opposite direction.</p>
                 
                 <p>Our vision at Travaasa has always been to uncover the magic of travel — the story of the journey. The road to the Travaasa Hana will give you stories to last a lifetime, even before your stay at our hotel.</p>
+                <div style="background-color:#fafafa; -webkit-border-radius: 4px; -moz-border-radius: 4px; border-radius: 4px; border-color:#f1f1f1; border-width: 2px; border-style:solid; padding:0px 20px 20px 20px; margin:5px 25px 0px 25px; clear:both;">
                 
+                <h1 style="padding-left: 0px !important;">News Coverage of Flight Service to Hana</h1>
+                
+                <iframe width="308" height="231" style="margin-right:20px; float:left;" src="http://www.youtube.com/embed/92E10e1j4qc?rel=0" frameborder="0" allowfullscreen></iframe>
+                <iframe width="308" height="231" src="http://www.youtube.com/embed/4Ji_bOK355A?rel=0" frameborder="0" allowfullscreen></iframe>
+                
+                </div>
+                <p>&nbsp;</p>
                 <div id="book-gift" style='float: left;'><a class="address_ajax" href="/hana/hana-rates-and-packages">Rates</a></div>
                 <div id="book-gift" style='float: left;'><a class="address_ajax" href="/hana/accommodations">Rooms</a></div>
                 <div id="book-gift" style='float: left;'><a class="address_ajax" href="https://gc.synxis.com/rez.aspx?Hotel=26987&Chain=10237&template=HNMHM&shell=HNMHM2&adult=2" target="_blank" onclick="_gaq.push(['_link', 'https://gc.synxis.com/rez.aspx?Hotel=26987&Chain=10237&template=HNMHM&shell=HNMHM2&adult=2']); return false;">Book Now</a></div>
@@ -2518,7 +2537,7 @@
                 ]]>
                 </copy>
                 <thumbImg>images/site/hana-journey-t.jpg</thumbImg>
-                <thumbCaption>The Journey</thumbCaption>
+                <thumbCaption>The Journey to Hana</thumbCaption>
                 <mainImg>images/site/hana-journey.jpg</mainImg>
                 <imageCaption></imageCaption>
                 <Storybook></Storybook>
