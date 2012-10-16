@@ -12,7 +12,14 @@ $xml = simplexml_load_file('xml/copydeck.xml');
 	<link rel="icon" 
 	      type="image/png" 
 	      href="/images/favicon.png" />
-	<title><?php echo $xml->index->meta->pageTitle; ?></title>
+	<title>
+    <?php 
+      if($xml->index->meta->pageTitle)  
+        echo $xml->index->meta->pagetitle;
+      else
+        echo "Travaasa - Real Travel for Real Experiences";
+    ?>
+  </title>
 
 	<meta name="keywords" content="<?php echo $xml->index->meta->keywords; ?>" />
 	<meta name="description" content="<?php echo $xml->index->meta->description; ?>" />

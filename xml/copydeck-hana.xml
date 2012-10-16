@@ -603,6 +603,12 @@
                 <thumbImg>images/site/hana-equine-t.jpg</thumbImg>
                 <thumbCaption>Equine</thumbCaption>
                 <mainImg>images/site/hana-equine.jpg</mainImg>
+                                <slides>
+                    <slide>images/hanapromos/hana-promo-729-aerial.jpg</slide>
+                    <slide>images/hanapromos/hana-promo-729-fly-to-hana.jpg</slide>
+                    <slide url='http://reddit.com'>images/hanapromos/hana-promo-729-hamoa-beach.jpg</slide>
+                    <slide url='/lightbox/fly-to-hana.html' fancybox="true">images/hanapromos/hana-promo-729-protected-east-coast.jpg</slide>
+                </slides>
                 <imageCaption></imageCaption>
                 <Storybook></Storybook>
                 <pdf_downloads>
