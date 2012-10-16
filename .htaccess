@@ -37,8 +37,8 @@ RewriteCond %{HTTP_HOST} ^184\.106\.113\.117
 RewriteRule (.*) http://www.travaasa.com/$1 [R=301,L]
 
 # Redirect all traffic from www.travaasa.com to just travaasa.com
-RewriteCond %{HTTP_HOST} !^www\.
-RewriteRule ^(.*)$ http://www.%{HTTP_HOST}/$1 [R=301,L]
+# RewriteCond %{HTTP_HOST} !^www\.
+# RewriteRule ^(.*)$ http://www.%{HTTP_HOST}/$1 [R=301,L]
 
 # 404 page
-# ErrorDocument 404 /404.php
+ ErrorDocument 404 /404.php
