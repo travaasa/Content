@@ -1130,3 +1130,7 @@ a.large-link:hover {
     padding: 0;
     margin: 0;   
 }
+#main_image li  {
+    list-style: none;
+    list-style-image: none;
+}
