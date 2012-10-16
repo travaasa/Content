@@ -14,10 +14,10 @@ $xml = simplexml_load_file('xml/copydeck.xml');
 	      href="/images/favicon.png" />
 	<title>
     <?php 
-      if($xml->index->meta->pageTitle)  
-        echo $xml->index->meta->pagetitle;
-      else
+      if($xml->index->meta->pageTitle=='') 
         echo "Travaasa - Real Travel for Real Experiences";
+      else
+        echo $xml->index->meta->pageTitle;
       ?>
   </title>
 
@@ -73,7 +73,6 @@ $xml = simplexml_load_file('xml/copydeck.xml');
 		<img width="1" height="1" style="border:0" src="HTTP://bs.serving-sys.com/BurstingPipe/ActivityServer.bs?CN=TT&amp;TID=4095&amp;AdvertiserID=52437&amp;TKV0=z&amp;ns=1"/>
 		</noscript>
 		<!-- end Retargeting Tag -->
-		
 		<div id="page_content">
 			<div class="content_wrapper">
 				<div id="header_frame">
