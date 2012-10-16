@@ -18,7 +18,7 @@ $xml = simplexml_load_file('xml/copydeck.xml');
         echo $xml->index->meta->pagetitle;
       else
         echo "Travaasa - Real Travel for Real Experiences";
-    ?>
+      ?>
   </title>
 
 	<meta name="keywords" content="<?php echo $xml->index->meta->keywords; ?>" />
@@ -102,7 +102,6 @@ $xml = simplexml_load_file('xml/copydeck.xml');
 						
 					</ul>
 				</div><!-- #main_nav -->
-        <h1>Hey Tanner</h1>
 				<div class="hide_content_button_container">
 					<a href="#" class="hide_content"><img src="/images/btn_hide_content.png" alt="X" /></a>
 				</div><!--hide_content_button_container-->
