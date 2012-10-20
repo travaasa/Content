@@ -292,7 +292,7 @@ foreach ($xml->hana->secondaryPages->page as $page) {
 						
 						
 					
-							<img src="/<?php echo $imgSrc; ?>" class="mainimg" />
+							<img src="/<?php echo $imgSrc; ?>" />
 							<?php if($imageCaption != ""):?>
 							<div id="main_image_caption">
 								<p><?php echo $imageCaption; ?></p>
@@ -348,7 +348,7 @@ foreach ($xml->hana->secondaryPages->page as $page) {
 
 		<?php include("php/footer_social.include.php"); ?>
         
-	<script type="text/javascript" src="/js/jquery.cycle.all.js"></script>
+	
 		<script type="text/javascript">
 			$(document).ready(function() {
 				<?php if(!$ipad):?>

@@ -8,16 +8,15 @@ $xml = simplexml_load_file('xml/copydeck.xml');
 
 <html>
 	<head profile="http://www.w3.org/2005/10/profile">
-	<link rel="icon" 
-	      type="image/png" 
-	      href="/images/favicon.png" />
-	<title>Travaasa - Real Travel for Real Experiences.</title>
 
-	<link rel="icon" 
-	      type="image/png" 
-	      href="/images/favicon.png" />
-	<title><?php echo $xml->index->meta->pageTitle; ?></title>
-
+	<title>
+    	<?php 
+      	if($xml->index->meta->pageTitle=='') 
+        	echo "Travaasa - Real Travel for Real Experiences";
+      	else
+        	echo $xml->index->meta->pageTitle;
+	?>
+	</title>
 	<meta name="keywords" content="<?php echo $xml->index->meta->keywords; ?>" />
 	<meta name="description" content="<?php echo $xml->index->meta->description; ?>" />
 	
